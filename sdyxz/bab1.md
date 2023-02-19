@@ -1,5 +1,7 @@
 # Insiden Ditengah Badai Salju
 
+<button class="w3-btn w3-black w3-hover-red" onclick="showBook('bab2.md')">Bab 2</button>
+
 Di masa itu, di dekat kota Lin'an, sebelah Timur wilayah Jin, dua orang pemuda
 yang bersahabat karib sedang minum arak sambil menikmati cerita rakyat di sebuah
 kedai, di pinggiran kota.
