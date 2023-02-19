@@ -1,4 +1,15 @@
-# Tujuh Orang Aneh Dari Selatan
+# Bab 2
+## Tujuh Orang Aneh Dari Selatan
+
+<div class="w3-center">
+  <div class="w3-bar w3-border w3-round">
+    <button type="button" class="w3-bar-item w3-btn w3-white w3-hover-red" onclick="showBook('bab1.md')">&#10094; Previous</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab4.md')">Bab 4</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab5.md')">Bab 5</button>
+    <button type="button" class="w3-button w3-right" onclick="showBook('bab3.md')">Next &#10095;</button>
+  </div>
+</div>
 
 Pada saat Yan Lie berjalan keluar, ia berpapasan dengan seorang pelajar setengah
 baya yang sedang berjalan masuk, menyeret kakinya sambil terus menguap. Ia seperti
