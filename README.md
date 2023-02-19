@@ -1,6 +1,5 @@
 # About
 
-This repository is a test 
+Use by [Memanah Rajawali in Netlify](https://memanah-rajawali.netlify.app)
 
-Updated from local repo
 
