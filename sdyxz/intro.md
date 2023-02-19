@@ -1,9 +1,13 @@
 # Prolog
 ## Sekilas Tentang Novel Asli
 
-<div class="w3-bar w3-white">
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab1.md')">Bab 1</button>
+<div class="w3-center">
+  <div class="w3-bar w3-border w3-round">
+    <button type="button" class="w3-button w3-disabled">&#10094; Previous</button>
+    <button type="button" class="w3-button w3-right" onclick="showBook('bab1.md')">Next &#10095;</button>
     <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab2.md')">Bab 2</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
+  </div>
 </div>
 
 She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
