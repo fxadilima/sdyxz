@@ -1892,6 +1892,16 @@ Bao Xiruo mengangguk. "Jangan terlalu banyak buang uang." katanya.
 "Sayangnya Fu Ren sedang berkabung, jadi tidak bisa pakai perhiasan. Kalaupun
 aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
 
+<div class="w3-center">
+  <div class="w3-bar w3-border w3-round">
+    <button type="button" class="w3-bar-item w3-btn w3-white w3-hover-red" onclick="showBook('intro.md')">&#10094; Previous</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab2.md')">Bab 2</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
+    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab4.md')">Bab 4</button>
+    <button type="button" class="w3-button w3-right" onclick="showBook('bab2.md')">Next &#10095;</button>
+  </div>
+</div>
+
 ***
 
 <dl>
@@ -1927,12 +1937,3 @@ aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
 
 [^daozhang]: Dào Zhang (道长, bisa juga ditulis Dào cháng) adalah panggilan umum untuk seorang pendeta Tao, terlepas dari jabatan yang dipegangnya dalam sebuah perguruan, organisasi, ataupun hirarki kepemimpinan Tao lainnya.
 
-<div class="w3-center">
-  <div class="w3-bar w3-border w3-round">
-    <button type="button" class="w3-bar-item w3-btn w3-white w3-hover-red" onclick="showBook('intro.md')">&#10094; Previous</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab2.md')">Bab 2</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab4.md')">Bab 4</button>
-    <button type="button" class="w3-button w3-right" onclick="showBook('bab2.md')">Next &#10095;</button>
-  </div>
-</div>

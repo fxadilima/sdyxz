@@ -1,6 +1,13 @@
 # Prolog
 ## Sekilas Tentang Novel Asli
 
+<div class="w3-bar w3-border w3-round">
+  <button type="button" class="w3-button w3-disabled">&#10094; Previous</button>
+  <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab2.md')">Bab 2</button>
+  <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
+  <button type="button" class="w3-button w3-right" onclick="showBook('bab1.md')">Next &#10095;</button>
+</div>
+
 She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
 **The Legend of The Condor Heroes**, adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
 pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di 
