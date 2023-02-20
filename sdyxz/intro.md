@@ -225,7 +225,9 @@ Selamat membaca!
   </dd>
   <dt id="cuplikan1" title="Cuplikan adegan penangkapan Ambaghai."><strong>Ambaghai Ditangkap</strong>
   <dd>
-    <a href="https://youtube.com/clip/UgkxK5DhZ9TpFtXCun2eeKuTqYv-PCRDK5oK" target="_blank"></a>
+    Adegan berikut diambil dari drama yang berjudul 
+    <a href="https://youtube.com/clip/UgkxK5DhZ9TpFtXCun2eeKuTqYv-PCRDK5oK" target="_blank">Genghis Khan</a>,
+    yang menceritakan perjalanan hidup Temujin dari awal hingga akhir.
   </dd>
   <dt id="taishang-huang"><strong>Taishang Huang</strong></dt>
   <dd>
