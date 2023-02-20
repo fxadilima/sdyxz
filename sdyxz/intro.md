@@ -1,6 +1,8 @@
 # Prolog
 ## Sekilas Tentang Novel Asli
 
+[Next &#10095;](bab1.md)
+
 She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
 **The Legend of The Condor Heroes**, adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
 pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di 

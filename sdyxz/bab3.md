@@ -4,6 +4,20 @@
 | :---: |  :---: | :---:   | :---: |
 | [:arrow_backward: Prev](bab2.md) | [:house:](intro.md) | [:five:](bab5.md) [:six:](bab6.md) [:seven:](bab7.md) | [Next :arrow_forward:](bab4.md) |
 
+<<<<<<< HEAD
+=======
+<!-- Jangan pakai ini dulu
+<div class="w3-container w3-center">
+  <a href="https://youtube.com/clip/Ugkx4Vuwk3GsE9ck1rxQP36iuO_MlPQgOP48" target="_blank">
+    <img src="images/ilustrasi-bab3.jpg" width="100%" alt="Ilustrasi Bab 3"/>
+  </a>
+  <div class="w3-container w3-center">
+    <p>Ilustrasi Video Bab 3</p>
+  </div>
+</div>
+-->
+
+>>>>>>> c15c09c776169ed5750cd472cc8b316d21d74113
 ## Kehidupan Padang Rumput
 
 Para biksu menangisi kematian Biksu Jiaomu, tetapi beberapa orang dari mereka 
