@@ -1,8 +1,8 @@
 # Bab 3
 
-|       |  Home |       | 
-| :---: | :---: | :---: |
-| [:arrow_backward: Prev](bab2.md) | [:house:](intro.md) | [Next :arrow_forward:](bab4.md) |
+|       | :house: | Bab 5 | Bab 6 |       |
+| :---: |  :---:  | :---: | :---: | :---: |
+| [:arrow_backward: Prev](bab2.md) | [Prolog](intro.md) | [:five:](bab5.md} | [:six:](bab6.md) | [Next :arrow_forward:](bab4.md) |
 
 
 ## Kehidupan Padang Rumput
