@@ -1,9 +1,11 @@
 # Prolog
 
-[Next &#10095;](bab1.md) Bab 1 
+[Next :arrow_forward:](bab1.md) Bab 1 
 
-Ke **Bab** :fast_forward:  [:two:](bab2.md) [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md)
+**Bab:** :fast_forward:  [:two:](bab2.md) [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md)
 [:seven:](bab7.md) [:eight:](bab8.md)
+
+***
 
 ## Sekilas Tentang Novel Asli
 
