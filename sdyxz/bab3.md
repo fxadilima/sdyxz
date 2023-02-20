@@ -1,8 +1,8 @@
 # Bab 3
 
-| Bab 2 | Prolog | Bab 5 | Bab 6 | Bab 4 |
-| :---: |  :---: | :---: | :---: | :---: |
-| [:arrow_backward: Prev](bab2.md) | [:house:](intro.md) | [:five:](bab5.md) | [:six:](bab6.md) | [Next :arrow_forward:](bab4.md) |
+| Bab 2 | Prolog | Bab Lainnya | Bab 4 |
+| :---: |  :---: | :---:   | :---: |
+| [:arrow_backward: Prev](bab2.md) | [:house:](intro.md) | [:five:](bab5.md) [:six:](bab6.md) [:seven:](bab7.md) | [Next :arrow_forward:](bab4.md) |
 
 
 ## Kehidupan Padang Rumput
