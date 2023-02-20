@@ -1,7 +1,7 @@
 # Memanah Burung Rajawali
 
-| Dokumen |   Status/Keterangan    |
-|  :---:  |   :---                 | 
+| Dokumen |   Status / Keterangan    |
+|  :---   |   :---:                  | 
 | [![Prolog](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg)](intro.md) | Prolog, lengkap |
 | [![Bab 1](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676662508/sdyxz/originals/ch01_qqa6or.jpg)](bab1.md) | Bab 1, lengkap |
 | [![Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676666031/sdyxz/originals/ch02_hrww24.jpg)](bab2.md) | Bab 2, lengkap |
