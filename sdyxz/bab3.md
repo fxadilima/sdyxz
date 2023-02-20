@@ -1,4 +1,10 @@
-# Kehidupan Padang Rumput
+# Bab 3
+
+|       |       |
+| :---: | :---: |
+| [:arrow_backward: Prev](bab2.md) | [Next :arrow_forward:](bab4.md) |
+
+## Kehidupan Padang Rumput
 
 <div class="w3-container w3-center">
   <a href="https://youtube.com/clip/Ugkx4Vuwk3GsE9ck1rxQP36iuO_MlPQgOP48" target="_blank">
