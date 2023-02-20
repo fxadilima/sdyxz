@@ -145,7 +145,7 @@ pemberontakan tersebut. Wulu pun melenggang ke tahta tanpa kesulitan berarti
 setelah kematiannya. Wulu naik tahta pada tahun 1161, kurang lebih setahun sebelum Kaisar
 Xiao Zong dari Song Selatan naik tahta, menggantikan Kaisar Gao Zong — ayah angkatnya — yang
 sengaja mengundurkan diri karena alasan politik yang berkaitan dengan Dinasti Jin, dan lebih
-memilih memerintah sebagai [Taishang Huang](#taishang-huang "Kaisar yang pensiun."), dengan
+memilih memerintah sebagai [Taishang Huang](#taishang-huang "Kaisar Tertinggi, atau 'Kaisar Di Atas Segala Kaisar'."), dengan
 Xiao Zong berfungsi sebagai _tameng_ bagi dirinya.
 
 Setelah naik tahta, Wulu sebagai Kaisar Shizong menurunkan gelar Wanyan Liang yang
@@ -236,13 +236,13 @@ Selamat membaca!
     Gelar ini berawal dari empat karakter Tai Shang Huang Di (太上皇帝, dibaca: Tài Shàng Huáng Dì), yang barangkali bisa kita 
     artikan sebagai 'Kaisar Tertinggi'. Karakter Tai (太) kira-kira bermakna sama dengan istilah 'Maha' dalam bahasa Indonesia, tetapi 
     kalau kita memakai istilah ini di depan 'Kaisar', maka akan sulit diterima dari sisi bahasa. Kecuali kalau 'Maharaja', yang 
-    sudah umum, tetapi istilah <em>Maharaja</em> itu sendiri justru mengacu kepada seorang Kaisar. Sedangkan karakter Shang (上) 
-    itu sendiri juga bermakna kurang lebih sama, kira-kira adalah 'Di atas', atau 'Yang Mengatasi'. Sedangkan Huang Di (皇帝) 
-    itu sendiri pertama kalinya dipakai oleh <strong>Ying Zheng</strong>, untuk gelarnya sebagai Kaisar Pertama, 
-    Qin Shi Huang Di. Ketika itu ia ingin menunjukkan bahwa dirinya adalah seorang 'Raja Di Atas Segala Raja'. Gelar 
-    Tai Shang Huang Di sendiri pertama kalinya diberikan oleh Liu Bang yang mendirikan Dinasti Han, setelah menumbangkan 
-    dinasti yang didirikan oleh Ying Zheng, untuk <em>ayahnya</em>, dengan maksud menjadikan beliau semacam 
-    'Kaisar Di Atas Segala Kaisar', mengingat Liu Bang sendiri saat itu justru adalah seorang kaisar baru. Dalam 
+    sudah umum, tetapi istilah <em>Maharaja</em> itu justru mengacu kepada seorang Kaisar. Sedangkan karakter Shang (上) 
+    juga bermakna kurang lebih sama, kira-kira adalah 'Di atas', atau 'Yang Mengatasi'. Sedangkan istilah Huang Di (皇帝) 
+    pertama kalinya dipakai oleh <strong>Ying Zheng</strong>, untuk gelarnya sebagai Kaisar Pertama, Qin Shi Huang Di. 
+    Ketika itu ia ingin menunjukkan bahwa dirinya adalah seorang 'Raja Di Atas Segala Raja'. Gelar 
+    Tai Shang Huang Di sendiri pertama kalinya diberikan oleh Liu Bang — yang mendirikan Dinasti Han setelah menumbangkan 
+    dinasti yang didirikan oleh Ying Zheng — untuk <em>ayahnya</em>, dengan maksud menjadikan beliau semacam 
+    'Kaisar Di Atas Segala Kaisar', mengingat Liu Bang sendiri saat itu <em>justru</em> adalah seorang kaisar baru. Dalam 
     perkembangan di kemudian hari, panggilan untuk kaisar ini akan bergeser menjadi Huang Shang (皇上), yang mengambil 
     karakter kedua dari gelar di atas.
   </dd>
