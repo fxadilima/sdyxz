@@ -1919,6 +1919,12 @@ aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
     </dd>
     <dt id="furen"><strong>Fu Ren</strong></dt>
     <dd>(夫人) dipakai untuk menyapa seorang majikan perempuan, atau seorang Nyonya.</dd>
+    <dt id="tombak-guo-xiaotian"><strong>Tombak Guo Xiaotian</strong></dt>
+    <dd>
+        <img src="images/small/halberd-1.jpg" alt="Tombak Guo Xiaotian" style="float:left;margin:5px;">
+        Ji (戟), adalah sebuah tombak dengan mata berupa pisau kembar. Yang digunakan oleh Guo Xiaotian adalah
+        tombak yang bergagang pendek, dan ia menggunakan sepasang senjata tersebut.
+    </dd>
 </dl>
 
 [^anekdot-senjata]: Narasi di atas diikuti oleh sebuah anekdot dari rakyat Song tentang senjata yang dipakai itu, tetapi saya tidak melihat bagaimana cara kelucuan tersebut bisa diterjemahkan dengan baik ke dalam bahasa Indonesia. Tetapi kesimpulan akhir dari anekdot tersebut cukup penting. Intinya adalah: Karena beratnya, sekali senjata tersebut menghujam ke bawah, yang bisa dipakai untuk menangkis hanyalah batok kepala kita sendiri. Artinya adalah _mati_.
