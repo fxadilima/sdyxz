@@ -159,8 +159,8 @@ demikian sebagian masyarakat Song Utara yang sebelumnya sempat tergerak oleh per
 yang dilakukan oleh Wanyang Liang menjadi kembali antipati kepada bangsa Jin.
 
 Sebagai penganut Taoisme, Kaisar Shizong pada tahun 1187 sempat mengundang
-salah seorang murid dari pendiri Perguruan Quanzhen, Wang Chongyang, yang bernama
-Wang Chuyi ke istana untuk berkotbah. Hal ini sempat menimbulkan pertanyaan
+salah seorang murid dari Wang Chongyang — pendiri Perguruan Quanzhen — yang bernama
+Wang Chuyi, datang ke istana untuk berkotbah. Hal ini sempat menimbulkan pertanyaan
 di hati sebagian orang dalam Perguruan Quanzhen sendiri. Menurut beberapa sumber sejarah,
 Pendeta Qiu Chuji juga diundang dalam acara tersebut. Meskipun demikian, baik dalam
 novel ini sendiri maupun dalam catatan sejarah, kita bisa melihat bahwa akhirnya
@@ -173,7 +173,8 @@ dengan gelar Kaisar Zhang Zong dari Jin.
 
 Pada saat itu para pendeta Tao dari aliran Quanzhen yang didirikan oleh Wang Chongyang
 sangat aktif dalam membela rakyat yang tertindas, khususnya yang diakibatkan oleh
-invasi bangsa Jin di wilayah Utara.
+invasi bangsa Jin di wilayah Utara. Dalam hal semacam ini, dua pendeta yang paling aktif
+adalah Qiu Chuji dan Wang Chuyi.
 
 ***
 
