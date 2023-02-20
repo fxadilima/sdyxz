@@ -1,8 +1,8 @@
 # Bab 1
 
-| Prolog | Bab Lainnya | Bab 2 |
-| :---: |  :---: | :---: |
-| [:arrow_backward: :house: Prev](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) | [Next :arrow_forward:](bab2.md) |
+| :house: | Bab Lain | Bab 2 |
+|  :---:  |  :---:   | :---: |
+| [:arrow_backward: Prolog](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) | [Next :arrow_forward:](bab2.md) |
 
 ## Insiden Ditengah Badai Salju
 
