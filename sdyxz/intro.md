@@ -10,23 +10,9 @@
 
 ## Sekilas Tentang Novel Asli
 
-<div>
-  <img src="https://res.cloudinary.com/drzjshskk/image/upload/c_thumb,w_200,g_face/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg"
-    alt="Cover Buku She Diao Ying Xiong Zhuan"
-    title="Sampul buku Memanah Rajawali, karya Louis Cha"
-    style="float:right;">
-  <p>
-  </p>
-</div>
-
-![Cover Buku She Diao Ying Xiong Zhuan](https://res.cloudinary.com/drzjshskk/image/upload/c_thumb,w_200,g_face/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg "Sampul buku Memanah Rajawali, karya Louis Cha")
-She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
-[The Legend of The Condor Heroes], adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
-pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di 
-surat kabar Hong Kong Commercial Daily. Cerita tersebut tentu saja ditulis dalam bahasa Mandarin.
-Ini adalah bagian pertama dalam [Trilogi Rajawali], yang secara keseluruhan berkaitan 
-sangat erat dengan perkembangan hubungan antara Tiongkok kuno dengan Mongol. Berawal dari menjelang 
-akhir era Dinasti Song, di mana yang berkuasa adalah Dinasti Song Selatan, dengan ibukotanya Lin'an.
+|       |       |
+| :---: | :---  |
+| ![Cover Buku She Diao Ying Xiong Zhuan](https://res.cloudinary.com/drzjshskk/image/upload/c_thumb,w_200,g_face/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg "Sampul buku Memanah Rajawali, karya Louis Cha") | She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah [The Legend of The Condor Heroes], adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di surat kabar Hong Kong Commercial Daily. Cerita tersebut tentu saja ditulis dalam bahasa Mandarin. Ini adalah bagian pertama dalam [Trilogi Rajawali], yang secara keseluruhan berkaitan sangat erat dengan perkembangan hubungan antara Tiongkok kuno dengan Mongol. Berawal dari menjelang akhir era Dinasti Song, di mana yang berkuasa adalah Dinasti Song Selatan, dengan ibukotanya Lin'an. |
 
 Pada saat itu wilayah padang rumput di bagian Utara Tiongkok terbagi menjadi beberapa konfederasi 
 dari suku-suku nomad seperti Naiman, Khamag Mongol, Merkit, Keraite, dan juga Tatar. Sedangkan 
