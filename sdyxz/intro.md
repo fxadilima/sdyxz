@@ -3,7 +3,7 @@
 [Next :arrow_forward:](bab1.md) Bab 1 
 
 **Bab:** :fast_forward:  [:two:](bab2.md) [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md)
-[:seven:](bab7.md) [:eight:](bab8.md)
+[:seven:](bab7.md) [:eight:](bab8.md) [:nine:](bab9.md) [:keycap_ten:](bab10.md)
 
 ***
 
