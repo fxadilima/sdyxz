@@ -4,10 +4,10 @@
 |  :---:  |   :---    | 
 | Prolog  | [![Prolog](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:120/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg)](intro.md) |
 | Bab 1   | [![Bab 1](https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg)](bab1.md) |
-| Bab 2   | https://res.cloudinary.com/drzjshskk/image/upload/v1676666031/sdyxz/originals/ch02_hrww24.jpg |
-| Bab 3   | https://res.cloudinary.com/drzjshskk/image/upload/e_hue:30/v1676668128/sdyxz/originals/loch-03_pk9ptl.jpg |
-| Bab 4   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg |
-| Bab 5   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg |
+| Bab 2   | [![Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/v1676666031/sdyxz/originals/ch02_hrww24.jpg)](bab2.md) |
+| Bab 3   | [![Bab 3](https://res.cloudinary.com/drzjshskk/image/upload/e_hue:30/v1676668128/sdyxz/originals/loch-03_pk9ptl.jpg)](bab3.md) |
+| Bab 4   | [![Bab 4](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg)(bab4.md) |
+| Bab 5   | [![Bab 5](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg)](bab5.md) |
 | Bab 6   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692655/sdyxz/originals/loch-06_hqtnmd.jpg |
 | Bab 7   | https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg |
 | Bab 8   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg |
@@ -43,23 +43,4 @@
 | Bab 38  | https://res.cloudinary.com/drzjshskk/image/upload/v1676693833/sdyxz/originals/loch-38_zagfqz.jpg |
 | Bab 39  | https://res.cloudinary.com/drzjshskk/image/upload/v1676693868/sdyxz/originals/loch-39_kcnow3.jpg |
 | Bab 40  | https://res.cloudinary.com/drzjshskk/image/upload/v1676693898/sdyxz/originals/loch-40_yikl7k.jpg |
-
-
-Semua gambar ilustrasi tersebut _bukan_ hasil kerja saya, tetapi didapat dari [situs terjemahan bahasa Inggris penggemar](),
-dan kelihatannya adalah hasil _scanning_ dari _hardcopy_ buku aslinya. Karena itu beberapa _image_ punya _hue_ yang barangkali
-kurang sesuai. Tetapi untungnya semua gambar tersebut berupa _sketch drawing_, jadi agak mudah diatur menjadi lebih baik.
-
-Umumnya properti _sharpen_ bisa kita gunakan sebagai HTML _shorthand_, yaitu setelah '/image/upload/', entah gunakan
-**e_hue:[suatu nilai]** atau **e_sharpen[suatu nilai]**, seperti contoh di atas.
-
-Untuk mengakses dari dalam JavaScript gunakan cara berikut.
-
-```javascript
-
-// Image untuk Bab 3
-cloudinary.imageTag('sdyxz/originals/loch-03_pk9ptl.jpg', {effect: "hue:30"}).toHtml();
-
-```
-
-
 
