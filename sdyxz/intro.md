@@ -228,7 +228,7 @@ Selamat membaca!
     <a href="https://en.wikipedia.org/wiki/Jilin" target="_blank">Jilin</a> dan 
     <a href="https://en.wikipedia.org/wiki/Heilongjiang" target="_blank">Heilongjiang</a> adalah daerah asal suku Jurchen.
   </dd>
-  <dt id="cuplikan1" title="Cuplikan adegan penangkapan Ambaghai."><strong>Ambaghai Ditangkap</strong>
+  <dt id="cuplikan1"><strong>Ambaghai Ditangkap</strong>
   <dd>
     Adegan berikut diambil dari drama yang berjudul 
     <a href="https://youtube.com/clip/UgkxK5DhZ9TpFtXCun2eeKuTqYv-PCRDK5oK" target="_blank">Genghis Khan</a>,
@@ -236,7 +236,8 @@ Selamat membaca!
   </dd>
   <dt id="taishang-huang"><strong>Taishang Huang</strong></dt>
   <dd>
-    Gelar ini berawal dari empat karakter Tai Shang Huang Di (太上皇帝, dibaca: Tài Shàng Huáng Dì), yang barangkali bisa kita artikan sebagai 'Kaisar Tertinggi'. Karakter Tai (太) kira-kira bermakna sama dengan istilah 'Maha' dalam bahasa Indonesia, tetapi 
+    Gelar ini berawal dari empat karakter Tai Shang Huang Di (太上皇帝, dibaca: Tài Shàng Huáng Dì), yang barangkali bisa kita 
+    artikan sebagai 'Kaisar Tertinggi'. Karakter Tai (太) kira-kira bermakna sama dengan istilah 'Maha' dalam bahasa Indonesia, tetapi 
     kalau kita memakai istilah ini di depan 'Kaisar', maka akan sulit diterima dari sisi bahasa. Kecuali kalau 'Maharaja', yang 
     sudah umum, tetapi istilah <em>Maharaja</em> itu sendiri justru mengacu kepada seorang Kaisar. Sedangkan karakter Shang (上) 
     itu sendiri juga bermakna kurang lebih sama, kira-kira adalah 'Di atas', atau 'Yang Mengatasi'. Sedangkan Huang Di (皇帝) 
