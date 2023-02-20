@@ -1919,11 +1919,10 @@ aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
     </dd>
     <dt id="furen"><strong>Fu Ren</strong></dt>
     <dd>(夫人) dipakai untuk menyapa seorang majikan perempuan, atau seorang Nyonya.</dd>
-    <dt id="tombak-guo-xiaotian"><strong>Tombak Guo Xiaotian</strong></dt>
+    <dt id="tombak-guo-xiaotian"><img src="images/small/halberd-1.jpg" alt="Tombak Guo Xiaotian"></dt>
     <dd>
         Ji (戟), adalah sebuah tombak dengan mata berupa pisau kembar. Yang digunakan oleh Guo Xiaotian adalah
         tombak yang bergagang pendek, dan ia menggunakan sepasang senjata tersebut.
-        <img src="images/small/halberd-1.jpg" alt="Tombak Guo Xiaotian">
     </dd>
 </dl>
 
