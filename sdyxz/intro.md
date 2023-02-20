@@ -83,43 +83,56 @@ pertikaian untuk membalas dendam atas tewasnya ayahnya, kepala suku dari Khamag 
 Yesugai, dan juga untuk merebut kembali istrinya dari tangan suku Merkit. Orang ini
 bernama Temujin.
 
-Sebelum Temujin dilahirkan, di tahun 1146, Hambussin Khan, atau Ambaghai dari suku Khamag Mongol,
-ditangkap oleh suku Tatar bersama dengan putra Khabul Khan, yaitu Todo'en Otchigin,
-ketika melamar putri dari kepala suku Tatar untuk dikawinkan dengan putranya Qadaan Taishi.
-Ambaghai adalah paman dari Yesugai, ayah kandung Temujin.
+Sebelum Temujin dilahirkan, di tahun 1146, Hambussin Khan[^ambaghai], atau Ambaghai dari 
+suku Khamag Mongol, ditangkap oleh suku Tatar bersama dengan putra Khabul Khan, yaitu 
+Todo'en Otchigin, ketika melamar putri dari kepala suku Tatar untuk dikawinkan dengan 
+putranya Qadaan Taishi. Sebenarnya kejadian tersebut adalah hasil rancangan Dinasti Jin,
+yang saat itu dipimpin oleh Wanyan Dan, atau lebih dikenal sebagai Kaisar Xizong, sebagai
+tanggapan atas perkembangan pesat suku-suku Mongol. Kejadian tersebut tentu saja diketahui
+oleh Temujin melalui cerita yang beredar di kalangan keluarganya, dan sebetulnya mempengaruhi 
+hampir semua orang Mongol. Ini membuat mereka selalu curiga kalau berhadapan dengan orang 
+dari Dinasti Jin, meskipun sebagai suku yang relatif kecil jika dibandingkan dengan Kekaisaran
+Jin saat itu, mereka tetap tidak berani bersikap sembarangan.
 
-[Ambaghai mengalami penyiksaan fisik](https://youtube.com/clip/UgkxK5DhZ9TpFtXCun2eeKuTqYv-PCRDK5oK "Cuplikan adegan Ambaghai ditangkap oleh suku Tatar") ketika ditangkap oleh suku Tatar. 
+Dari sisi _internal_ Kekaisaran Jin sendiri bukan tidak ada masalah. Tidak lama setelah peristiwa 
+itu, Kaisar Xizong sendiri digulingkan oleh sebuah kudeta yang dilakukan oleh Digunai, yang 
+kemudian lebih dikenal sebagai Wanyan Liang. Saat itu Digunai adalah seorang panglima militer 
+dari Kaisar Xizong.
 
-Sebenarnya kejadian tersebut adalah hasil rancangan para pemimpin Dinasti Jin yang saat
-itu dipimpin oleh Wanyan Dan, atau lebih dikenal sebagai Kaisar Xizong,
-menanggapi perkembangan pesat suku-suku Mongol. Kejadian tersebut membekas di hati Temujin,
-dan sebetulnya mempengaruhi hampir semua orang Mongol. Ini membuat mereka selalu curiga
-kalau berhadapan dengan orang dari Dinasti Jin.
-
-Tidak lama setelah peristiwa itu, Kaisar Xizong sendiri digulingkan oleh sebuah
-kudeta yang dilakukan oleh Digunai, yang kemudian lebih dikenal sebagai Wanyan Liang.
-Saat itu Digunai adalah seorang panglima militer dari Xizong.
-
-Segera setelah naik tahta, ia menyingkirkan semua pejabat penting yang dipandang
+Segera setelah naik tahta, Digunai menyingkirkan semua pejabat penting yang dipandang
 berbahaya karena setia kepada Kaisar Xizong, dan selalu curiga kepada semua orang
 yang cukup dekat dengan keluarga kaisar sebelumnya. Ini mempengaruhi stabilitas
 pemerintahan Dinasti Jin sendiri.
 
-Selain hal itu Wanyan Liang juga membuat sebuah kebijakan baru, yaitu mengadopsi
+Di samping itu, Wanyan Liang atau Digunai juga membuat sebuah kebijakan baru, yaitu mengadopsi
 sebagian besar kebudayaan Song, mulai dari nama orang, tulisan, kesenian, cara berpakaian,
 dan banyak elemen sosial lainnya. Semua upaya ini bertujuan untuk menjadikan dirinya
 seorang Kaisar baru dalam masyarakat Dinasti Song, pendahulunya, dan secara bertahap
-akan menggeser popularitas Dinasti Song Selatan yang saat itu masih bertahan.
+akan menggeser popularitas Dinasti Song Selatan yang saat itu masih bertahan. Suatu hal yang
+pasti adalah, _tidak semua orang Jurchen menyukai kebijakan ini_, tetapi mereka-mereka yang
+jeli akan melihat bahwa rakyat Song punya reaksi yang sangat bervariasi melihat diterapkannya
+kebijakan baru ini. Karena itu di dalam istana timbul dua kubu yang saling bertentangan, hal
+ini adalah sebuah benih perpecahan di dalam Kekaisaran Jin.
 
-Dalam upaya untuk menyatukan para suku Mongol, Temujin kemudian membangun aliansi
-dengan saudara angkatnya, yaitu Toghrul, atau yang lebih populer dengan sebutan
-Wang Khan atau Ong Khan, dari suku Keraite, yang turun-temurun adalah penganut
-agama Kristen. Mereka mulai segala upaya tersebut sejak tahun 1184.
+Sementara itu, dari pihak Mongol, dalam upaya untuk menyatukan para suku Mongol, Temujin 
+kemudian membangun aliansi dengan saudara angkatnya, yaitu Toghrul, atau yang lebih populer 
+dengan sebutan Wang Khan atau Ong Khan, dari suku Keraite, yang turun-temurun adalah penganut
+agama Kristen. Mereka mulai segala upaya tersebut sejak tahun 1184. Ong Khan adalah seorang 
+pemimpin besar yang sangat disegani saat itu, dan ia mengangkat Temujin, yang jauh lebih muda,
+menjadi anak angkatnya. Selama bertahun-tahun persekutuan ini cukup kuat, tetapi Temujin kemudian
+menyadari adanya _kesenjangan sosial_ yang sangat besar antara para pemimpin dan bangsawan Mongolia
+dengan rakyatnya, dan bahkan dengan para prajuritnya. Ia melihat bahwa cara hidup masyarakat Mongolia
+pada saat itu, secara tradisional, justru adalah penyebab timbulnya aneka macam masalah yang
+menghambat kemajuan masyarakat tersebut. Ia melihat sebuah _ketidakadilan sosial_ yang cukup
+parah diderita oleh sukunya. Di kemudian hari hal ini akan memicu terjadinya perpecahan antara
+Temujin dengan Ong Khan sendiri.
 
-Ketika itu bangsa Jin yang menginvasi wilayah Utara Kekaisaran Song menjadi semakin kuat,
-dan yang bertahta sebagai Kaisar Song Selatan adalah Xiao Zong, sedangkan yang 
-menjadi kaisar dalam Dinasti Jin adalah Wanyan Yong, atau Wulu, dengan gelar
-Kaisar Shizong dari Jin. Ia menjadi kaisar setelah Wanyan Liang, atau Digunai,
+Sementara itu, kalau melihat hubungan antara Dinasti Jin di Utara, dengan Dinasti Song Selatan,
+posisi keduanya secara politik sudah jelas. Dinasti Jin yang menginvasi wilayah Utara Kekaisaran 
+Song menjadi semakin kuat, sementara Song Selatan pada dasarnya terpaksa tunduk dan membayar upeti
+tahunan kepada Dinasti Jin. Ketika Temujin masih kecil yang bertahta sebagai Kaisar Song Selatan 
+adalah Xiao Zong, sedangkan yang  menjadi kaisar dalam Dinasti Jin adalah Wanyan Yong, 
+atau Wulu, dengan gelar Kaisar Shizong dari Jin. Ia menjadi kaisar setelah Wanyan Liang, atau Digunai,
 yang merebut tahta dari keluarganya, berusaha membunuhnya di tengah upaya untuk menginvasi
 wilayah Song Selatan dan menyatukannya dengan wilayah Utara yang mereka kuasai. 
 
@@ -127,7 +140,11 @@ Para prajurit dan pejabat yang tidak puas dengan kebijakan yang diterapkan oleh
 Wanyan Liang pada saat itu mendukung Wulu dan berusaha menyelamatkannya,
 dan akhirnya Wanyan Liang tewas dibunuh oleh Wanyan Mouyan yang ikut serta dalam
 pemberontakan tersebut. Wulu pun melenggang ke tahta tanpa kesulitan berarti
-setelah kematiannya. 
+setelah kematiannya. Wulu naik tahta pada tahun 1161, kurang lebih setahun sebelum Kaisar
+Xiao Zong dari Song Selatan naik tahta, menggantikan Kaisar Gao Zong — ayah angkatnya — yang
+sengaja mengundurkan diri karena alasan politik yang berkaitan dengan Dinasti Jin, dan lebih
+memilih memerintah sebagai [Taishang Huang](#taishang-huang "Kaisar yang pensiun."), dengan
+Xiao Zong berfungsi sebagai _tameng_ bagi dirinya.
 
 Setelah naik tahta, Wulu sebagai Kaisar Shizong menurunkan gelar Wanyan Liang yang
 sudah tewas menjadi Pangeran Yang dari Hailing. Ia secara otomatis juga bersikap oposisi[^kebijakan-Wanyan-Liang]
@@ -161,7 +178,7 @@ yang bisa dibaca dalam karya-karya penulis legendaris Indonesia seperti Kho Ping
 cenderung memakai dialek Hokkian.
 
 Beberapa istilah sudah terlanjur melekat di hati dan pikiran masyarakat Indonesia, baik mereka adalah
-pecinta cerita silat atau bukan, dan belum tentu seorang keturunan Tionghoa. Contoh nyata adalah 'Kaipang',
+pecinta cerita silat atau bukan, dan belum tentu seorang keturunan Tionghoa. Contoh nyata adalah 'Kai Pang',
 atau biasa diterjemahkan menjadi 'Partai Pengemis'. Istilah tersebut juga sering ditulis Kay Pang atau 
 Kai Pang, pendeknya cara penulisan ini sudah menjadi semacam tradisi, dan sulit digantikan. Karena 
 alasan ini saya tetap mempertahankan cara penulisan yang lama, dan sudah populer.
@@ -206,4 +223,25 @@ Selamat membaca!
     <a href="https://en.wikipedia.org/wiki/Jilin" target="_blank">Jilin</a> dan 
     <a href="https://en.wikipedia.org/wiki/Heilongjiang" target="_blank">Heilongjiang</a> adalah daerah asal suku Jurchen.
   </dd>
+  <dt id="cuplikan1" title="Cuplikan adegan penangkapan Ambaghai."><strong>Ambaghai Ditangkap</strong>
+  <dd>
+    <a href="https://youtube.com/clip/UgkxK5DhZ9TpFtXCun2eeKuTqYv-PCRDK5oK" target="_blank"></a>
+  </dd>
+  <dt id="taishang-huang"><strong>Taishang Huang</strong></dt>
+  <dd>
+    Gelar ini berawal dari empat karakter Tai Shang Huang Di (太上皇帝, dibaca: Tài Shàng Huáng Dì), yang barangkali bisa kita artikan sebagai 'Kaisar Tertinggi'. Karakter Tai (太) kira-kira bermakna sama dengan istilah 'Maha' dalam bahasa Indonesia, tetapi 
+    kalau kita memakai istilah ini di depan 'Kaisar', maka akan sulit diterima dari sisi bahasa. Kecuali kalau 'Maharaja', yang 
+    sudah umum, tetapi istilah <em>Maharaja</em> itu sendiri justru mengacu kepada seorang Kaisar. Sedangkan karakter Shang (上) 
+    itu sendiri juga bermakna kurang lebih sama, kira-kira adalah 'Di atas', atau 'Yang Mengatasi'. Sedangkan Huang Di (皇帝) 
+    itu sendiri pertama kalinya dipakai oleh <strong>Ying Zheng</strong>, untuk gelarnya sebagai Kaisar Pertama, 
+    Qin Shi Huang Di. Ketika itu ia ingin menunjukkan bahwa dirinya adalah seorang 'Raja Di Atas Segala Raja'. Gelar 
+    Tai Shang Huang Di sendiri pertama kalinya diberikan oleh Liu Bang yang mendirikan Dinasti Han, setelah menumbangkan 
+    dinasti yang didirikan oleh Ying Zheng, untuk <em>ayahnya</em>, dengan maksud menjadikan beliau semacam 
+    'Kaisar Di Atas Segala Kaisar', mengingat Liu Bang sendiri saat itu justru adalah seorang kaisar baru. Dalam 
+    perkembangan di kemudian hari, panggilan untuk kaisar ini akan bergeser menjadi Huang Shang (皇上), yang mengambil 
+    karakter kedua dari gelar di atas.
+  </dd>
 </dl>
+
+[^ambaghai]: Ambaghai adalah paman dari Yesugai, ayah kandung Temujin. Peristiwa penangkapan Ambaghai oleh suku Tatar dilukiskan oleh [cuplikan video](#cuplikan1) yang diambil dari drama mengenai kehidupan Temujin sendiri.
+
