@@ -1,6 +1,8 @@
 # Bab 1
 ## Insiden Ditengah Badai Salju
 
+|       |       |       |       |       |
+| :---: | :---: | :---: | :---: | :---: |
 | [&#10094; Previous](intro.md) | [Bab 2] (bab2.md) | [Bab 3](bab3.md) | [Bab 4](bab4.md) | [Next &#10095;](bab2.md) |
 
 Di masa itu, di dekat kota Lin'an, sebelah Timur wilayah Jin, dua orang pemuda
