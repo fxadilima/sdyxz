@@ -1,15 +1,10 @@
 # Bab 1
-## Insiden Ditengah Badai Salju
 
-<div class="w3-center">
-  <div class="w3-bar w3-border w3-round">
-    <button type="button" class="w3-bar-item w3-btn w3-white w3-hover-red" onclick="showBook('intro.md')">&#10094; Previous</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab2.md')">Bab 2</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab4.md')">Bab 4</button>
-    <button type="button" class="w3-button w3-right" onclick="showBook('bab2.md')">Next &#10095;</button>
-  </div>
-</div>
+| Prolog | Bab Lainnya | Bab 2 |
+| :---: |  :---: | :---:   | :---: |
+| [:arrow_backward: :house: Prev](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) | [Next :arrow_forward:](bab2.md) |
+
+## Insiden Ditengah Badai Salju
 
 Di masa itu, di dekat kota Lin'an, sebelah Timur wilayah Jin, dua orang pemuda
 yang bersahabat karib sedang minum arak sambil menikmati cerita rakyat di sebuah

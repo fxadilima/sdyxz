@@ -1,15 +1,10 @@
 # Bab 2
-## Tujuh Orang Aneh Dari Selatan
 
-<div class="w3-center">
-  <div class="w3-bar w3-border w3-round">
-    <button type="button" class="w3-bar-item w3-btn w3-white w3-hover-red" onclick="showBook('bab1.md')">&#10094; Previous</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab3.md')">Bab 3</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab4.md')">Bab 4</button>
-    <button class="w3-bar-item w3-btn w3-white w3-hover-red" type="button" onclick="showBook('bab5.md')">Bab 5</button>
-    <button type="button" class="w3-button w3-right" onclick="showBook('bab3.md')">Next &#10095;</button>
-  </div>
-</div>
+| Bab 1 | Prolog | Bab Lainnya | Bab 3 |
+| :---: |  :---: | :---:   | :---: |
+| [:arrow_backward: Prev](bab1.md) | [:house:](intro.md) | [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md) | [Next :arrow_forward:](bab3.md) |
+
+## Tujuh Orang Aneh Dari Jiangnan
 
 Pada saat Yan Lie berjalan keluar, ia berpapasan dengan seorang pelajar setengah
 baya yang sedang berjalan masuk, menyeret kakinya sambil terus menguap. Ia seperti
