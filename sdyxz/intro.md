@@ -22,13 +22,15 @@ She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam
 
 ### Latar Belakang Sejarah
 
-Pada saat itu wilayah padang rumput di bagian Utara Tiongkok terbagi menjadi beberapa konfederasi 
+Pada saat itu wilayah padang rumput di sebelah Utara Dinasti Song terbagi menjadi beberapa konfederasi 
 dari suku-suku nomad seperti Naiman, Khamag Mongol, Merkit, Keraite, dan juga Tatar. Sedangkan 
 di sebelah Selatan, Dinasti Song sendiri mulai dari tahun 1184 sudah kehilangan kendali atas wilayah 
 Utara mereka, yang jatuh ke tangan suku Jurchen, yang akhirnya mendirikan 
 [Dinasti Jin](#dinasti-jin "Dinasti yang didirikan oleh suku semi-nomad dari wilayah Timur Laut Tiongkok, yaitu suku Jurchen").
+Hasilnya adalah, Kekaisaran Song berada di dalam kendali Dinasti Jin, yang menguasai wilayah Utara mereka.
+Bagaimana hal ini bisa terjadi?
 
-Pada tanggal 9 Januari 1127, Jurchen menginvasi istana Kekaisaran Song di Bianjing 
+Pada tanggal 9 Januari 1127, Jurchen menginvasi istana Kekaisaran Song di Bianjing, 
 ibukota Dinasti Song Utara (di kemudian hari nama ibukota ini diganti menjadi Kaifeng, sampai sekarang), 
 dan mereka berhasil menyandera 2 kaisar sekaligus, yaitu Kaisar Hui Zong, yang saat
 itu sudah pensiun dan menyandang gelar Taishang Huang, dan Kaisar Qin Zong, yang 
