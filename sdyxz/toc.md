@@ -1,7 +1,7 @@
 # Memanah Burung Rajawali
 
 Tabel berikut bisa digunakan untuk melompat ke halaman terkait, klik pada gambar yang bersangkutkan (jangan ikuti
-_link_ yang diberi keterangan 'belum dikerjakan', karena yang akan ditampilkan hanya gambar itu sendiri.
+_link_ yang diberi keterangan 'belum dikerjakan', karena yang akan ditampilkan hanya gambar itu sendiri).
 
 
 | Dokumen |   Status / Keterangan    |
