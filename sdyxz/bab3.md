@@ -1,5 +1,4 @@
 # Bab 3
-## Kehidupan Padang Rumput
 
 | Bab 2 | Prolog | Bab Lainnya | Bab 4 |
 | :---: |  :---: | :---:   | :---: |
@@ -15,6 +14,8 @@
   </div>
 </div>
 -->
+
+## Kehidupan Padang Rumput
 
 Para biksu menangisi kematian Biksu Jiaomu, tetapi beberapa orang dari mereka 
 masih sempat merawat orang-orang yang terluka dengan membalut luka mereka dan membawa mereka 
