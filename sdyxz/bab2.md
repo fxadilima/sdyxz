@@ -1,18 +1,10 @@
 # Bab 2
-<<<<<<< HEAD
 
 | Bab 1 | Prolog | Bab Lainnya | Bab 3 |
 | :---: |  :---: | :---:   | :---: |
 | [:arrow_backward: Prev](bab1.md) | [:house:](intro.md) | [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md) | [Next :arrow_forward:](bab3.md) |
 
 ## Tujuh Orang Aneh Dari Jiangnan
-=======
-## Tujuh Orang Aneh Dari Jiangnan
-
-|       |       |       |       |       |
-| :---: | :---: | :---: | :---: | :---: |
-| [&#10094; Previous](bab1.md) | [Bab 3](bab3.md) | [Bab 4](bab4.md) | [Bab 5](bab5.md) | [Next &#10095;](bab3.md) |
->>>>>>> c15c09c776169ed5750cd472cc8b316d21d74113
 
 Pada saat Yan Lie berjalan keluar, ia berpapasan dengan seorang pelajar setengah
 baya yang sedang berjalan masuk, menyeret kakinya sambil terus menguap. Ia seperti
