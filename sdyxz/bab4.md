@@ -1,5 +1,7 @@
-# Sepasang Iblis Cakar Tengkorak Putih
+# Bab 4
+## Sepasang Iblis Cakar Tengkorak Putih
 
+<!--
 <div class="w3-container w3-center">
   <a href="https://youtube.com/clip/Ugkxs-MhO45Yi_ZV-Y-pB4JeGPD3nku9eR1K" target="_blank">
     <img src="images/sepasang-iblis.jpg" width="100%" alt="Sepasang Iblis Cakar Tengkorak Putih"/>
@@ -11,6 +13,7 @@
     </em></p>
   </div>
 </div>
+-->
 
 "Baiklah, ayo kita perang lagi!" kata Wanyan Hongxi dengan lantang.
 
