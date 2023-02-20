@@ -33,8 +33,8 @@ Bagaimana hal ini bisa terjadi?
 Pada tanggal 9 Januari 1127, Jurchen menginvasi istana Kekaisaran Song di Bianjing, 
 ibukota Dinasti Song Utara (di kemudian hari nama ibukota ini diganti menjadi Kaifeng, sampai sekarang), 
 dan mereka berhasil menyandera 2 kaisar sekaligus, yaitu Kaisar Hui Zong, yang saat
-itu sudah pensiun dan menyandang gelar Taishang Huang, dan Kaisar Qin Zong, yang 
-mewarisi tahta ayahnya. Sebenarnya dalam realita pelimpahan tahta ini terjadi 
+itu sudah pensiun dan menyandang gelar [Taishang Huang](#taishang-huang "Kaisar Tertinggi, atau 'Kaisar Di Atas Segala Kaisar'."), 
+dan Kaisar Qin Zong, yang mewarisi tahta ayahnya. Sebenarnya dalam realita pelimpahan tahta ini terjadi 
 dalam kepanikan, karena Kaisar Hui Zong merasa tidak mampu mengatasi serbuan
 bangsa Jin (Jurchen), dan ia kemudian mengambil langkah mengundurkan diri dari tahta.
 
