@@ -17,8 +17,7 @@ surat kabar Hong Kong Commercial Daily. Cerita tersebut tentu saja ditulis dalam
 <img src="https://res.cloudinary.com/drzjshskk/image/upload/c_thumb,w_200,g_face/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg"
   alt="Cover Buku She Diao Ying Xiong Zhuan"
   title="Sampul buku Memanah Rajawali, karya Louis Cha"
-  style="float:right;">
-
+  style="float: right;">
 Ini adalah bagian pertama dalam **Trilogi Rajawali** (Condor Trilogy), yang secara keseluruhan berkaitan 
 sangat erat dengan perkembangan hubungan antara Tiongkok kuno dengan Mongol. Berawal dari menjelang 
 akhir era Dinasti Song, di mana yang berkuasa adalah Dinasti Song Selatan, dengan ibukotanya Lin'an.
