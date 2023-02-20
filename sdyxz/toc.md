@@ -6,17 +6,17 @@
 | Bab 1   | [![Bab 1](https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg)](bab1.md) |
 | Bab 2   | [![Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/v1676666031/sdyxz/originals/ch02_hrww24.jpg)](bab2.md) |
 | Bab 3   | [![Bab 3](https://res.cloudinary.com/drzjshskk/image/upload/e_hue:30/v1676668128/sdyxz/originals/loch-03_pk9ptl.jpg)](bab3.md) |
-| Bab 4   | [![Bab 4](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg)(bab4.md) |
+| Bab 4   | [![Bab 4](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg)](bab4.md) |
 | Bab 5   | [![Bab 5](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:162/v1676692567/sdyxz/originals/loch-05_exhrii.jpg)](bab5.md) |
-| Bab 6   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692655/sdyxz/originals/loch-06_hqtnmd.jpg |
-| Bab 7   | https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg |
-| Bab 8   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg |
-| Bab 9   | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg |
-| Bab 10  | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692788/sdyxz/originals/loch-10_nsxcbk.jpg |
-| Bab 11  | https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692824/sdyxz/originals/loch-11_pmioc0.jpg |
-| Bab 12  | https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg |
-| Bab 13  | https://res.cloudinary.com/drzjshskk/image/upload/v1676692862/sdyxz/originals/loch-13_q1tnfz.jpg |
-| Bab 14  | https://res.cloudinary.com/drzjshskk/image/upload/v1676692895/sdyxz/originals/loch-14_fkrvnr.jpg |
+| Bab 6   | [![Bab 6](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692655/sdyxz/originals/loch-06_hqtnmd.jpg)](bab6.md) |
+| Bab 7   | [![Bab 7](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg)](bab7.md) |
+| Bab 8   | [![Bab 8](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg)](bab8.md) |
+| Bab 9   | [![Bab 9](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg)](bab9.md) |
+| Bab 10  | [![Bab 10](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692788/sdyxz/originals/loch-10_nsxcbk.jpg)](bab10.md) |
+| Bab 11  | [![Bab 11](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692824/sdyxz/originals/loch-11_pmioc0.jpg)](bab11.md) |
+| Bab 12  | [![Bab 12](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg)](bab12.md) |
+| Bab 13  | [![Bab 13](https://res.cloudinary.com/drzjshskk/image/upload/v1676692862/sdyxz/originals/loch-13_q1tnfz.jpg)](bab13.md) |
+| Bab 14  | [![Bab 14](https://res.cloudinary.com/drzjshskk/image/upload/v1676692895/sdyxz/originals/loch-14_fkrvnr.jpg)](bab14.md) |
 | Bab 15  | https://res.cloudinary.com/drzjshskk/image/upload/v1676692925/sdyxz/originals/loch-15_bqilvq.jpg |
 | Bab 16  | https://res.cloudinary.com/drzjshskk/image/upload/v1676692966/sdyxz/originals/loch-16_e8xajn.jpg |
 | Bab 17  | https://res.cloudinary.com/drzjshskk/image/upload/v1676693001/sdyxz/originals/loch-17_n5qznj.jpg |
