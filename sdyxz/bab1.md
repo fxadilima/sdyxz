@@ -2,7 +2,7 @@
 
 | :house: | Bab Lain | Bab 2 |
 |  :---:  |  :---:   | :---: |
-| [:arrow_backward: Prolog](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) | [Next :arrow_forward:](bab2.md) |
+| [:arrow_backward: Prolog](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md) [:seven:](bab7.md) | [Next :arrow_forward:](bab2.md) |
 
 ## Insiden Ditengah Badai Salju
 
