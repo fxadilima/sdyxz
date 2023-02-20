@@ -44,7 +44,7 @@ lain yang disesuaikan dengan nama yang lebih dekat dengan masyarakat Song Selata
 yaitu Wanyan Sheng, ia adalah kaisar kedua Dinasti Jin. Sedangkan orang yang mendirikan 
 Dinasti Jin adalah Wanyan Aguda, yang awalnya bermarkas di sekitar Timur Laut Tiongkok yang 
 sekarang, dan di sebelah Timur sangat dekat dengan Semenanjung Korea. Tempat ini adalah
-[Jilin](https://en.wikipedia.org/wiki/Jilin) dan [Heilongjiang](https://en.wikipedia.org/wiki/Heilongjiang).
+[Jilin dan Heilongjiang](#jilin-heilongjiang "Markas besar suku Jurchen").
 
 Seperti semua insiden bersejarah lainnya, kejadian tersebut juga melahirkan para pahlawan
 bangsa, dan dalam hal ini yang paling sering disebutkan namanya dalam sejarah adalah Jendral Yue Fei,
@@ -200,5 +200,10 @@ Selamat membaca!
     <strong>Demi Gods and Semi Devils</strong> adalah sebelum tahun 1125, karena pada saat itu Dinasti Liao 
     dan suku Khitan masih ada dan berjaya.
     Dalam beberapa abad berikutnya, nama 'Jurchen' ini akan diganti menjadi 'Manchu'.
+  </dd>
+  <dt id="jilin-heilongjiang"><strong>Jilin dan Heilongjiang</strong></dt>
+  <dd>
+    <a href="https://en.wikipedia.org/wiki/Jilin" target="_blank">Jilin</a> dan 
+    <a href="https://en.wikipedia.org/wiki/Heilongjiang" target="_blank">Heilongjiang</a> adalah daerah asal suku Jurchen.
   </dd>
 </dl>
