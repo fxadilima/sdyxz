@@ -1,5 +1,9 @@
 # Memanah Burung Rajawali
 
+Tabel berikut bisa digunakan untuk melompat ke halaman terkait, klik pada gambar yang bersangkutkan (jangan ikuti
+_link_ yang diberi keterangan 'belum dikerjakan', karena yang akan ditampilkan hanya gambar itu sendiri.
+
+
 | Dokumen |   Status / Keterangan    |
 |  :---   |   :---:                  | 
 | [![Prolog](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg)](intro.md) | Prolog, lengkap |
