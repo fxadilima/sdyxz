@@ -1,14 +1,7 @@
 # Prolog
 ## Sekilas Tentang Novel Asli
 
-<ul style="list-style-type: none;margin: 0;padding: 0;overflow: hidden;background-color: #333;">
-    <li style="float:left;">
-        <a style="display:block;" href="toc.md">Prev</a>
-    </li>
-    <li style="float:right;">
-        <a style="display:block;" href="bab1.md">Next</a>
-    </li>
-</ul>
+[Next &#10095;](bab1.md)
 
 She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
 **The Legend of The Condor Heroes**, adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
