@@ -9,5 +9,5 @@ beautify the text, then use _unicode_ or _emoji_ symbols.
 
 |  Prolog  |  Chapters  |
 |  :---:   |    :---:   |
-| :house:  | [:one:](sdyxx/bab1.md) [:two:](sdyxz/bab2.md) [:three:](sdyxz/bab3.md) |
+| :house:  | [:one:](sdyxz/bab1.md) [:two:](sdyxz/bab2.md) [:three:](sdyxz/bab3.md) |
 
