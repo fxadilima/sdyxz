@@ -16,15 +16,17 @@
     title="Sampul buku Memanah Rajawali, karya Louis Cha"
     style="float:right;">
   <p>
-    She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
-    <strong>The Legend of The Condor Heroes</strong>, adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
-    pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di 
-    surat kabar Hong Kong Commercial Daily. Cerita tersebut tentu saja ditulis dalam bahasa Mandarin.
-    Ini adalah bagian pertama dalam **Trilogi Rajawali** (Condor Trilogy), yang secara keseluruhan berkaitan 
-    sangat erat dengan perkembangan hubungan antara Tiongkok kuno dengan Mongol. Berawal dari menjelang 
-    akhir era Dinasti Song, di mana yang berkuasa adalah Dinasti Song Selatan, dengan ibukotanya Lin'an.
   </p>
 </div>
+
+![Cover Buku She Diao Ying Xiong Zhuan](https://res.cloudinary.com/drzjshskk/image/upload/c_thumb,w_200,g_face/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg "Sampul buku Memanah Rajawali, karya Louis Cha")
+She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam bahasa Inggris adalah 
+[The Legend of The Condor Heroes], adalah novel laris hasil karya Louis Cha (Jin Yong) yang dirilis 
+pertama kalinya di Hong Kong antara 1 Januari 1957 - 19 Mei 1959 dalam bentuk cerita bersambung di 
+surat kabar Hong Kong Commercial Daily. Cerita tersebut tentu saja ditulis dalam bahasa Mandarin.
+Ini adalah bagian pertama dalam [Trilogi Rajawali], yang secara keseluruhan berkaitan 
+sangat erat dengan perkembangan hubungan antara Tiongkok kuno dengan Mongol. Berawal dari menjelang 
+akhir era Dinasti Song, di mana yang berkuasa adalah Dinasti Song Selatan, dengan ibukotanya Lin'an.
 
 Pada saat itu wilayah padang rumput di bagian Utara Tiongkok terbagi menjadi beberapa konfederasi 
 dari suku-suku nomad seperti Naiman, Khamag Mongol, Merkit, Keraite, dan juga Tatar. Sedangkan 
@@ -255,4 +257,8 @@ Selamat membaca!
 </dl>
 
 [^ambaghai]: Ambaghai adalah paman dari Yesugai, ayah kandung Temujin. Peristiwa penangkapan Ambaghai oleh suku Tatar dilukiskan oleh [cuplikan video](#cuplikan1) yang diambil dari drama mengenai kehidupan Temujin sendiri.
+
+[The Legend of The Condor Heroes]: #tvb-title "The Legend of The Condor Heroes adalah judul drama hasil produksi TVB yang berdasarkan cerita silat ini. Sejak itu judul tersebut mulai populer digunakan orang ketimbang 'Eagle Shooting Heroes'."
+
+[Trilogi Rajawali]: #condor-trilogy "Novel ini adalah bagian pertama dari 3 serial, yaitu 'Memanah Burung Rajawali', 'Pendekar Rajawali' dan 'Pedang Langit dan Golok Pembunuh Naga'. Ketiga cerita tersebut dikenal dengan istilah Trilogi Rajawali atau Condor Trilogy."
 
