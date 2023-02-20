@@ -2,8 +2,8 @@
 
 | Dokumen |   Link    |
 |  :---:  |   :---    | 
-| Prolog  | [![Prolog](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:120/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg)](intro.md) |
-| Bab 1   | [![Bab 1](https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg)](bab1.md) |
+| Prolog  | [![Prolog](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676716319/sdyxz/originals/loch-00_x3cshn.jpg)](intro.md) |
+| Bab 1   | [![Bab 1](https://res.cloudinary.com/drzjshskk/image/upload/c_scale,w_64/v1676662508/sdyxz/originals/ch01_qqa6or.jpg)](bab1.md) |
 | Bab 2   | [![Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/v1676666031/sdyxz/originals/ch02_hrww24.jpg)](bab2.md) |
 | Bab 3   | [![Bab 3](https://res.cloudinary.com/drzjshskk/image/upload/e_hue:30/v1676668128/sdyxz/originals/loch-03_pk9ptl.jpg)](bab3.md) |
 | Bab 4   | [![Bab 4](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg)](bab4.md) |
