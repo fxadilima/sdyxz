@@ -254,7 +254,10 @@ akan seperti apa, sulit diperkirakan, sulit...!"
 
 Sambil bicara ia terus menggelengkan kepalanya.
 
-[Cuplikan adegan ini dari Youtube](https://youtube.com/clip/UgkxVA6xG-NgdbtBejjl2PM8vtE5jMRvAeqc)
+> Cuplikan adegan ini kemungkinan akan membawa pembaca beralih ke YouTube, karena itu
+> sebaiknya gunakan klik kanan pada link, dan pilih untuk membukanya di `Tab/Window`
+> yang berbeda.
+> [Klip 1 menit di Youtube](https://youtube.com/clip/UgkxVA6xG-NgdbtBejjl2PM8vtE5jMRvAeqc)
 
 "Apanya yang sulit?" kata Guo Xiaotian, agak emosi. "Ini daerah pinggiran, bukan
 Lin'an. Tidak ada yang akan memenggal kepalamu. Tidak ada orang di dunia yang tidak
