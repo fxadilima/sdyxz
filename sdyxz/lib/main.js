@@ -10,6 +10,11 @@ async function handler(req) {
             },
         });
     }
+    else if (pathname.startsWith("/clients/index.js")) {
+        console.log("[main.js]: getting file \"index.js\"");
+        const f = await Deno.readFile("./clients/index.js");
+        return new Response(f, { headers: { "content-type": "text/javascript" }});
+    }
     
     // Now, the following link should works
     let html = `<!DOCTYPE html>
