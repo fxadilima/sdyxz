@@ -17,6 +17,7 @@ function handler(req) {
                 <p>
                     Halaman ini baru sekedar contoh...
                 </p>
+                <p><a href="/test1.html">Ke Test1</a></p>
             </div>
         </div>
     </body>
