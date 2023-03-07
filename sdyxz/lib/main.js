@@ -1,8 +1,7 @@
 import { serve } from "https://deno.land/std@0.140.0/http/server.ts";
 
 function handler(req) {
-    let html = `
-<!DOCTYPE html>
+    let html = `<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="utf-8" />
