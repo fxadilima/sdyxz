@@ -1,3 +1,7 @@
+/**
+* Deno using different styles for everything.
+* We cannot use this module.
+*
 
 async function showAbout() {
     let html = "<p><strong>Error getting file: about.md</strong></p>";
@@ -60,8 +64,6 @@ async function showGitHub(fName) {
     document.getElementById("preview").innerHTML = html;
 }
 
-/**
-* Deno using a different style for paths
 
 fetch("/sdyxz/intro.md")
 .then(x => x.text())
@@ -79,6 +81,6 @@ fetch("/sdyxz/intro.md")
     });
 });
 
+* Hence, we are disabling everything.
 */
 
-document.getElementbyId('preview').innerHTML = "<p>Hello, Deno!</p>";
