@@ -84,3 +84,5 @@ fetch("/sdyxz/intro.md")
 * Hence, we are disabling everything.
 */
 
+console.log("main.js loaded...");
+
