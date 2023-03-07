@@ -1,7 +1,7 @@
 import { serve } from "https://deno.land/std@0.140.0/http/server.ts";
 
 function handler(req) {
-    if (pathname.startsWith("/test1.html")) {
+    if (req.url.pathname.startsWith("/test1.html")) {
         const file = await Deno.readFile("./test1.html");
         return new Response(file, {
             headers: {
