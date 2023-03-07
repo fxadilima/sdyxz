@@ -60,6 +60,9 @@ async function showGitHub(fName) {
     document.getElementById("preview").innerHTML = html;
 }
 
+/**
+* Deno using a different style for paths
+
 fetch("/sdyxz/intro.md")
 .then(x => x.text())
 .then((y) => {
@@ -76,3 +79,6 @@ fetch("/sdyxz/intro.md")
     });
 });
 
+*/
+
+document.getElementbyId('preview').innerHTML = "<p>Hello, Deno!</p>";
