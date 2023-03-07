@@ -1,6 +1,16 @@
 import { serve } from "https://deno.land/std@0.140.0/http/server.ts";
 
 function handler(req) {
+    if (pathname.startsWith("/test1.html")) {
+        const file = await Deno.readFile("./test1.html");
+        return new Response(file, {
+            headers: {
+                "content-type": "text/html",
+            },
+        });
+    }
+    
+    // Now, the following link should works
     let html = `<!DOCTYPE html>
 <html lang="en">
     <head>
