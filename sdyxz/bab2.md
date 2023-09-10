@@ -1,8 +1,8 @@
 # Bab 2
 
-| Bab 1 | Prolog | Bab Lainnya | Bab 3 |
-| :---: |  :---: | :---:   | :---: |
-| [:arrow_backward: Prev](bab1.md) | [:house:](intro.md) | [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md) | [Next :arrow_forward:](bab3.md) |
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/q_auto:best/v1676666031/sdyxz/originals/ch02_hrww24.jpg) | _Tubuh Han Baoju sebetulnya berada di perut kuda, dengan kaki kirinya di pedal, dan kaki kanan bersama dengan kedua tangannya memegang tong, menjaga keseimbangannya di atas pelana. Kuda itu sangat cepat dan stabil, seolah-olah tangga itu hanya sebidang tanah datar._     |
 
 ## Tujuh Orang Aneh Dari Jiangnan
 
@@ -31,7 +31,7 @@ Yan Lie makin gusar, ia tahu omongan itu ditujukan kepada dirinya.
 
 Setelah mendengar komentar si pelajar, pengelola penginapan itu memandang ke arah
 Yan Lie, ia mau tidak mau sedikit curiga. Ia berjalan ke arah Yan Lie sambil sedikit
-menguap, tersenyum, lalu berkata, "Xiansheng, tolong jangan tersinggung, ini bukannya
+menguap, tersenyum, lalu berkata, "[Xiansheng], tolong jangan tersinggung, ini bukannya
 saya tidak sopan..." Yan Lie membungkuk dan menjawab, "Nah, terima saja uang ini!"
 Ia merogoh saku bajunya untuk mengeluarkan uang, dan terkejut. Ia setidaknya punya
 empat atau lima puluh tail perak di sakunya, tapi sekarang sama sekali tidak ada.
@@ -62,11 +62,7 @@ Yan Lie menambahkan sebuah tendangan ke pantatnya, pemilik penginapan itu terjun
 keluar kamar.
 
 Karena terkejut, Bao Xiruo mengusulkan, "Ayo pergi, kita tidak bisa tinggal di sini
-lagi."
-
-[Ilustrasi drama](https://youtube.com/clip/UgkxlO6SQZVF62GUsdm0BB3oM1dWl6dqEjqz) ketika Yan Lie
-kehilangan uangnya, tidak betul-betul tepat sama seperti urutan peristiwa dalam
-novel Jin Yong ini. Tetapi dialog dan peristiwa yang terjadi masih cukup _representatif_.
+lagi." 
 
 Yan Lie tersenyum. "Jangan kuatir. Kalau kita tidak punya uang, ya kita minta uang
 dari mereka." Ia mengambil kursi dan duduk di dekat pintu. Tak lama kemudian si pemilik
@@ -111,7 +107,7 @@ Yan Lie mengeluarkan sebuah amplop dari sakunya, lalu meletakkannya di atas meja
 memandang ke langit-langit kamar dan berkata, "Bawa ini ke Gai Yuncong, coba lihat dia
 mau datang apa tidak."
 
-Si pemimpin mengambil amplop itu, lalu membaca tulisan yang tertera di atasnya, ia 
+Si Pemimpin mengambil amplop itu, lalu membaca tulisan yang tertera di atasnya, ia 
 mmundur selangkah karena terkejut. Tidak pasti barang itu asli atau tidak, ia berbisik
 kepada temannya, "Jaga dia, jangan biarkan dia lari." Ia segera meluncur pergi.
 
@@ -130,8 +126,8 @@ dua hakim yang brilian seperti kalian untuk menyelidiki kasus ini."
 Gai Yuncong dengan segera mengangguk, "Ya, tentu saja." Ia melambaikan tangannya
 kepada dua orang pengikutnya, yang dengan cepat bangkit mendekat sambil masing-masing
 membawa sebuah baki dengan kedua tangan mereka. Salah satu baki itu nampak berkilau kuning
-karena yuan bao emas (lantakan emas berbentuk perahu) di atasnya. Yang satunya, tak
-perlu disebutkan lagi, tentu saja yuan bao perak.
+karena [yuan bao] emas di atasnya. Yang satunya, tak perlu disebutkan lagi, tentu saja 
+[yuan bao] perak.
 
 Gao Yuncong angkat bicara, "Karena ada maling-maling kurang ajar di wilayah saya,
 maka ini juga adalah kesalahan saya. Saya mohon Yang Mulia sudi menerima kompensasi
@@ -151,14 +147,14 @@ Yan Lie tidak menjawab, ia hanya menggelengkan kepala dan melambaikan tangan ber
 Kedua orang itu segera memimpin yang lainnya pergi.
 
 Si pengelola membisu ketakutan ketika pemilik penginapan itu menyeretnya memasuki kamar.
-Si pemilik berlutut dan kowtow (bersujud) meminta ampun bagi mereka berdua. Dia bilang
+Si pemilik berlutut dan _kowtow_ (bersujud) meminta ampun bagi mereka berdua. Dia bilang
 bahwa seandainya mereka dibiarkan hidup, maka mereka akan menerima hukuman apapun yang
 akan diberikan kepada mereka. Yan Lie mengambil sebatang yuan bao perak dari bakinya,
 lalu melemparkannya ke lantai, tersenyum sambil berkata, "Ambillah, ini hadiah. Dan
 pergilah dari hadapanku."
 
 Si pengelola tidak percaya apa yang dilihatnya, tetapi si pemilik melihat di raut muka
-Yan Lie tidak ada maksud buruk, jadi ia lalu mengambil batangan perak itu, kowtow dua kali,
+Yan Lie tidak ada maksud buruk, jadi ia lalu mengambil batangan perak itu, _kowtow_ dua kali,
 dan buru-buru menyeret di pengelola pergi dari situ karena takut Yan Lie berubah pikiran.
 
 Bao Xiruo nyaris tidak bisa mempercayai semua yang dilihatnya. "Keajaiban macam
@@ -244,7 +240,7 @@ lagi."
 Bao Xiruo menyela lagi, "Terus apa kata Menteri Han?"
 
 Wanyan Honglie menjawab dengan bangga, "Dia bisa bilang apa lagi? Begitu aku keluar dari
-wilayah Lin'an, semua sutra dan perak sudah ada di bagian Utara sungai. Haha...!"
+wilayah Lin'an, semua sutra dan perak sudah ada di bagian Utara sungai[^utara-sungai]. Haha...!"
 
 Melihat Bao Xiruo menundukkan kepalanya tanpa menanggapi, Wanyan Honglie melanjutkan, "sebetulnya
 semua urusan upeti ini tidak perlu aku, seorang utusan yang manapun pasti bisa melakukannya.
@@ -339,15 +335,14 @@ lalu menepuk-nepuk pinggiran atas kendi itu beberapa kali. Lalu dengan santai ia
 mengambil bagian atas kendi itu, menyulapnya menjadi sebuah cawan arak raksasa.
 Kuda itu kemudian berdiri di atas kedua kaki belakangnya sambil meringkik panjang,
 sebelum turun lagi dan minum arak dari dalam cawan raksasa itu. Dari aromanya yang manis,
-Wanyan Honglie bisa menebak bahwa arak itu adalah Nu'er Hong (terjemahan literalnya
-adalah 'Anak Perempuan Merah') dari wilayah Shaoxing, propinsi Zhejiang. Dari aromanya,
-arak itu jelas sudah disimpan lebih dari 10 tahun.
+Wanyan Honglie bisa menebak bahwa arak itu adalah Nu'Er Hong[^nuerhong], dari wilayah Shaoxing.
+Dari aromanya, arak itu jelas sudah disimpan lebih dari 10 tahun.
 
 Si gendut pendek itu kemudian kembali ke restoran dalan melemparkan sebuah lantakan
 perak raksasa ke meja pemilik restoran. "Siapkan tiga meja dengan makanan terbaik.
 Yang dua boleh pakai daging dan arak. Yang satunya jangan."
 
-Si pemilik restoran tersenyum dan berkata, "Dengan segera, Han Xiansheng. Kami baru
+Si pemilik restoran tersenyum dan berkata, "Dengan segera, Han [Xiansheng]. Kami baru
 menerima empat ekor ikan Sao Lu dari Sungai Song. Itu sangat enak kalau disajikan
 dengan arak. Silakan ambil kembali uangnya, Han Xiansheng. Belakangan saja."
 
@@ -371,8 +366,7 @@ kabut tipis, dan beberapa perahu kecil meluncur pelan di sekitar danau. Daun-dau
 hijau menutupi setengah dari areal danau itu. Melihat pemandangan seperti itu ia merasa
 sangat santai dan tenang. Jiaxing adalah kota terkenal di jaman kuno negara bagian Yue,
 Buah plum yang tumbuh di sini sangat manis dan enak, seperti arak terbaik. Di tengah era
-Musim Semi dan Musim Gugur (Spring and Autumn Period, jaman perpecahan di era Dinasti Zhou)
-tempat ini bernama Zuili (artinya kurang lebih: Drunken Plum). Di sinilah tempatnya
+[Musim Semi dan Musim Gugur], tempat ini bernama [Zuili]. Di sinilah tempatnya
 saat itu Raja Yue, Guo Jian mengalahkan Raja Wu, He Lu. Tempat ini adalah titik di mana
 para wisatawan dan pedagang dari kedua negara bertemu.
 
@@ -402,18 +396,17 @@ di dekat paviliun, lalu melompat turun dari perahu dengan ringan.
 Pria yang duduk di tengah perahu itu meletakkan sebuah tongkat yang di kedua ujungnya
 dipenuhi kayu bakar ke atas bahunya, lalu turun mengikuti gadis itu. Mereka berdua
 memasuki paviliun. Ketika melihat si gendut, gadis itu menyapa dengan gembira, 
-"San Ge (Kakak Ketiga)!" Ia lalu duduk di sebelahnya.
+"[San Ge]!" Ia lalu duduk di sebelahnya.
 
-Si gendut balas menyapa kedua orang itu, "Si Di (Adik Keempat), Qi Mei (Adik Ketujuh),
-kalian datang kepagian." 
+Si gendut balas menyapa kedua orang itu, "[Si Di], [Qi Mei], kalian datang kepagian."
 
 Ketika Wanyan Honglie berusaha mengukur kedua orang yang baru datang itu, ia menebak
 bahwa si gadis itu kira-kira berusia tujuh atau delapan belas tahun, tubuhnya langsing,
 matanya besar, dengan bulu mata lentik dan panjang, kulitnya seputih salju. Jelas sekali
-ia penduduk lokal dari sebelah Selatan Sungai Yangtze. Ia memegang dayung tembaga itu 
-di tangan kiri, dan melepas topinya dengan tangan kanan, memamerkan kepalanya yang
-berambut hitam, lembut berkilau. Wanyan Honglie berpikir, "Meskipun gadis ini tidak
-secantik Bao Fu Ren, tapi dia tetaplah sangat menarik."
+ia penduduk lokal dari sebelah Selatan Sungai Yangtze[^jiangnan]. 
+Ia memegang dayung tembaga itu di tangan kiri, dan melepas topinya dengan tangan kanan, 
+memamerkan kepalanya yang berambut hitam, lembut berkilau. Wanyan Honglie berpikir, 
+"Meskipun gadis ini tidak secantik Bao Fu Ren[^furen], tapi dia tetaplah sangat menarik."
 
 Pria yang membawa kayu bakar itu kira-kira berusia 30 tahun, berpakaian hijau dengan
 sabuk dari anyaman jerami melingkar di pinggangnya. Ia juga memakai sandal dari jerami.
@@ -422,11 +415,11 @@ kayu bakarnya di lantai, dan menyandarkan pikulannya ke atas meja. Tiba-tiba mej
 turun beberapa sentimeter setelah pikulan itu ada di atasnya. Wanyan Honglie terkejut,
 rasanya tidak ada yang aneh dengan pikulan itu. Warnanya hitam mulus, sedikit melengkung
 di bagian tengahnya, dan tutup di kedua ujungnya. Kalau harus seberat itu, maka pikulan
-itu seharusnya terbuat dari besi atau logam berat lainnya. Sebuah kapak kayu tegantung
+itu seharusnya terbuat dari besi atau logam berat lainnya. Sebuah kapak kayu tergantung
 di pinggangnya, mata kapak itu bergerigi.
 
 Keduanya baru saja duduk, ketika terdengar suara langkah kaki dari anak tangga, dan
-dua orang lain muncul di situ. "Wu Ge (Kakak Kelima), Liu Ge (Kakak Keenam)! Kalian barengan ya?"
+dua orang lain muncul di situ. "[Wu Ge], [Liu Ge]! Kalian barengan ya?"
 gadis itu menyambut keduanya dengan meriah. Orang pertama yang baru datang itu tinggi besar,
 setidaknya 130 atau 140 kg. Ia memakai celemek di pinggangnya. Tubuhnya secara alamiah berminyak,
 dan bagian atas bajunya terbuka, memamerkan dadanya yang berbulu lebat, lengan bajunya
@@ -442,56 +435,33 @@ Tiba-tiba terdengar suara dentingan yang teratur dari luar, seperti suara logam 
 Suara dentingan itu pelan-pelan mendekati naik melalui tangga, diikuti oleh munculnya
 seorang buta yang berpakaian compang-camping. Kelihatannya berusia 40 tahunan, bibirnya
 tipis, tulang pipinya menonjol. Mukanya kelabu, seperti penuh kebencian dan kemarahan.
-Kelima orang yang duduk di seputar meja itu berdiri dan menyapa, "Da Ge (Kakak tertua)!"
+Kelima orang yang duduk di seputar meja itu berdiri dan menyapa, "[Da Ge]!"
 
-Gadis itu mengetuk bagian atas sebuah kursi, "Da Ge, silakan duduk di sini."
+Gadis itu mengetuk bagian atas sebuah kursi, "[Da Ge], silakan duduk di sini."
 
-Orang buta itu menjawab, "Baiklah. Apa Er Di (Adik Kedua) sudah datang?"
+Orang buta itu menjawab, "Baiklah. [Er Di] sudah datang?"
 
-Orang yang mirip tukang jagal itu menjawab, "Er Ge sudah sampai di Jiaxing. Dia pasti
+Orang yang mirip tukang jagal itu menjawab, "[Er Ge] sudah sampai di Jiaxing. Dia pasti
 sebentar lagi datang."
 
-Gadis itu tertawa, "Barusan diomongin! (peribahasa: Shuo Cao Cao, Cao Cao Laile/'Speak of The Devil')"
-Terdengar suara langkah kaki diseret dari tangga.
+Gadis itu tertawa, "Barusan diomongin![^peribahasa-1]" Terdengar suara langkah kaki diseret dari tangga.
 
-Sama sekali di luar dugaan Wanyan Honglie, ia tidak sempat menduga apapun. Yang muncul
-dari tangga adalah si sastrawan lusuh yang ditemuinya di penginapan sebelum ini.
-Sebuah dugaan melintas dibenaknya, "Jangan-jangan dialah yang mengambil semua uangku..."
+Sama sekali di luar dugaan Wanyan Honglie, ia melongo dan tak tahu bagaimana seharusnya berpikir. 
+Yang muncul dari tangga adalah si sastrawan lusuh yang ditemuinya di penginapan sebelum ini.
+Sebuah dugaan melintas dibenaknya, "Jangan-jangan _dia_ yang mengambil semua uangku..."
 Bertepatan dengan naiknya emosi, ia melihat orang itu tersenyum ke arahnya dan menjulurkan
 lidah untuk melucu, setelah itu barulah ia menyapa teman-temannya yang lain. 
 Kelihatannya ia urutan kedua dari mereka semua. Wanyan Honglie berspekulasi, "Kelihatannya
 mereka semua ahli kungfu, kalau saja aku bisa merekrut mereka, ini akan jadi sebuah
 dukungan yang luar biasa besar bagi segala upaya kita. Soal uang yang dicuri itu,
-sebetulnya bukan masalah besar, bisa saja aku memaafkannya. Senaiknya kita lihat dulu,
-ini semua ada apa."
+sebetulnya bukan masalah besar, bisa saja aku memaafkannya. Sebaiknya kita lihat dulu,
+ada apa di balik acara ini."
 
 Si Sastrawan yang kelihatan miskin dan bertele-tele itu menenggak secawan arak, lalu
 melanjutkan, sambil masih menggeleng-gelengkan kepalanya, "Orang kaya hina... sudahlah...
-Yu Huang Da Di akan murka!" Sambil mengutip kalimat itu ia mengeluarkan beberapa
-tail emas dan perak dari sakunya, dan meletakkannya di atas meja. Semuanya terdiri
-dari delapan tail perak dan dua tail emas.
-
-<div class="w3-panel w3-card-4">
-    <h3>Catatan</h3>
-    <p>
-    Dua karakter Huangdi (皇帝) dipakai Kaisar Qin Shi Huang sebagai julukan untuk
-    dirinya sendiri, yang secara umum bisa diartikan sebagai 'Kaisar', dan sejak saat
-    itu istilah ini mulai dipakai orang. Karakter 'Di' (帝) yang dipakai di sini
-    tidak pengacu kepada sosok penguasa tertinggi di muka bumi, melainkan sosok
-    'Mahadewa' dari mitologi pantheon dalam Dinasti Shang. Sedangkan karakter Huang (皇)
-    artinya adalah 'kuning', gabungan keduanya mengacu ke sosok mitologi Tiongkok kuno
-    yang secara internasional dikenal sebagai 'Yellow Emperor'.
-    </p>
-    <p>
-    Yu Huang Da Di (玉皇大帝) adalah nama yang dipakai untuk sosok yang secara
-    internasional dikenal sebagai 'Jade Emperor'. 
-    </p>
-    <p>
-    Kutipan Si Sastrawan nyentrik di atas secara umum bertujuan untuk mengatakan bahwa sosok
-    Mahadewa dengan otoritas tertinggi atas manusia yang dipercayai masyarakat
-    pada saat itu akan murka.
-    </p>
-</div>
+[Yu Huang Da Di](#yu-huang-da-di "Sosok yang dikenal sebagai 'Jade Emperor'.") akan murka!" 
+Sambil mengutip kalimat itu ia mengeluarkan beberapa tail emas dan perak dari sakunya, dan 
+meletakkannya di atas meja. Semuanya terdiri dari delapan tail perak dan dua tail emas.
 
 Dari bentuk dan warna uang itu Wanyan Honglie tahu bahwa semua itu miliknya, tetapi
 ia tidak marah. Sebaliknya, ini bahkan membangkitkan rasa ingin tahunya, "Menyelinap ke
@@ -505,18 +475,18 @@ di seputar dua meja lainnya, yang saat itu masih kosong. Karena para tamu itu ma
 datang, maka mereka bertujuh hanya minum arak sekedarnya sambil mengobrol, dan belum
 ada makanan yang disajikan juga.
 
-Namun demikian, di atas kedua meja yang lain itu, masing-masing hanya ada sepasang sumpit, artinya
-adalah hanya akan ada dua orang tamu. Wanyan Honglie berpikir, "Tujuh Orang Nyentik ini
-sedang menunggu tamu, entah tamu nyentrik macam apa lagi yang akan muncul."
+Namun demikian, di atas kedua meja yang lain itu, masing-masing hanya ada sepasang sumpit, 
+artinya adalah hanya akan ada dua orang tamu. Wanyan Honglie berpikir, "Tujuh Orang Nyentik ini
+sedang menunggu tamu, entah tamu _nyentrik_ macam apa lagi yang akan muncul."
 
 Setelah menunggu kira-kira selama waktu yang diperlukan untuk satu periuk air mendidih,
-terdengar suara dari bawah tangga, "Amitoufu (阿眯头佛, salam dalam agama Budha)."
+terdengar suara dari bawah tangga, "[Amitoufu]."
 
-"Biksu Jiaomu sudah datang." kata Si Buta.
+"Biksu Jiaomu[^biksu-jiaomu] sudah datang." kata Si Buta.
 
-Kamimat yang sama diulangi, bersamaan dengan munculnya seorang biksu tua yang penampilannya
-memang mirip dengan Jiaomu (kayu bakar). Biksu itu berusia sekitar 40 tahun, mengenakan
-jubah warna kuning, tangannya memegang sepoting kayu yang di salah satu ujungnya sudah
+Kalimat yang sama diulangi, bersamaan dengan munculnya seorang biksu tua yang penampilannya
+memang mirip dengan [Jiaomu]. Biksu itu berusia sekitar 40 tahun, mengenakan
+jubah warna kuning, tangannya memegang sepotong kayu yang di salah satu ujungnya sudah
 terbakar menjadi arang berwarna hitam. Tidak jelas apa gunanya benda itu.
 
 Setelah ketujuh orang itu dan si biksu saling menyapa seperti adat kebiasaan saat itu,
@@ -546,19 +516,17 @@ diikuti oleh suara dua anak tangga berikutnya patah.
 
 Untuk beberapa saat Wanyan Honglie tidak yakin akan apa yang dilihatnya, seorang pendeta
 Tao sedang menaiki tangga sambil membawa sebuah tong besar yang terbuat dari tembaga.
-Setelah melihat sekali lagi, ia merasa ketakutan, pendeta itu adalah Changchun Zi 
-(Musim Semi Abadi) Qiu Chuji.
+Setelah melihat sekali lagi, ia merasa ketakutan, pendeta itu adalah Chang Chunji[^gelar-qiu-chuji], Qiu Chuji.
 
 Misi Wanyan Honglie sebagai utusan ke Negeri Song adalah memaksa para pejabat Song,
 sehingga pada saat mereka menyerang negeri itu, mereka punya orang dalam yang bisa
 diandalkan untuk membantu mereka meraih kemenangan.
 
-Utusan dari Song, Wang Daojian, yang menemaninya pergi dari Yanjing (di jaman modern
-adalah Beijing), sangat korup dan serakah. Ia secara diam-diam sudah membangun aliansi
-dengan Dinasti Jin. Waktu mereka tiba di Lin'an, dialah orang bekerja keras untuk 
-Wanyan Honglie. Tapi di luar dugaan, ia kemudian tewas di tangan pendeta Tao ini. 
-Bahkan kepala, jantung, dan hatinya hilang. Terkejut dan takut bahwa rencananya sudah 
-terbongkar, Wanyan Honglie kemudian memimpin para pengawalnya, atas petunjuk para
+Utusan dari Song, Wang Daojian, yang menemaninya pergi dari [Yanjing], sangat korup dan serakah. 
+Ia secara diam-diam sudah membangun aliansi dengan Dinasti Jin. Waktu mereka tiba di Lin'an, 
+dialah orang bekerja keras untuk Wanyan Honglie. Tapi di luar dugaan, ia kemudian tewas di 
+tangan pendeta Tao ini. Bahkan kepala, jantung, dan hatinya hilang. Terkejut dan takut bahwa 
+rencananya sudah terbongkar, Wanyan Honglie kemudian memimpin para pengawalnya, atas petunjuk para
 pengawal terbaik di Lin'an, melacak keberadaan si pembunuh. Ketika mengejar sampai ke 
 Desa Niu, mereka bertemu dengan Qiu Chuji. Di luar dugaan ternyata pendeta Tao ini adalah
 seorang ahli kungfu. Wanyan Honglie belum bergerak sama sekali ketika bahunya tertembus
@@ -595,19 +563,19 @@ untuk minum-minum di Paviliun Dewa Mabuk ini. Aku tahu pasti biksu juga mengunda
 teman lainnya, dan ternyata memang benar. Aku sudah lama mengagumi Tujuh Pendekar dari
 Selatan. Aku beruntung hari ini bisa berkenalan."
 
-Biksu Jiaomu berpaling kepada Tujuh Pendekar Selatan, "Ini pendeta Changchun Zi Qiu Chuji,
-dari aliran Quanzhen. Aku yakin kalian semua sudah dengar sendiri tadi." Ia lalu
-menunjuk kepada Si Buta. "Ini ketua dari Tujuh Pendekar, Ke Daxia (Pendekar Ke), Ke Zhen'E."
+Biksu Jiaomu berpaling kepada Tujuh Pendekar Selatan[^jiang-nan-qi-guai], "Ini pendeta 
+Chang Chunji, Qiu Chuji, dari aliran Quanzhen. Aku yakin kalian semua sudah dengar sendiri tadi." 
+Ia lalu menunjuk kepada Si Buta. "Ini ketua dari Tujuh Pendekar, Ke [Daxia] — Ke Zhen'E."
 Ia lalu melanjutkan dengan keenam orang lainnya.
 
 Wanyan Honglie berusaha mengingat semua nama yang disebutkan dengan sebaik-baiknya.
 Nomor dua adalah orang yang mencuri uangnya, 'Sastrawan Tangan Ajaib', Zhu Cong. Berikutnya
 adalah si gendut yang datang paling awal, 'Dewa Kuda', Han Baoju. Orang yang membawa
 kayu bakar itu nomor empat, namanya adalah 'Penebang Kayu dari Pegunungan Selatan',
-Nan Xiren. Yang kelima adalah orang yang mirip tukang jagal, 'Buddda Tersenyum', 
-Zhang Ahsheng. Pria kecil yang mirip pedagang itu bernama Qian Jinfa, julukannya 
+Nan Xiren. Yang kelima adalah orang yang mirip tukang jagal, [Budha Tersenyum], 
+Zhang Ahsheng[^jilaihud]. Pria kecil yang mirip pedagang itu bernama Qian Jinfa, julukannya 
 kira-kira berarti 'Pendekar Siluman dari Kota Ramai'. Dan gadis itu adalah 
-'Pedang Nona Yue', Han Xiaoyin. Kelihatannya urutan mereka adalah berdasarkan usia.
+'Pendekar Pedang Nona Yue', Han Xiaoying. Kelihatannya urutan mereka adalah berdasarkan usia.
 
 Selama biksu Jiaomu memperkenalkan mereka semua, Qiu Chuji memberi hormat dengan cara
 membungkuk sedikit, tetapi tangannya yang memegang tong tidak pernah diturunkan, dan
@@ -663,7 +631,7 @@ melompat ke samping.
 Orang-orang yang berkumpul di ujung atas tangga terdiam ketakutan, dan mereka saling 
 dorong dan berebut menuruni tangga dengan panik.
 
-Si 'Buddha Tersenyum' Zhang Ahsheng merasa bahwa meskipun tong itu berat, tapi ia yakin akan
+Si 'Budha Tersenyum' Zhang Ahsheng merasa bahwa meskipun tong itu berat, tapi ia yakin akan
 bisa menanganinya. Ia lalu bangkit, mengerahkan tenaga dalam ke tangan kanannya, 
 menunggu sampai tong itu tiba di dekatnya, lalu ia menangkapnya. Otot-otot punggung
 dan bahunya menonjol ketika ia berhasil mengendalikan tong itu sendirian. Ketika ia
@@ -1491,7 +1459,7 @@ juga semakin tidak mau mundur atau kelihatan takut. Kalau Qiu Chuji bukan pendek
 terkenal, ironisnya, situasi ini akan jauh lebih mudah untuk diselesaikan dan mungkin 
 sudah selesai saat itu.
 
-Han Baoju berseru, "Biao Mei (adik sepupu), ayo kita duluan." 
+Han Baoju berseru, "[Biao Mei], ayo kita duluan." 
 
 Ia adalah kakak sepupu pertama Han Xiaoying dari pihak ayahnya, dan dari mereka bertujuh, 
 yang paling tidak sabaran. Dalam satu gerakan, cambuk 'Naga Emas' yang ada di pinggangnya 
@@ -1502,34 +1470,15 @@ Qiu Chuji memutar pergelangan tangannya, menyebabkan cambuk malah mengenai tong.
 Kemudian dia memutar tubuhnya sedikit ke samping dan membiarkan pedang melewati 
 sisinya.
 
-Di akhir era Musim Semi dan Musim Gugur (**Spring and Autumn Period**, istilah untuk 
-periode kedua dalam Dinasti Zhou, yang saat itu terpecah-belah), negara bagian Yue 
-dan Wu adalah musuh bebuyutan. Raja negara bagian Yue, Gou Qian, untuk mengingatkan 
-dirinya sendiri akan kekalahan yang memalukan dan memotivasi diri untuk menang, 
-menyiksa diri dengan tidur di ranjang jerami dan mencicipi sebuah kantong empedu 
-yang digantungkan di langit-langit setiap hari. Namun demikian, Raja Wu 
-memiliki seorang jenderal yang bernama Wu Tzushi, murid Sun-Tze, yang adalah seorang 
-jendral besar, pelatih hebat dan ahli strategi. Melihat pasukannya masih bukan tandingan 
-musuh, Gou Qian semakin tertekan. Suatu hari, seorang gadis cantik dengan ilmu pedang 
-yang luar biasa tiba-tiba muncul di perbatasan Yue. Saking senangnya, Gou Qian 
-segera memintanya untuk mengajarkan ilmunya kepada para prajuritnya, dan 
-akhirnya bisa mengalahkan tentara Wu. Jiaxing, sebagai titik temu kedua negara, 
-adalah tempat di mana beberapa pertempuran terjadi. Tidak mengherankan jika 
-seluruh ilmu pedang diturunkan di wilayah ini. Masalah utama adalah semua ilmu
-pedang itu dirancang untuk digunakan secara lebih efektif di medan perang. Sebagian 
-besar digunakan untuk menebas banyak tentara dan menjatuhkan kuda di kerumunan. 
-Itu tidak cukup gesit dan lincah ketika digunakan untuk melawan jago kungfu di dunia 
-persilatan. Baru di akhir Dinasti Tang teknik pedang ini diperbaiki oleh seorang 
-pendekar pedang jenius dari daerah ini. Pendekar pedang ini membuat gerakannya jauh 
-lebih kompleks dan lebih cepat. Meskipun Han Xiaoying belum sepenuhnya menguasai 
-seluruh bagian yang diajarkan gurunya, tapi ia masih cukup mematikan. Julukannya 
-"Gadis Pedang Yue" sudah menjelaskan hal ini.
+Meskipun Han Xiaoying belum sepenuhnya menguasai seluruh bagian yang diajarkan gurunya, 
+tapi ia masih cukup mematikan. Julukannya Pendekar [Pedang Nona Yue](#yue-nu-xia "Yue Nu Xia, atau Pendekar Wanita Yue") 
+sudah menjelaskan hal ini.
 
 Dalam beberapa langkah, Qiu Chuji sudah membaca pola permainannya dan memutuskan 
 untuk mengalahkan kecepatannya dengan lebih cepat lagi. Dia cepat, Qiu Chuji bahkan 
 lebih cepat. Menggunakan lengan kanannya untuk memblokir cambuk Han Baoju, tangan 
 kirinya terulur untuk merebut pedang secara paksa dari tangan Han Xiaoying. Dalam 
-sekejap, Han Xiaoying dipaksa mundur ke sisi patung Buddha di kuil.
+sekejap, Han Xiaoying dipaksa mundur ke sisi patung Budha di kuil.
 
 Nan Xiren dan Zhang Ahsheng menyerbu dan menyerang dari kedua sisi. Nan Xiren 
 tidak bersuara, dan membiarkan tongkatnya yang bersuara. Tapi Zhang Ahsheng 
@@ -1627,7 +1576,7 @@ Qiu Chuji. Qiu Chuji berpikir, "Jadi, tampaknya biksu ini adalah ahli totokan."
 Ia memasang sikap waspada terhadap si biksu.
 
 Ke Zhen'E tahu dari semua teriakan bahwa saudara-saudaranya terluka, jadi ia 
-meraih tongkat besinya dan hendak menyerang ketika Quan Jinfa berteriak, "Da Ge, 
+meraih tongkat besinya dan hendak menyerang ketika Quan Jinfa berteriak, "[Da Ge], 
 pakai senjata rahasiamu! Pertama di 'Jin', lalu pilih 'Xiao Guo'!" Bahkan sebelum 
 suaranya mereda, dua senjata rahasia terbang langsung ke dahi dan pinggul kanan 
 Qiu Chuji.
@@ -1640,7 +1589,7 @@ memiliki sudut di keempat sisinya seperti berlian, tetapi ketajamannya tak terta
 oleh senjata sejenis yang dibuat oleh siapapun. Ia belajar menggunakannya setelah 
 ia buta karena senjata itu berat, memudahkan dia untuk menembak dengan akurat. 
 Setelah menjatuhkan senjata rahasia itu dengan tong, Qiu Chuji benar-benar merasakan 
-tong itu berguncang! Dia berpikir, "Luar biasa, betul-betul kuat!"
+tong itu berguncang! Ia berpikir, "Luar biasa, betul-betul kuat!"
 
 Sekarang semua Orang Aneh lainnya sudah tersingkir. Quan Jinfa masih terus berteriak, "'Zhong Fu', 
 sekarang 'Lie'!…. Bagus, sekarang Pendeta Tao pindah ke 'Ming Yi'..." Dia sudah 
@@ -1661,10 +1610,10 @@ ia mengangkat kedua tangannya dan menembakkan empat senjata, masing-masing di po
 di sebelah kiri 'Tong Ren'.
 
 Tidak menduga bahwa Ke Zhen'E akan tiba-tiba menggunakan tipuan, Qiu Chuji mengambil 
-langkah besar ke kiri dan menghindari posisi 'Tong Ren' ketika dua orang tiba-tiba 
+langkah lebar ke kiri dan menghindari posisi 'Tong Ren' ketika dua orang tiba-tiba 
 berteriak kesakitan. Bahu kanan Qiu Chuji terkena, tetapi senjata yang mengarah ke 
 posisi 'Matahari' mengenai punggung Han Xiaoying. Terkejut dan senang, Ke Zhen'E 
-berteriak, "Qi Mei, cepat kesini!"
+berteriak, "[Qi Mei], cepat kesini!"
 
 Menyadari bahwa kakaknya melapisi senjata itu dengan racun mematikan, Han Xiaoying 
 segera bergegas ke sisinya. Ke Zhen'E mengeluarkan pil kecil berwarna kuning dari 
@@ -1730,9 +1679,9 @@ Dengan hanya tersisa Ke Zhen'E dan Zhu Cong yang masih tidak terluka dan kondisi
 lain masih belum bisa dipastikan, bagaimana mungkin salah satu dari mereka akan 
 membiarkan dia lolos? Maka Ke Zhen’E mengangkat tongkat besinya dan berdiri di 
 depan pintu, menghalangi jalan keluarnya. Putus asa untuk bisa lolos dengan cara apa 
-pun, Qiu Chuji mengulurkan pedangnya tepat ke wajah Ke Zhen'E. Julukan Ke Zhen'E 
-'Kelelawar Terbang Melonjak Menembus Langit' muncul karena suatu alasan, jadi dia 
-dengan mudah mendengar apa yang sedang terjadi dan menangkis pedang dengan tongkatnya, 
+pun, Qiu Chuji mengulurkan pedangnya tepat ke wajah Ke Zhen'E. Julukan Ke Zhen'E —
+[Fei Tian Bian Fu] — bukan muncul tanpa alasan, jadi ia dengan mudah mendengar apa 
+yang sedang terjadi dan menangkis pedang dengan tongkatnya, 
 hampir menjatuhkan pedang dari tangan Qiu Chuji. Terkejut, Qiu Chuji berkata pada 
 dirinya sendiri, "Seberapa kuat tenaga dalam orang buta ini? Apa mungkin lebih kuat 
 dari aku?" Ia segera menyambung dengan tusukan lain, yang ditangkis lagi. Tapi 
@@ -1838,7 +1787,7 @@ Dengan marah Biksu Jiaomu menegur, "Kau mau dengar tidak? Letakkan... letakkan p
 Duan Tiande tertawa terbahak-bahak, "Letakkan pedangku? Lalu apa? Langsung dapat 
 pencerahan, gitu ya?" Ia mengangkat pedangnya, dan mengayunkannya ke arah Qiu Chuji.
 
-Myrka, Biksu Jiaomu menghinpun seluruh tenaganya lagi dan melemparkan potongan kayu 
+Murka, Biksu Jiaomu menghimpun seluruh tenaganya lagi dan melemparkan potongan kayu 
 yang terbakar di tangannya ke arah Duan Tiande sekuat tenaga. Duan Tiande mencoba 
 menghindar, tetapi kungfunya tidak cukup baik dan kena di pinggir mulutnya, merontokkan 
 tiga giginya. Dalam kesakitan dan terhina, Duan Tiande, mengabaikan fakta bahwa dia 
@@ -1847,7 +1796,7 @@ kepala biksu itu. Namun, seorang biksu kecil yang berada tepat di sampingnya men
 lengan kanannya dan menyelamatkan nyawa si biksu, sementara yang lain mencengkeram kerah 
 bajunya. Dengan marah, Duan Tiande mengayunkan pedangnya ke belakang dan menjatuhkannya 
 ke atas kedua biksu itu. Meskipun Qiu Chuji, Jiaomu, dan semua Orang Aneh adalah 
-ahli kungfu, mereka terluka parah atau jauh dari situ dan tidak dapat melakukan 
+jago kungfu, mereka terluka parah atau jauh dari situ dan tidak dapat melakukan 
 apa pun untuk menghentikannya.
 
 Li Ping berteriak, "Bajingan! Hentikan! Hentikan!" Dia diseret ke mana-mana oleh 
@@ -1859,7 +1808,7 @@ karena seragamnya. Semua orang cukup terkejut ketika ia tiba-tiba menyerang Duan
 
 Karena buta, pendengaran Ke Zhen'E sangat sensitif dan tahu bahwa Li Ping sebenarnya 
 perempuan begitu ia mendengar suaranya. Ia menoleh ke Jiaomu, "Biksu Jiaomu, kami 
-semua akan mati demi kau. Ternyata betul-betul ada perenpuan yang disembunyikan di 
+semua akan mati demi kau. Ternyata betul-betul ada perempuan yang disembunyikan di 
 kuilmu!"
 
 Sesaat setelah terkejut, akhirnya Biksu Jiaomu mulai memahami apa yang sebenarnya
@@ -1875,4 +1824,136 @@ Saking takutnya, Duan Tiande dengan segera meraih tangan Li Ping dan membawanya 
 secepat mungkin. Li Ping berteriak-teriak minta tolong, tapi teriakannya terdengar
 makin lama makin jauh, sampai akhirnya tak terdengar lagi.
 
+***
+
+<dl>
+    <dt id="yu-huang-da-di"><strong>Yu Huang Da Di</strong></dt>
+    <dd>
+        Dua karakter Huangdi (皇帝) dipakai Kaisar Qin Shi Huang sebagai julukan untuk
+        dirinya sendiri, yang secara umum bisa diartikan sebagai 'Kaisar', dan sejak saat
+        itu istilah ini mulai dipakai orang. Karakter 'Di' (帝) yang dipakai di sini
+        tidak mengacu kepada sosok penguasa tertinggi di muka bumi, melainkan sosok
+        'Mahadewa' dari mitologi panteon dalam Dinasti Shang. Sedangkan karakter Huang (皇)
+        artinya adalah 'kuning', gabungan keduanya mengacu ke sosok mitologi Tiongkok kuno
+        yang secara internasional dikenal sebagai 'Yellow Emperor'.
+        Yu Huang Da Di (玉皇大帝) adalah nama yang dipakai untuk sosok yang secara
+        internasional dikenal sebagai 'Jade Emperor'. 
+        Kutipan Si Sastrawan nyentrik di atas secara umum bertujuan untuk mengatakan bahwa sosok
+        Mahadewa dengan <em>otoritas tertinggi atas manusia</em> yang dipercayai masyarakat
+        pada saat itu akan murka.
+    </dd>
+    <dt id="ilustrasi-drama-1" title="Ilustrasi drama ketika Yan Lie kehilangan uangnya.">
+        <strong>Yan Lie kehilangan uang.</strong>
+    </dt>
+    <dd>
+        <a href="https://youtube.com/clip/UgkxlO6SQZVF62GUsdm0BB3oM1dWl6dqEjqz" 
+           target="_blank">Cuplikan adegan dari versi 2003</a> ketika Yan Lie kehilangan uangnya ini 
+           tidak betul-betul tepat sama seperti urutan peristiwa dalam novel Jin Yong ini. 
+           Tetapi dialog dan peristiwa yang terjadi masih cukup representatif.
+    </dd>
+    <dt id="urutan-persaudaraan"><strong>Panggilan Persaudaraan</strong></dt>
+    <dd>
+        Bahasa Mandarin untuk angka 1 — 10 adalah <strong>(一、二、三、四、五、六、七、八、九、十)</strong>,
+        dibaca: '<em>Yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí</em>'. Sedangkan angka 0 adalah 'Ling' (零).
+        Tentu saja tidak ada saudara di urutan ke-0.
+        Dalam memanggil saudara, urutan ini tinggal ditambahkan ke panggilan 'Ge' untuk kakak laki-laki, 
+        atau 'Jie' untuk kakak perempuan.
+        Misalnya <strong>Er Ge</strong> (二哥) adalah 'kakak kedua' (laki-laki), atau <strong>Er Jie</strong> (二姐) 
+        untuk perempuan, karena 'Jie' (姐) adalah 'kakak'. Ini <em>sama saja</em> dengan dialek Hokkian di Indonesia 'Cik',
+        atau bahasa Mandarin dengan gaya <em>romanisasi</em> ala Kho Ping Hoo atau Gan KL — 'Ci'. Sering juga ditulis 'Cie'.
+        Demikian juga untuk 'adik' — 'Qi Di' (七弟) untuk 'Adik Laki-laki Ketujuh', atau Qi Mei (七妹) untuk
+        'Adik Perempuan Ketujuh'.
+        <p>
+           Sedikit berbeda untuk saudara seperguruan, yang memakai istilah 'Shi' (师), dan menjadi 'Shi Ge' 
+           (师哥) untuk 'Kakak seperguruan laki-laki', dan 'Shi Jie' (师姐) untuk perempuan. Istilah Xiong (兄),
+           yang bermakna literal 'saudara laki-laki' bisa jadi digunakan oleh beberapa penulis untuk menggantikan
+           'Ge', karenanya akan menjadi 'Shi Xiong' (师兄).
+        </p>
+        <p>
+           Demikian juga berlaku untuk saudara sepupu , atau 'Biao' (表). Yang laki-laki, dan lebih muda akan dipanggil
+           Biao Di (表弟), dan Biao Mei (表妹) untuk perempuan.
+        </p>
+    </dd>
+    <dt id="laughing-budha"><strong>Budha Tertawa</strong></dt>
+    <dd>
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676747919/sdyxz/originals/laughing-budha_f7zux4.jpg" alt="Budha Tertawa" title="Budha Tertawa">
+    </dd>
+    <dt id="yue-nu-xia"><strong>Pedang Nona Yue</strong></dt>
+    <dd>
+        Di akhir era Musim Semi dan Musim Gugur, negara bagian Yue dan Wu adalah musuh bebuyutan. 
+        Raja negara bagian Yue, Gou Qian, untuk mengingatkan dirinya sendiri akan kekalahan 
+        yang memalukan dan memotivasi diri untuk menang, menyiksa diri dengan tidur di ranjang 
+        jerami dan mencicipi sebuah kantong empedu yang digantungkan di langit-langit setiap hari. 
+        Namun demikian, Raja Wu memiliki seorang jenderal yang bernama Wu Tzushi, murid Sun-Tze, 
+        yang adalah seorang jendral besar, pelatih hebat dan ahli strategi. Melihat pasukannya 
+        masih bukan tandingan musuh, Gou Qian semakin tertekan. Suatu hari, seorang gadis 
+        cantik dengan ilmu pedang yang luar biasa tiba-tiba muncul di perbatasan Yue. Saking 
+        senangnya, Gou Qian segera memintanya untuk mengajarkan ilmunya kepada para prajuritnya, dan 
+        akhirnya bisa mengalahkan tentara Wu. Jiaxing, sebagai titik temu kedua negara, 
+        adalah tempat di mana beberapa pertempuran terjadi. Tidak mengherankan jika 
+        seluruh ilmu pedang diturunkan di wilayah ini. Masalah utama adalah semua ilmu
+        pedang itu dirancang untuk digunakan secara lebih efektif di medan perang. Sebagian 
+        besar digunakan untuk menebas banyak tentara dan menjatuhkan kuda di kerumunan. 
+        Itu tidak cukup gesit dan lincah ketika digunakan untuk melawan jago kungfu di dunia 
+        persilatan. Baru di akhir Dinasti Tang teknik pedang ini diperbaiki oleh seorang 
+        pendekar pedang jenius dari daerah ini. Pendekar pedang ini membuat gerakannya jauh 
+        lebih kompleks dan lebih cepat. Julukan Han Xiaoying mengacu kepada Jurus Pedang Nona Yue ini.
+    </dd>
+</dl>
+
+[Musim Semi dan Musim Gugur]: #spring-and-autumn-period "Sebuah era dalam Dinasti Zhou, di mana Konfusius hidup dan berkarya. Era ini adalah permulaan dari perpecahan Dinasti Zhou"
+
+[Zuili]: #zuili "Arti literalnya kurang lebih adalah 'Buah Prem Mabuk', atau 'Drunken Plum'."
+
+[Da Ge]: #dage "(大哥) Kakak laki-laki tertua. Versi Kho Ping Hoo atau Gan KL adalah 'Toako'. istilah 'Ge' di sini sama dengan 'Koko', yang jauh lebih populer dan banyak digunakan di Indonesia."
+
+[Si Di]: #sidi "Si Di (四弟),  adik laki-laki keempat."
+
+[Qi Mei]: #qimei "Qi Mei (七妹), adik perempuan ketujuh."
+
+[Wu Ge]: #wuge "Wu Ge (五哥), kakak laki-laki kelima."
+
+[Liu Ge]: #liuge "Liu Ge (六哥), kakak laki-laki keenam."
+
+[Er Di]: #erdi "Er Di (二弟), adik laki-laki kedua."
+
+[Er Ge]: #erge "Er Ge (二哥), kakak laki-laki kedua."
+
+[San Ge]: #sange "San Ge (三哥), kakak ketiga."
+
+[^nuerhong]: Nu'Er Hong (女儿红) adalah nama untuk arak merah dari wilayah Shaoxing, propinsi Zhejiang. Istilah ini punya arti literal 'Anak Perempuan Merah', di mana Nu'Er itu bermakna seperti dalam Wo De Nu'Er (我的女儿), atau 'Anak perempuan saya'."
+
+[Xiansheng]: #xiansheng "Panggilan sopan yang umum untuk seorang laki-laki. Kurang lebih seperti 'Pak Han', atau 'Saudara Han'."
+
+[^jiangnan]: **Selatan Sungai Yangtze**, wilayah ini dikenal sebagai Jiangnan (江南), yang secara literal memang berarti 'Sebelah Selatan Sungai'. Sungai yang dimaksud di sini adalah Sungai Yangtze. Jiangnan terletak tepat di bagian Selatan sungai itu. Daerah ini adalah kampung halaman Ketujuh Orang Aneh, karenanya julukan mereka adalah Jiangnan Qi Guai[^jiang-nan-qi-guai] (Tujuh Orang Aneh dari Jiangnan).
+
+[^utara-sungai]: **Utara Sungai Yangtze**, kebalikan dari Jiangnan, di masa itu daerah ini dikuasai oleh Dinasti Jin.
+
+[^jiang-nan-qi-guai]: **Tujuh Orang Aneh dari Selatan** yang dimaksud di sini adalah _Selatan Sungai Yang Tze_. Daerah tersebut lebih dikenal luas sebagai _Jiangnan_. Dari sisi estetika barangkali lebih baik kita tulis 'Jiangnan Qi Quai' (江南七怪). Istilah ini untuk selanjutnya akan dipakai secara bergantian dengan 'Tujuh Orang Aneh dari Jiangnan'.
+
+[^furen]: **Fu Ren** (夫人, baca: Fūrén), Nyonya atau 'Ibu', istilah umum untuk menyapa seorang perempuan yang sudah menikah. Di masa itu, seorang suami juga bisa memanggil istrinya dengan sebutan ini. Google Translate menerjemahkannya menjadi 'Wanita', tetapi ini akan _keliru_ kalau wanita tersebut _belum menikah_.
+
+[^peribahasa-1]: Seperti istilah sehari-hari "Barusan dibicarakan!", '_Shou Cao Cao, Cao Cao Lai Le_ (说曹操 ， 曹操来了)'. Ini adalah sebuah peribahasa atau _anekdot_ dengan memakai nama orang _kuno_ yang dianggap sebagai tokoh antagonis di jaman itu, yaitu 'Cao Cao', Maknanya kurang lebih sama seperti ungkapan bahasa Inggris 'Speak of the devil!'.
+
+[Amitoufu]:  #amitoufu "Amitoufu (阿眯头佛), salam dalam agama Budha. Kalau mengikuti gaya Kho Ping Hoo, ini biasa diterjemahkan menjadi 'Amitabha', dan memang bahasa Sansekerta untuk ini adalah 'Amitabha' (अमिताभ). Sebenarnya ini adalah nama seorang tokoh penting agama Budha, yang di dalam beberapa Kitab Suci agama Budha digambarkan sebagai seorang mantan Raja bernama Dharmakara. Karena konteks cerita ini, maka kalau diucapkan oleh tokoh seperti Biksu Jiaomu, sebaiknya ditulis 'Amitoufu', yang lebih mirip suara yang diucapkannya."
+
+[Jiaomu]: #jiaomu "Jiao Mu (焦木) Secara literal berarti 'Kayu Hangus'."
+
+[^biksu-jiaomu]: Nama **Jiao Mu** (焦木) ini secara literal berarti 'Kayu Hangus'.
+
+[^gelar-qiu-chuji]: Gelar Qiu Chuji bermakna 'Musim Semi Abadi', atau Chang Chunji (长春季). Sebenarnya karakter Chang (长) di sini bisa bermakna 'Panjang' atau 'Lama'. Karenanya istilah dalam bahasa Inggris 'Everlasting Spring' terasa lebih sesuai.
+
+[Yanjing]: #yanjing "Di jaman modern adalah kota Beijing"
+
+[Daxia]: #daxia "Da Xia (大俠), arti literalnya adalah 'Pahlawan Besar', dalam konteks ini adalah 'Pendekar'."
+
+[Budha Tersenyum]: #xiaofu "Budha Tertawa, atau Budha Tersenyum, Xiao Fu (笑佛), punya banyak nama alternatif. Nama lainnya adalah 'Pang Fu' (胖佛), yang bermakna Budha Gendut, atau Kuai Le Fu (快乐佛) — di Indonesia istilah ini adalah 'Ji Lai Hud', yang bermakna 'Budha Bahagia'."
+
+[^jilaihud]: Julukan Zhang Ahsheng, yaitu Budha Tertawa, atau Budha Tersenyum, Xiao Fu (笑佛). Karakter ini sendiri punya banyak nama alternatif. Nama lainnya adalah 'Pang Fu' (胖佛), yang bermakna Budha Gendut, atau Kuai Le Fu (快乐佛) — di Indonesia istilah ini adalah 'Ji Lai Hud', yang bermakna 'Budha Bahagia'. Perilaku Zhang Ahsheng maupun potongannya yang tinggi besar memang mirip karakter ini, meskipun tak pernah digambarkan bahwa Si Budha Tertawa punya dada berbulu lebat atau berotot. Zhang Ahsheng adalah pribadi yang tak pernah serius. Kecuali soal otot dan tampang tukang jagal, Zhange Ahsheng memang sangat cocok dengan [karakter berikut](#laughing-budha).
+
+[Biao Mei]: #biaomei "Biao Mei (表妹), adik sepupu perempuan."
+
+[Fei Tian Bian Fu]: #fei-tian-bian-fu "Fei Tian Bian Fu (飞天蝙蝠), bermakna 'Kelelawar Terbang'."
+
+[yuan bao]: #yuanbao "Yuan Bao (元宝), lantakan emas atau perak yang berbentuk perahu, berfungsi sebagai alat tukar."
 

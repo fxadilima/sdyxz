@@ -1,15 +1,11 @@
-# Pertemuan Para Musuh
+# Bab 10
+## Pertemuan Para Musuh
 
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/Ugkx7kJ3OZJ44bTcMesviBzko87HM9IR1vnI" target="_blank">
-        <img src="images/mei-chaofeng-dan-guojing.jpg" alt="Mei Chaofeng Dibantu Guo Jing" width="75%"/>
-    </a>
-    <div class="w3-container w3-center">
-        <p><em>
-        Dengan bantuan Guo Jing, Mei Chaofeng yang terluka mengamuk.
-        </em></p>
-    </div> 
-</div>
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 10](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692788/sdyxz/originals/loch-10_nsxcbk.jpg) | _Mengikuti arahannya, Guo Jing menempatkan Mei Chaofeng di atas bahunya dan buru-buru mengejar lawan yang melarikan diri. Tubuhnya memiliki dasar-dasar kungfu yang kuat, dan tubuh Mei Chaofeng tidak berat, jadi meskipun wanita itu bertengger di atas bahunya, kegesitannya sama sekali tidak berkurang. Ia dengan cepat melompat ke depan dan Mei Chaofeng tegak bersamanya._ |
+
+***
 
 Wanyan Kang sangat terkejut ketika melihat Yang Tiexin keluar dari dalam lemari itu,
 dan kemudian mengenalinya. Ia berteriak, "Ternyata kau!" Ia mengacungkan tombak besi itu
@@ -61,7 +57,7 @@ tangan menyapu hidungnya dan ia merasakan sakit yang luar biasa di mukanya, seak
 dikikis dengan pisau. Tenaga dalam orang itu sangat kejam, dan tambahan lagi, nyaris tanpa
 suara, hampir-hampir membuatnya kehilangan kewaspadaan. Ia terkejut ketika mendengar orang
 itu berteriak marah, "Anak petani, orang tua ini sudah terlalu lama menunggu! Ayo cepat 
-ulurkan lehermu, biar orang tua ini bisa minum darahmu!" Itu ternyata Si Dewa Ginseng, Liang Ziwong.
+ulurkan lehermu, biar orang tua ini bisa minum darahmu!" Itu ternyata Si Dewa Ginseng, Liang Ziweng.
 
 ***
 
@@ -354,12 +350,12 @@ kelompok bersenjata lainnya untuk melacak dan menangkap penyusup. Istana itu dal
 Guo Jing bertemu dengan Lian Ziwong di dekat tembok. Ketika melihat orang itu lagi-lagi 
 mengincar lehernya untuk meminum darahnya, ia terkejut, berbalik dan melarikan diri. Ia
 tidak tahu mana arah Selatan atau Utara, maka ia memutuskan untuk bersembunyi di salah satu
-tempat. Liang Ziwong begitu bernafsu ingin minum darahnya, sehingga tidak memperlambat
+tempat. Liang Ziweng begitu bernafsu ingin minum darahnya, sehingga tidak memperlambat
 larinya sama sekali. Untungnya ilmu meringankan tubuh Guo Jing bagus, kalau tidak, meskipun
 malam itu sangat gelap, ia sudah lama tertangkap. Api obor padam dan ia tidak lagi bisa
 melihat arah yang sedang ditujunya. Ia hanya bisa merasakan bahwa entah bagaimana ia melangkah
 ke ke daerah yang banyak berduri, tanahnya kasar dan berbatu-batu. Duri-duri itu melukai
-kakinya, tetapi kalau ia teringat tentang Liang Ziwong menggigit tenggorokannya, ia tidak 
+kakinya, tetapi kalau ia teringat tentang Liang Ziweng menggigit tenggorokannya, ia tidak 
 bisa membiarkan duri-duri kecil itu merintangi jalannya. Bahkan gunung atau hutan pedang
 sekalipun tidak akan bisa menghentikan dia.
 
@@ -370,15 +366,14 @@ terluka. Tapi di luar dugaan, ternyata kakinya mendarat di atas sebuah batu bula
 kehilangan keseimbangan dan jatuh terlentang. Tangannya, yang menopangnya, memcengkeram salah satu
 batu bulat tersebut. Kengerian melanda dirinya ketika ia meraba-raba batu bulat itu dengan jarinya.
 Ternyata batu bulat itu adalah tengkorak manusia. Tampaknya lubang yang sangat dalam ini adalah
-tempat pembuangan mayat-mayat orang yang dieksekusi di istana Pangeran Zhao. Ia mendengar Liang Ziwong
+tempat pembuangan mayat-mayat orang yang dieksekusi di istana Pangeran Zhao. Ia mendengar Liang Ziweng
 berteriak memanggilnya dari atas, "Hei bocah, cepat naik sini!"
 
-Guo Jing thought, “I’m not stupid enough to come up only to die!” With that, he raised
-his hand trying to touch the back of the pit, but he felt nothing. He moved forward,
-ready to defend himself against Liang Ziwong, who might follow him and try to kill
-him.
+Guo Jing berpikir, "Aku tidak sebodoh itu, naik hanya untuk mati!" Ia mengangkat tangannya, mencoba
+menyentuh dinding belakang lubang itu, tapi ia tidak merasakan apa-apa. Ia bergerak maju, bersiap
+untuk melawan Liang Ziweng, seandainya orang itu mengikutinya dan berusaha membunuhnya.
 
-Setelah memaki-maki, Liang Ziwong berpikir mungkin Guo Jing tidak bisa kembali ke atas dan
+Setelah memaki-maki, Liang Ziweng berpikir mungkin Guo Jing tidak bisa kembali ke atas dan
 ia berteriak marah, "Kalaupun kau lari ke neraka, orang tua ini akan tetap mengejarmu!"
 Sambil menarik nafas dalam-dalam, ia melompat turun.
 
@@ -386,18 +381,18 @@ Guo Jing sangat terkejut dan mundur beberapa langkah, dan ternyata di belakangny
 Ia berpaling dan mengulurkan kedua lengannya berusaha meraba jalan. Sememtara terus berjalan,
 ia menemukan bahwa tempat itu ternyata adaah sebuah lorong.
 
-Liang Ziwong juga memperhatikan lorong itu. Keberaniannya timbul karena keterampilannya yang tinggi,
+Liang Ziweng juga memperhatikan lorong itu. Keberaniannya timbul karena keterampilannya yang tinggi,
 maka meskipun tempat itu sangat gelap sampai-sampai ia tidak bisa melihat kelima jarinya sendiri, 
 ia tidak takut Guo Jing memasang perangkap untuk menjebaknya. Ia mengikuti, dan bahkan lebih menyukai
 situasi ini. Ia berpikir, "Ini seperti menangkap kura-kura di dalam toples. Bocah ini tidak mungkin
 keluar lagi. Mana mungkin aku gagal minum darahnya?"
 
-Guo Jing kuatir. Lorong selalu berujung ke jalan buntu! Liang Ziwong tertawa keras-keras,
+Guo Jing kuatir. Lorong selalu berujung ke jalan buntu! Liang Ziweng tertawa keras-keras,
 kedua tangannya terentang untuk meraba-raba dinding lorong. Ia sabar dan melangkah perlahan-lahan,
 langkah demi langkah.
 
 Guo Jing berlari ke depan beberapa kaki ketika menyadari bahwa ia telah tiba di ujung lorong,
-yang ternyata adalah sebuah gua bawah tanah. Liang Ziwong juga menyusul sambil tertawa, "Anak
+yang ternyata adalah sebuah gua bawah tanah. Liang Ziweng juga menyusul sambil tertawa, "Anak
 petani itu mau lari kemana?"
 
 Tiba-tiba dari sudut kiri terdengar suara serak yang menyeramkan berkata, "Siapa yang bertingkah
@@ -406,7 +401,7 @@ sembarangan di sini?"
 Tak satu pun dari mereka berdua menduga bahwa ada seseorang yang tinggal di dalam lubang gelap
 ini, tetapi mereka tidak bisa mengabaikan suara itu. Suara itu, meskipun serak, sebenarnya
 menggelegar seperti halilintar di telinga. Guo Jing sangat ketakutan dan jantungnya berdetak
-kencang. Liang Ziwong juga tidak bisa menahan rasa ngeri yang mendadak timbul. Mereka mendengar
+kencang. Liang Ziweng juga tidak bisa menahan rasa ngeri yang mendadak timbul. Mereka mendengar
 suara bernada muram itu berkata, "Mereka-mereka yang masuk ke guaku biasanya sudah busuk. Kalian
 begitu tidak sabar untuk mati?" Suara itu sekarang mulai mirip suara wanita, cemas dan bernafas
 berat, seolah-olah ia sedang sakit parah.
@@ -415,64 +410,64 @@ Ketika keduanya menyadari bahwa suara itu bukan suara hantu, ketakutan mereka le
 mendengarkan kata-katanya dan buru-buru menjelaskan, "Aku tidak bermaksud datang ke sini,
 ada orang yang mengejarku..."
 
-Sebelum ia bisa menyelesaikan kalimatnya, Liang Ziwong sudah bisa menebak tempatnya berdiri.
+Sebelum ia bisa menyelesaikan kalimatnya, Liang Ziweng sudah bisa menebak tempatnya berdiri.
 Ia berlari ke depan dan mengulurkan tangan untuk menangkapnya. Guo Jing mendengar desiran
-angin yang disebabkan oleh gerakan tangannya dan buru-buru mengelak. Liang Ziwong mengubah
+angin yang disebabkan oleh gerakan tangannya dan buru-buru mengelak. Liang Ziweng mengubah
 arah, memaksa Guo Jing untuk menghindar sekali lagi ke kanan. Keadaan saat itu gelap gulita,
 maka orang hanya bisa menangkap tanpa sasaran yang jelas, dan hanya bisa menghindar sebisanya.
-Tiba-tiba, terdengar suara robekan kain. Liang Ziwong berhasil merenggut lengan kiri jubah 
+Tiba-tiba, terdengar suara robekan kain. Liang Ziweng berhasil merenggut lengan kiri jubah 
 Guo Jing. Wanita itu berkata dengan marah, "Siapa berani menangkap orang d sini?"
 
-Liang Ziwong memaki, "Kau menyamar jadi hantu, mau menakut-nakuti aku ya!"
+Liang Ziweng memaki, "Kau menyamar jadi hantu, mau menakut-nakuti aku ya!"
 
 Terdengar seperti menderita asma, wanita itu mulai terengah-engah dan berkata, "Bocah itu boleh
 sembunyi di sini."
 
 Guo Jing tadinya berpikir bahwa situasinya tidak ada harapan dan sangat kritis, tapi ketika ia
 mendengar apa yang diucapkan wanita itu, tanpa ragu lagi ia melompat ke arahnya tepat di saat
-ia merasakan kelima jari Liang Ziwong yang sedingin es menyentuh pergelangan tangannya. Mereka
+ia merasakan kelima jari Liang Ziweng yang sedingin es menyentuh pergelangan tangannya. Mereka
 jauh lebih kuat dari dirinya, maka ketika ia ditarik oleh wanita itu, tubuhnya tidak mampu 
 melawan tarikan itu dan merasa dirinya mati rasa. Sambil terengah-engah wanita itu bertanya
-kepada Liang Ziwong, "Kau mampu menangkapnya dengan baik, berarti kungfumu tidak bisa diremehkan.
+kepada Liang Ziweng, "Kau mampu menangkapnya dengan baik, berarti kungfumu tidak bisa diremehkan.
 Kau berasal dari luar perbatasan ya?"
 
-Liang Ziwong terkejut. Ia berpikir, "Aku bahkan tidak bisa melihatnya sedikit pun, mana mungkin
+Liang Ziweng terkejut. Ia berpikir, "Aku bahkan tidak bisa melihatnya sedikit pun, mana mungkin
 dia bisa mengenali ilmu silatku? Apa dia bisa melihat di kegelapan? Perempuan ini pasti seorang tua
 nyentrik yang sombong dan tegas!" Ia tidak berani bicara sembarangan, dan sebaliknya ia berkata
 dengan ramah, "Wanbei hanya tamu di sini, dari Guangdong, bermarga Liang. Anak ini mencuri sesuatu
 dari wanbei. Wanbei hanya ingin mengambilnya kembali. Wanbei minta Qianbei jangan ikut campur."
 
-Wanita itu berkata, "Ah, apa Si Dewa Ginseng Liang Ziwong mencoba untuk membenarkan apa yang salah?
+Wanita itu berkata, "Ah, apa Si Dewa Ginseng Liang Ziweng mencoba untuk membenarkan apa yang salah?
 Orang yang satunya kelihatannya tidak menyadari ini. Aku tidak berminat mencampuri urusanmu,
 tapi setelah dia datang ke guaku, kejahatan itu tidak bisa dikejar lagi. Lao Liang, kau ini 
 ahli kungfu, masa kau tidak mengerti aturan Wulin?"
 
-Liang Ziwong lebih kaget lagi, dan bertanya, "Boleh aku tahu nama _Qianbei_?"
+Liang Ziweng lebih kaget lagi, dan bertanya, "Boleh aku tahu nama _Qianbei_?"
 
 Wanita itu berkata, "Aku... aku..." Guo Jing merasa bahwa tangan yang menggenggam pergelangan tangannya
 bergetar hebat, jari-jarinya mulai mengendur dan ia mendengar wanita itu mencoba menahan erangan, seolah-olah
 sedang sangat kesakitan. Ia bertanya, "Kau sakit?"
 
-Kungfu Liang Ziwong yang tinggi membuatnya mampu mendengar suara erangan wanita itu, dan
+Kungfu Liang Ziweng yang tinggi membuatnya mampu mendengar suara erangan wanita itu, dan
 menduga bahwa kungfunya telah hilang, bukan karena sakit, tetapi karena cedera hebat
 yang melemahkan seluruh tubuhnya. Ia segera menyalurkan tenaga ke lengannya, lalu mengulurkan
 kedua tangannya secara bersamaan untuk mencengkeram dada Guo Jing. Ia berhasil menyentuh
 pakaiannya, lalu bersiap untuk mencengkeram, ketika mendadak ia merasakan tenaga yang sangat
-kuat bertemu dengan pergelangan tangannya. Liang Ziwong terperajat, ia menemukan kenyataan bahwa
+kuat bertemu dengan pergelangan tangannya. Liang Ziweng terperajat, ia menemukan kenyataan bahwa
 ketika ia mengulurkan tangan kirinya, ia bisa meraih tangan wanita itu. Wanita itu
-berteriak marah, "Awas!" Sebuah telapak tangan menghantam punggung Liang Ziwong, yang memaksanya
+berteriak marah, "Awas!" Sebuah telapak tangan menghantam punggung Liang Ziweng, yang memaksanya
 mundur beberapa langkah. Untung baginya, tenaga dalamnya cukup bagus, karenanya ia tidak terluka.
 
-Liag Ziwong memaki, "_Hao Zeibo_! Ayo sini." Kata-kata makian itu berarti 'Ibu mertua maling', dan
+Liang Ziweng memaki, "_Hao Zeibo_! Ayo sini." Kata-kata makian itu berarti 'Ibu mertua maling', dan
 yang dimaksud 'maling' di sini adalah Guo Jing. Ketika wanita itu terus terengah-engah dan tetap
-diam tak bergerak, Liang Ziwong menyadari bahwa wanita itu tidak dapat menggerakkan tubuh bagian bawahnya.
+diam tak bergerak, Liang Ziweng menyadari bahwa wanita itu tidak dapat menggerakkan tubuh bagian bawahnya.
 Rasa takutnya segera berkurang dan ia bergerak mendekat perlahan-lahan. Ia baru bermaksud melompat 
 ke depan untuk menyerang ketika merasa ada sesuatu melilit pergelangan kakinya. Benda ini mirip
 sebuah cambuk lunak, tanpa suara dan tidak terdeteksi. Merasa sangat terkejut, ia segera melawan,
 tetapi cambuk itu mampu mengangkat tubuhnya dalam sekejap. Ia berusaha menendang wanita itu sementara
 ubun-ubunnya menghantam dinding tanah.
 
-Ilmu tendangan Liang Ziwong tak tertandingi di luar tembok perbatasan. Ini melambungkan nama besarnya
+Ilmu tendangan Liang Ziweng tak tertandingi di luar tembok perbatasan. Ini melambungkan nama besarnya
 selama dua puluh tahun. Tetapi ia tidak mengira bahwa sebelum tendangannya mencapai sasaran, ia merasa
 titik akupuntur Chong Yang Xue, yang terletak lima inci dari punggung kakinya, tiba-tiba mati rasa.
 Kalau titik vital ini sampai tertotok lawan, maka seluruh kakinya akan mati rasa. Untungnya ia berhasil
@@ -489,7 +484,7 @@ mengguncangkan wanita itu. Telapak tangannya sepuluh kali lebih kuat dari sebelu
 ia mengira bahwa wanita yang terdengar mirip penderita asma itu jelas tidak akan punya
 tenaga dalam untuk menahannya. Lalu ia tiba-tiba mendengar teriakan keras sementara merasakan
 tangan lawan meluncur deras ke arahnya, jari-jari wanita itu sudah bersentuhan dengan bahunya.
-Tangan kiri Liang Ziwong merasakan pergelangan tangan lawan yang sedingin es, seolah bukan terbuat 
+Tangan kiri Liang Ziweng merasakan pergelangan tangan lawan yang sedingin es, seolah bukan terbuat 
 dari daging dan tulang. Wanita itu menyerang sekali lagi. Ia segera berguling 
 menjauh dan bergegas menggunakan tangan dan kakinya untuk merangkak keluar dari lorong. Sambil
 terengah-engah ia berpikir, "Aku sudah hidup selama puluhan tahun, tapi belum pernah mengalami
@@ -503,7 +498,7 @@ Aku hampir kehilangan nyawa dalam dua pertemuan itu. Apa mungkin pembuatan pil p
 sungguh-sungguh bertentangan dengan Kehendak Surga, dan membuat iri para hantu dan dewa, jadi aku
 gagal meskipun sudah di ambang sukses?"
 
-Ketika Guo Jing mendengar suara langkah Liang Ziwong makin lama makin jauh, ia merasa
+Ketika Guo Jing mendengar suara langkah Liang Ziweng makin lama makin jauh, ia merasa
 sangat lega dan segera berlutut, _kowtow_ di hadapan wanita itu, katanya, "_Wanbei_ sangat
 berterima kasih untuk pertolongan _Qianbei_. Qianbei menyelamatkan nyawaku."
 
@@ -633,13 +628,6 @@ Sepasang Iblis Angin Hitam, Mei Chaofeng. Guo Jing ketakutan setengah mati, ia m
 tangan kirinya untuk meronta, tapi jari-jari Mei Chaofeng tertancap kuat di dagingnya. Ia agak
 bingung, "Mana mungkin? Kenapa dia menyelamatkan aku? Tidak mungkin! Tapi dia sungguh-sungguh
 Mei Chaofeng!"
-
-Mei Chaofeng sat on the ground, her right hand clutching Guo Jing’s neck, her left holding 
-his wrist. For more than ten years, she had been searching for the man who killed
-her husband and now, suddenly, he was here. “Is it the work of my ‘Bastard’ husband
-from below, to have that person die in my hands?” In her heart she was delighted beyond 
-measure; but this was quickly overcome by grief as past events from her life, no
-matter how much she fought it, came to her in brief flashes.
 
 Mei Chaofeng duduk di atas tanah, tangan kanannya mencengkeram leher Guo Jing, tangan kirinya
 mencekal pergelangan tangannya. Lebih dari sepuluh tahun ia mencari-cari orang yang membunuh
@@ -904,14 +892,10 @@ Mei Chaofeng sangat gembira dan berkata, "Marga Guo... Bocah bermarga Guo ini bi
 memgajariku ilmu tenaga dalam dari Quanzhen. Kalau aku, Mei Chaofeng, tidak mengantarkan obat untuk
 Wang Chuyi, maka seluruh tubuhku akan lumpuh dan selamanya akan menderita."
 
-When Guo Jing heard the voice, he recognized it as the Three-Headed Dragon Hou
-Tonghai. Another one said, “Surely, the small girl is nearby. I’m relieved. She can’t run
-away.” The same time that the two people were talking, they were also walking away.
-
 Segera setelah ia mengatakan semua itu, di seelah kiri mereka, kurang lebih sepuluh zhang di depan
 istana, seseorang memaki, "_Chou Xiao Zi_, cepat keluar dan serahkan nyawamu!"
 
-Keika Guo Jing mendengar suara itu, ia segera mengenalinya sebagai suara Naga Berkepala Tiga, 
+Ketika Guo Jing mendengar suara itu, ia segera mengenalinya sebagai suara Naga Berkepala Tiga, 
 Hou Tonghai. Orang lainnya berkata, "Sudah pasti anak itu di dekat sini. Aku lega. Dia tidak bisa
 melarikan diri." Sambil bicara, kedua orang itu melangkah pergi.
 
@@ -1092,7 +1076,7 @@ merasa puas dengan dirinya sendiri. Otaknya yang tumpul tidak berfungsi cukup ce
 terlambat mengingat bahwa ia mengenakan rompi landak yang lembut. Ia berteriak keras, 
 buru-buru menarik kedua tinjunya, dan memukul dahinya sendiri di atas tiga benjolan, 
 berteriak kesakitan. Di bagian mana lagi ia bisa menyerang Huang Rong, selain rambutnya? 
-Pada saat itu, Sha Tongtian, Liang Ziwong, dan Peng Lianhu tiba. Liang Ziwong melihat 
+Pada saat itu, Sha Tongtian, Liang Ziweng, dan Peng Lianhu tiba. Liang Ziweng melihat 
 Ouyang Ke terlibat dalam perkelahian yang kejam, jubah panjangnya robek dan compang-camping, 
 dan menyadari bahwa wanita itu adalah orang yang sama yang berpura-pura menjadi hantu di dalam gua. 
 Sambil berteriak marah, ia maju menyerang. Sha Tongtian dan yang lainnya mencatat bahwa sikap 
@@ -1125,7 +1109,7 @@ Guo Jing tidak mengerti maksudnya, tapi ia ingin membantunya melawan dua musuh b
 tinggi itu. Menuruti kata-katanya, ia membungkuk untuk memegang kaki Mei Chaofeng.
 
 Mei Chaofeng menggunakan tangan kirinya untuk menahan telapak tangan Ouyang Ke sementara
-tangan kanannya mendorong ke arah Liang Ziwong. Ia berkata kepada Guo Jing, "Bawa aku ke arah
+tangan kanannya mendorong ke arah Liang Ziweng. Ia berkata kepada Guo Jing, "Bawa aku ke arah
 si tua Liang itu!"
 
 Guo Jing tiba-tiba mengerti, "Dia tidak bisa menggerakkan tubuh bagian bawahnya. Dia ingin
@@ -1143,20 +1127,10 @@ Guo Jing menjawab, "Duduk bersila dengan lima hati menghadap ke Surga."
 Mei Chaofeng bertanya, "Apa maksudnya 'lima hati menghadap ke Surga'?"
 
 Guo Jing berkata, "Pusat dua telapak tangan, pusat dua telapak kaki, dan bagian tengah ubun-ubun
-– itu semua adalah 'lima hati'." Mei Chaofeng girang dan semangatnya bangkit. Ia meraih bahu Liang Ziwong,
+– itu semua adalah 'lima hati'." Mei Chaofeng girang dan semangatnya bangkit. Ia meraih bahu Liang Ziweng,
 yang jantungnya serasa melompat karena terkejut, dan melarikan diri.
 
-Guo Jing was about to chase after him when suddenly the Dragon King Sha Tongtian
-ran in front of him to help his apprentice brother capture Huang Rong. Startled, he
-hastily carried Mei Chaofeng towards them, shouting, “First, let’s take care of these
-two!”  Mei Chaofeng stretched out her left arm, heading towards Hou Tonghai. Hou
-Tonghai anxiously withdrew, trying to dodge. Who would think that Mei Chaofeng’s
-arm would be so violent as though it had the strength of an ape? Although Hou
-Tonghai’s dodging was quick, her arm was still able to follow his body. Grabbing him,
-the fingers of her right hand were already digging into him. Hou Tonghai’s entire body
-went numb. He could no longer move.
-
-Guo Jing hendak mengejarnya ketika tiba-tiba Si Raja Naga Sha Tongtian berlari di depannya untuk
+Guo Jing baru hendak mengejarnya ketika tiba-tiba Si Raja Naga Sha Tongtian berlari di depannya untuk
 membantu adik seperguruannya menangkap Huang Rong. Karena terkejut ia buru-buru membawa Mei Chaofeng 
 ke arah itu, sambil berteriak, "Pertama-tama, kita bereskan dua orang ini dulu!" Mei Chaofeng 
 mengulurkan tangannya, mengincar Hou Tonghai. Hou Tonghai mundur dengan cemas, berusaha mengelak. 

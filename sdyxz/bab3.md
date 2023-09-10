@@ -1,17 +1,18 @@
 # Bab 3
-
-| Bab :two: | Prolog | Bab Lain | Bab :four: |
-| :---:     |  :---: |   :---:  |    :---:   |
-| [:arrow_backward: Prev](bab2.md) | [:house:](intro.md) | [:five:](bab5.md) [:six:](bab6.md) [:seven:](bab7.md) | [Next :arrow_forward:](bab4.md) |
-
 ## Kehidupan Padang Rumput
+
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 3](https://res.cloudinary.com/drzjshskk/image/upload/e_hue:30/v1676668128/sdyxz/originals/loch-03_pk9ptl.jpg) | _Karena marah, Jochi mulai memukul Guo Jing dengan cambuk tunggangannya lagi, menyebabkan Guo Jing berguling-guling kesakitan. Ia berguling di sebelah kaki Jochi sebelum tiba-tiba melompat dan meraih kaki kanannya. Jochi mencoba menghempaskannya dengan sebuah tendangan, tetapi cengkeraman bocah itu sangat kuat, dan ia tidak bisa melepaskan kakinya_     |
+
+***
 
 Para biksu menangisi kematian Biksu Jiaomu, tetapi beberapa orang dari mereka 
 masih sempat merawat orang-orang yang terluka dengan membalut luka mereka dan membawa mereka 
 ke kamar tamu. Tiba-tiba terdengar suara gedoran yang tak henti-hentinya dari tong di bawah 
 lonceng besar itu. Tidak tahu monster macam apa yang hadir, para biarawan saling 
 memandang dengan wajah kosong. Tidak tahu apa yang harus dilakukan mulai melantunkan 
-'Sutra Raja Agung' (Gao Wang Jing). Tapi gedoran berlanjut mengikuti semua nyanyian 
+[Gao Wang Jing](#gaowanjing "Sutra Raja Agung"). Tapi gedoran berlanjut mengikuti semua nyanyian 
 'Bantu Para Penderita' dan 'Amitoufo'. Akhirnya, sekitar selusin biksu yang lebih 
 berani menarik lonceng besar itu kembali dengan tali besar yang tebal. Segera setelah 
 mereka mengangkat tong, segumpal besar daging keluar dari bawahnya. Takut melampaui 
@@ -21,7 +22,7 @@ apa yang telah terjadi. Melihat sekeliling, ia melihat Biksu Jiaomu meninggal da
 semua saudara angkatnya terluka parah dan panik. Ia berjalan ke arah Qiu Chuji dan 
 hendak memukul kepalanya dengan 'Cambuk Naga Emas'.
 
-"San Ge, jangan!" teriak Quan Jinfa.
+"[San Ge](#sange "(三哥) Kakak laki-laki ketiga"), jangan!" teriak Quan Jinfa.
 
 "Kenapa?" tanya Han Baoju, heran.
 
@@ -46,7 +47,7 @@ untuk Biksu Jiaomu.
 
 Setelah beberapa hari, racun di tubuh Qiu Chuji dan Han Xiaoying ternetralisir. 
 Sebagai ahli pengobatan, Qiu Chuji segera mencampur beberapa jenis herbal dan merawat 
-Zhu Cong dan lainnya serta memijat dan memperbaiki letak tulang dan sendir kembali ke 
+Zhu Cong dan lainnya serta memijat dan memperbaiki letak tulang dan sendi kembali ke 
 tempatnya. Untungnya, dasar kungfu mereka semua cukup kuat sehingga luka dalam maupun 
 luar tidak terlalu serius. Setelah beberapa hari lagi, semua orang bisa duduk lagi.
 Suatu hari, mereka semua berkumpul di salah satu kamar biksu dan merenungkan bagaimana
@@ -54,7 +55,7 @@ mereka diadu domba, mengakibatkan kematian Biksu Jiaomu dan melukai semua pihak.
 Semuanya terdiam, tidak tahu harus bilang apa.
 
 Setelah beberapa saat, akhirnya Han Xiaoying memecahkan keheningan, "Semua orang tahu 
-tentang kecerdasan dan kecerdasan Qiu Dao Zhang (Pendeta Qiu), dan kami bertujuh juga 
+tentang nama besar dan kecerdasan Qiu [Dao Zhang](#daozhang "Pendeta"), dan kami bertujuh juga 
 bukan baru kemarin mengenal dunia. Tapi ternyata kita semua dimanipulasi oleh seorang
 bajingan kecil. Kalau cerita ini sampai didengar orang luar, semua orang di dunia 
 persilatan akan menertawakan kita. Dao Zhang, punya ide bagaimana cara membereskan 
@@ -62,11 +63,11 @@ kekacauan ini?"
 
 Qiu Chuji menyalahkan dirinya sendiri selama beberapa hari terakhir, berpikir bahwa 
 jika saja ia duduk dan berbicara dengan tenang dengan Biksu Jiaomu maka semua ini 
-dapat dihindari. Jadi, dengan rasa hormat, ia menoleh ke Ke Zhen'E, "Ke Xiong, 
+dapat dihindari. Jadi, dengan rasa hormat, ia menoleh ke Ke Zhen'E, "Ke [Xiong](#xiong "(兄) Saudara laki-laki"), 
 bagaimana menurutmu?"
 
 Temperamen Ke Zhen'E dari awal memang buruk. Setelah matanya dibutakan, jadi lebih 
-buruk. Fakta bahwa Qiu Chuji sendirian menjatuhkan gabungan dari bereka bertujuh, 
+buruk. Fakta bahwa Qiu Chuji sendirian menjatuhkan gabungan dari mereka bertujuh, 
 pada kenyataannya adalah sesuatu yang dianggapnya sebagai salah satu hal yang paling 
 memalukan dalam hidupnya. Ditambah dengan fakta bahwa rasa sakit di kakinya akibat 
 luka pedang masih berdenyut, ia hampir tidak bisa menahan amarahnya. Ia mencibir 
@@ -85,7 +86,7 @@ kami untuk ikut campur dalam urusan dunia persilatan. Kita harus menetap di sini
 memancing, memotong kayu, atau apapun. Selama Qiu Dao Zhang tidak datang lagi, 
 setidaknya kita bisa menghabiskan sisa hidup kita dengan damai."
 
-Qiu Chuji agak tersipu mendengan kalimat tajam itu. Setelah diam sejenak, ia tiba-tiba 
+Qiu Chuji agak tersipu mendengar kalimat tajam itu. Setelah diam sejenak, ia tiba-tiba 
 berdiri dan berkata, "Karena aku salah kali ini, aku tidak akan pernah berani 
 melangkah ke daerah ini lagi. Soal membalas kematian Biksu Jiaomu, semuanya akan 
 jatuh di pundakku dan aku akan membunuh bajingan itu dengan tanganku sendiri dan 
@@ -137,7 +138,7 @@ dibawa Ke Da Ge kemana-mana."
 
 "Kau menertawakan aku buta ya?" Ke Zhen'E balas berseru, gusar.
 
-"Bu gan (不敢, tidak berani)!"
+"_Bu gan_ (不敢, tidak berani)!"
 
 "Saat ini kami semua terluka," lanjut Ke Zhen'E. "sangat berat kalau mau bertarung.
 Jadi aku mengundang Qiu Dao Zhang untuk duel satu tahun dari saat ini, di
@@ -159,10 +160,10 @@ gunanya melangkah lebih jauh."
 
 Han Baoju, Han Xiaoying, dan Zhang Ahsheng segera berdiri, empat lainnya tidak 
 dapat berdiri tetapi semuanya sebisa mungkin duduk. Mereka menjawab serempak, 
-"Kalau Tujuh Orang Aneh dari Jiangnan (江南, Selatan Sungai Yangtze) berduel, kami selalu membiarkan lawan yang 
-memilih waktu, tempat, dan metode."
+"Kalau Tujuh Orang Aneh dari Jiangnan (江南, Selatan Sungai Yangtze) berduel, kami selalu 
+membiarkan lawan yang memilih waktu, tempat, dan metode."
 
-Melihat betapa kompetitifnya mereka semua, Qiu Chuji tersenyum, "Berartim bagaimanapun
+Melihat betapa kompetitifnya mereka semua, Qiu Chuji tersenyum, "Berarti bagaimanapun
 juga, aku yang menentukan metodenya, gitu kan?"
 
 Mengira bahwa tipuan licik macam apapun yang ada di benak Qiu Chuji, bukan berarti
@@ -170,16 +171,8 @@ mereka pasti akan kalah, Zhu Cong dan Quan Jinfa menjawab serempak, "Betul!"
 
 "Omongan seorang pria..." jawab Qiu Chuji.
 
-"... tidak bisa ditarik kembali oleh kuda liar!" lanjut Han Xiaoying, tapi Ke Zhen'E
+"... tidak bisa ditarik kembali oleh kuda liar[^janji]!" lanjut Han Xiaoying, tapi Ke Zhen'E
 diam saja.
-
-<div class="w3-panel w3-card-4 w3-blue">
-  <p>
-  Kata-kata Qiu Chuji yang disambung oleh Han Xiaoying di atas adalah sebuah peribahasa
-  dalam masyarakat Tionghoa, yang artinya kurang lebih adalah 'Janji tidak boleh dibatalkan',
-  kalau seseorang mengucapkan kalimat ini, artinya adalah ia akan memenuhi janjinya.
-  </p>
-</div>
 
 "Kalau kalian merasa caraku tidak adil," lanjut Qiu Chuji, "maka aku akan mengaku kalah
 sekarang juga." Ia jelas sedang menarik keuntungan dengan sedikit mengalah di depan,
@@ -199,11 +192,11 @@ turun ke tingkat rendahan."
 Tujuh Orang Aneh heran mendengar komentar itu.
 
 "Pertandingan besar di antara kita ini," lanjut Qiu Chuji. "bukan hanya mengukur kemampuan
-kunfu kita, tetapi juga kemauan keras, tekad, dan kecerdasan kita. Dengan pertandingan
+kungfu kita, tetapi juga kemauan keras, tekad, dan kecerdasan kita. Dengan pertandingan
 ini akan kita lihat, siapa yang terbaik di antara kita, sekali dan untuk selamanya."
 
 Seluruh percakapan ini membuat Ketujuh Orang Aneh gemetar dalam antisipasi dan 
-kegembiraan. "Kangan mengulur-ulur waktu, cepat katakan!" Han Xiaoying menuntut. 
+kegembiraan. "Jangan mengulur-ulur waktu, cepat katakan!" Han Xiaoying menuntut. 
 "Makin sulit makin baik!"
 
 "Kalau mau lomba meditasi, bikin obat, meramal, atau mengusir setan, ya kami semua
@@ -216,7 +209,7 @@ Ini membuat Han Xiaoying tertawa, tapi ia segera kembali mendesak Qiu Chuji, "Ay
 cepat katakan!"
 
 "Pada dasarnya semua kesalahpahaman kita ini disebabkan oleh usaha untuk menyelamatkan
-dari dua orang baik. Jalan terbaik adalah mengembalikannya ke situ." Qiu Chuji melanjutkan
+dua orang baik. Jalan terbaik adalah mengembalikannya ke situ." Qiu Chuji melanjutkan
 dengan cerita tentang bagaimana ia berkenalan dengan Guo Xiaotian dan Yang Tiexin,
 lalu bagaimana ia mengejar Duan Tiande sampai ke kuil ini. Sambil mendengarkan seluruh
 penjelasannya, Ketujuh Orang Aneh itu tak henti-hentinya mengutuk bangsa Jin dan pemerintahan
@@ -228,7 +221,7 @@ aku yakin kalian berempat yang lain pasti melihat mereka."
 
 "Aku ingat suaranya," sela Ke Zhen'E. "aku tidak akan pernah melupakan suaranya."
 
-"Bagus sekali!" lanjut Qiu Chuji. "Mengenai janda Yang Tiexin, Bao Fu Ren, tidak ada
+"Bagus sekali!" lanjut Qiu Chuji. "Mengenai janda Yang Tiexin, Bao Fu Ren[^furen], tidak ada
 petunjuk sekarang dia ada di mana. Aku pernah melihatnya, tapi kalian belum. Jadi aku
 mengusulkan supaya kita..."
 
@@ -238,7 +231,7 @@ semangat.
 
 Tapi Qiu Chuji tersenyum dan menjawab, "Menyelamatkan orang, meskipun jelas tidak 
 mudah, tidak dapat digunakan untuk menentukan siapa pendekar dan siapa yang bukan. 
-Yang ada si pikiranku jauh lebih sulit dan lebih berat dilakukan."
+Yang ada di pikiranku jauh lebih sulit dan lebih berat dilakukan."
 
 "Jadi usulmu bagaimana?" Ke Zhen'E mendesak.
 
@@ -293,18 +286,9 @@ Ini membuat semua Orang Aneh itu marah. Han Baoju menghantam bangku yang diduduk
 dan hendak mengatakan sesuatu ketika Qiu Chuji memotongnya, "Sejak jaman kuno, untuk 
 pendekar dan pria sejati, berteman artinya adalah berbagi dalam segala hal, dan mengorbankan
 nyawa untuk teman pasti bukan masalah besar, kalau memang ada panggilan soal kesetiaan 
-dan persahabatan. Tidak ada yang pernah dengar kalau Jing Ke dan Nie Zheng bernegosiasi 
+dan persahabatan. Tidak ada yang pernah dengar kalau Jing Ke dan Nie Zheng[^jingke-niezheng] bernegosiasi 
 soal hal kecil. Keluarga Yang dan Guo sedang membutuhkan bantuan sekarang, bagaimana 
 mungkin ada orang yang bernegosiasi kalau ingin menolong mereka?"
-
-<div class="w3-panel w3-card-4">
-  <p>
-  Dalam legenda populer Tiongkok dan juga banyak versi sejarahnya, Jing Ke dan Nie Zheng
-  adalah sahabat karib yang membantu Pemerintah Negeri Qi di awal Periode Musim Semi dan Musim Gugur,
-  cerita mengenai mereka melegenda, dan akhirnya dijadikan tolok ukur dalam pandangan
-  orang Tionghoa pada umumnya mengenai makna sebuah persahabatan.
-  </p>
-</div>
 
 Setelah pidato kecil itu, wajah Zhu Cong memerah karena malu. Dia menjentikkan kipasnya 
 dan menjawab, "Dao Zhang benar, aku baru sadar kalau aku salah sekarang. Kami bertujuh 
@@ -323,7 +307,7 @@ Dia satu-satunya di antara Tujuh Orang Aneh yang tidak terluka, jadi dia keluar
 dari pintu, menaiki 'Pengejar Angin', kuda kuningnya, dan mulai mengejar Duan Tiande 
 dan Li Ping.
 
-"San Di... Sam Di!" Teriak Zhu Cong. "Kau tidak tahu tampang mereka seperti apa!"
+"San Di... San Di!" Teriak Zhu Cong. "Kau tidak tahu tampang mereka seperti apa!"
 Tapi Han Baoju bukan tipe orang yang sabar, dan karena 'Pengejar Angin' yang memang pantas 
 menyandang nama itu, ia sudah lama pergi.
 
@@ -335,7 +319,7 @@ ia berhenti dan menarik napas. Kemudian ia berlari ke tepi sungai terdekat dan m
 ke perahu pertama yang dilihatnya. Mengambil pedangnya dan meletakkannya di leher 
 nelayan, ia memerintahkan pria itu untuk mulai menggerakkan perahu. Sungai dan kanal 
 di Jiangnan padat seperti jaring laba-laba dan perahu adalah alat transportasi sehari-hari. 
-Umum seperti kuda dan kereta ada di Utara. Karenanya ada pepatah: 'Orang Utara menunggang 
+Transportasi umum seperti kuda dan kereta ada di Utara. Karenanya ada pepatah: 'Orang Utara menunggang 
 kuda, orang Selatan naik perahu.' Duan Tiande memasang lagak segalak mungkin, dan berpakaian 
 seperti pejabat, bagaimana mungkin nelayan itu berani tidak patuh? Ia segera membuka 
 dok dan mengarahkan perahu ke luar kota.
@@ -385,12 +369,10 @@ adalah membunuhnya. Begitu Han bersaudara pergi, dia mengeluarkan goloknya.
 
 Li Ping selalu mencari kesempatan untuk membalas kematian suaminya. Tapi ia diikat 
 setiap malam, jadi tidak mungkin. Sekarang, setelah melihat tatapan membunuh di mata Duan Tiande, 
-ia berdoa, "Xiao Ge, tolong lindungi aku dan ijinkan aku membunuh monster ini. 
+ia berdoa, "Xiao Ge[^xiaoge], tolong lindungi aku dan ijinkan aku membunuh monster ini. 
 Lalu aku akan bergabung denganmu." Dia merogoh bajunya dan meletakkan tangannya 
 di belati yang diberikan Qiu Chuji padanya. Ia telah menyembunyikan belati itu 
 dengan sangat baik dan mampu meloloskannya dari pengawasan Duan Tiande. 
-(Catatan: Xiao Ge adalah panggilan kesayangan yang digunakan oleh Li Ping untuk 
-memanggil Guo Xiaotian.)
 
 Sambil terkekeh, Duan Tiande mengangkat pedangnya dan mengayunkannya ke arah Li Ping. 
 Bersiap untuk mati, Li Ping mengumpulkan semua kekuatannya, mengarahkan belati ke 
@@ -430,7 +412,7 @@ penangkapan, Duan Tiande pergi jauh ke Negara Utara. Uang dibawanya hampir habis
 namun Orang-orang Aneh itu masih mengejarnya.
 
 "Waktu di Hangzhou, aku orang penting. Daging, arak, uang, perempuan, semuanya aku punya,
-tapi aku kemudian jadi serakah, dan pergi ke Desa Niu untuk membunuh suami lonte ini,
+tapi aku kemudian jadi serakah, dan pergi ke Desa Niu untuk membunuh suami _lonte_ ini,
 dan akhirnya jadi kacau." Ia mulai mengutuk diri sendiri.
 
 Beberapa kali, ia hampir meninggalkan Li Ping dan kabur sendiri. Tapi setiap kali, 
@@ -444,7 +426,7 @@ Sebelum sadar, ia telah sampai di ibukota Kekaisaran Jin, Yanjing. Duan Tiande
 berpikir sejenak dan memutuskan untuk mencoba dan menemukan tempat yang sepi di luar 
 jalan dan menghabisi Li Ping. Di kota yang begitu besar dan ramai, tidak mungkin 
 mereka yang mengejarnya akan bisa menemukannya.
-.
+
 Senang bahwa akhirnya semua akan beres, ia berjalan menuju kota. Tanpa diduga, 
 saat ia tiba di depan gerbang kota, tim tentara Jin keluar dari dalam. Bahkan tidak
 repot-repot bertanya, mereka menangkap dia dan Li Ping, menyerahkan kepada mereka 
@@ -509,7 +491,7 @@ itu sekencang mungkin. Di bawah sinar bulan, ia melihat bahwa mata bayi itu besa
 dan cerah, dan sangat mirip dengan almarhum suaminya dan tangisannya sangat keras.
 Dalam keadaan normal, seharusnya tidak mungkin ia bertahan hidup setelah melahirkan 
 dalam kondisi yang begitu keras. Tetapi setelah melihat anaknya, ia tiba-tiba 
-menemukan kekuatan yang bahkan ia sendiri pun tidak tahu bahwa ia milikinya, dan 
+menemukan kekuatan yang bahkan ia sendiri pun tidak tahu bahwa ia memilikinya, dan 
 ia perlahan berlutut dan dengan satu tangan, merangkak ke selokan kecil di dekatnya 
 untuk melarikan diri dari hawa dingin. Melihat bayi itu dan memikirkan suaminya, 
 kenangan pahit dan emosi membuatnya kewalahan.
@@ -539,7 +521,7 @@ Meskipun mereka tidak dapat memahaminya sama sekali, mereka, sebagai orang Mongo
 yang ramah dan bersahabat, merasa kasihan padanya dan mengundangnya untuk menghabiskan 
 malam bersama mereka di kemah mereka. Orang Mongol adalah kelompok orang nomaden, 
 bermigrasi bersama ternak dan musim mereka. Mereka tinggal di tempat penampungan 
-besar yang disebut gers yang mudah dipasang dan diturunkan. Keesokan paginya 
+besar yang disebut _gers_ yang mudah dipasang dan diturunkan. Keesokan paginya 
 kelompok pengembara ini pergi, tetapi mereka memutuskan untuk meninggalkan empat 
 domba kecilnya untuk membantunya bertahan hidup.
 
@@ -635,15 +617,14 @@ Secara serempak tentara musuh mengeluarkan pekikan perang yang memkakkan telinga
 dan saat melihat Panji Berbulu Putih Temujin dikibarkan tinggi di puncak bukit, 
 berteriak serempak, "Tangkap Temujin... Tangkap Temujin!" Seperti semut, pasukan 
 lawan mulai menyerbu ke atas bukit, sama sekali mengabaikan pasukan Mongol yang 
-mundur. Kuda dan manusia menyerang dengan nekad (note: agak meragukan di kalimat 
-ini. aslinya adalah: Horses and men charged with abandon). 
-Kabut kuning dari debu tanah tempat mereka berpijak, menyelimuti bukit itu.
+mundur. Sekumpulan kuda dan manusia menerjang tanpa mempedulikan segala rintangan. 
+Kabut kuning dari debu tanah tempat mereka berpijak menyelimuti bukit itu.
 
 Temujin berdiri di puncak bukit, tidak bergerak dan tegas. Puluhan prajurit mengangkat 
 perisai mereka, dan melindunginya dari panah yang terbang dari segala arah. Saudara 
 angkat Temujin, Kutuku, dan jendral Jelme yang menonjol, bersama dengan tiga ribu 
 pasukan elit, mempertahankan dasar bukit dengan segala yang dapat mereka kumpulkan,
-bertekad hingga orang terakhir.
+bertekad untuk bertempur hingga titik darah terakhir.
 
 Di tengah kilatan pedang dan tombak, teriakan perang mengguncang bumi. Menyaksikan 
 semua ini, Guo Jing pada saat yang sama merasa senang dan takut.
@@ -789,17 +770,17 @@ ketakutan.
 Wajah pria itu berlumuran lumpur, kotoran, dan darah. Itu adalah jendral berbaju 
 hitam yang dilihatnya kemarin lusa. Di tangan kirinya ada bagian bawah dari apa 
 yang dulunya adalah pedang, yang berlumuran darah berwarna merah keunguan. Busur 
-dan anak panah yang telah dia lawan dengan begitu banyak musuh telah hilang. Sepertinya 
-ia bertemu lagi dengan musuhnya setelah melarikan diri dua hari lalu. Pipi kirinya
-robek dan mengeluarkan banyak darah. Kudanya juga terluka. Tubuhnya gemetar saat 
-matanya yang berlumuran darah menatap Guo Jing, bergumam dengan suara serak dan 
-kelelahan, "Air, air... minta sedikit air?"
+dan anak panah yang telah dipakainya untuk melawan begitu banyak musuh telah hilang. 
+Sepertinya ia bertemu lagi dengan musuhnya setelah melarikan diri dua hari lalu. 
+Pipi kirinya robek dan mengeluarkan banyak darah. Kudanya juga terluka. Tubuhnya 
+gemetar saat matanya yang berlumuran darah menatap Guo Jing, bergumam dengan 
+suara serak dan kelelahan, "Air, air... minta sedikit air?"
 
 Guo Jing segera berlari ke dalam rumah dan mengeluarkan semangkuk air dari bak. 
 Pria itu mengambilnya dari tangan Guo Jing dan meminum semuanya dalam sekali teguk.
 "Lagi!" mintanya.
 
-Guo Jing mengambil mangkuk air lagi untuknya. Ia minum setengah sebelum darah yang
+Guo Jing mengambil semangkuk air lagi untuknya. Ia minum setengah sebelum darah yang
 menetes dari wajahnya mengubah air menjadi merah. Pria itu tertawa keras, lalu 
 tiba-tiba, wajahnya berkedut dan ia jatuh dari kudanya dan pingsan.
 
@@ -811,15 +792,8 @@ Guo Jing mengeluarkan beberapa potong daging domba panggang untuknya dan mengamb
 seember air untuk kudanya. Setelah menelan makanan yang lezat, pria itu benar-benar
 segar dan bangkit dari tanah.
 
-"Terima kasih, Xiongdi (兄弟, saudara)." Ia berkata sambil melepas gelang emas 
+"Terima kasih, Saudara Cilik." Ia berkata sambil melepas gelang emas 
 yang ada di pergelangan tangannya dan mengulurkannya pada Guo Jing. "Ini, ambillah."
-
-<div class="w3-panel w3-card-4 w3-green">
-  <p>
-  Agak meragukan di sini, sapaan itu seharusnya dalam bahasa Mongol, tapi saya
-  tidak dapat menemukan referensi teks aslinya.
-  </p>
-</div>
 
 Guo Jing menggelengkan kepalanya, "Ibu berkata bahwa kita harus mengurus tamu dan 
 tidak meminta atau mengambil imbalan apa pun."
@@ -835,7 +809,7 @@ yang ditendang oleh kuda yang tak terhitung jumlahnya menuju ke situ.
 
 "Nak, apakah kamu punya busur dan anak panah di rumah?" Pria itu bertanya.
 
-"Yah, tentu saja." Jawab Guo Jing sesaat sebelum melesat kembali ke dalam rumah. 
+"Yah, tentu saja," jawab Guo Jing sesaat sebelum melesat kembali ke dalam rumah. 
 Mendengar itu, pria itu tampak agak lega, tetapi itu segera berubah ketika ia 
 melihat bahwa Guo Jing baru saja mengeluarkan busur dan anak panah mainan kecilnya
 sendiri. Ia tertawa kecil, lalu mengerutkan kening, "Aku butuh yang bisa dipakai
@@ -856,7 +830,7 @@ rumput. Secara tradisional, segera setelah musim panas yang terik berlalu, orang
 Mongolia akan segera menebang semua rumput tinggi yang tersedia dan menumpuknya. 
 Selama musim dingin yang keras, orang Mongolia mengandalkan tumpukan rumput ini 
 untuk memberi makan hewan dan juga api untuk menghangatkan tubuh. Seringkali tumpukan 
-rumput ini lebih besar dari ger mereka. Pria itu benar-benar tersembunyi dengan baik
+rumput ini lebih besar dari _ger_ mereka. Pria itu benar-benar tersembunyi dengan baik
 di dalam tumpukan rumput dan mungkin tidak akan ditemukan tanpa pemeriksaan yang 
 cermat.
 
@@ -878,7 +852,7 @@ kedua pengintai memegang kendali Guo Jing dan membawanya kembali ke gubuk.
 
 "Pokoknya aku tidak akan bilang," Guo Jing mengambil keputusan dalam perjalanan pulang.
 
-Sejumlah tentara Mongolia mengepung seorang pemuda jangkung dan kurus. Guo Jing 
+Sejumlah tentara Mongolia mengelilingi seorang pemuda jangkung dan kurus. Guo Jing 
 mengenali wajahnya, ia sudah pernah melihatnya di atas bukit dua hari sebelumnya. 
 Menyadari bahwa semua tentara mematuhi perintahnya, Guo Jing menyimpulkan bahwa dia 
 adalah musuh dari jenderal berjubah hitam itu. ”Apa yang dikatakan anak kecil itu?” 
@@ -1040,15 +1014,7 @@ menjawab, ia hanya melihat ke samping dan mendengus, "Hmph!"
 memanggilmu Jebe. Gimana kalau kau dan temanku ini bikin kontes kecil-kecilan?” kata Temujin. 
 Dalam bahasa Mongolia, "Jebe" berarti "panah" atau bisa jadi "pemanah ilahi". Jebe memiliki 
 nama lain, tetapi karena keahliannya yang luar biasa dengan busur dan anak panah,
-semua orang memanggilnya Jebe dan nama aslinya sudah lama dilupakan. 
-
-<div class="w3-panel w3-card-4">
-  <h3>Catatan</h3>
-  <p>
-  Menurut catatan sejarah Mongol, ketika pertama kali bergabung dengan suku Temujin, 
-  Jebe memperkenalkan namanya sebagai Jirgadei.
-  </p>
-</div>
+semua orang memanggilnya Jebe dan nama aslinya sudah lama dilupakan.[^nama-jebe]
 
 "Jadi kau adalah temannya?" Jebe berteriak pada Bogurchi. "Kalau begitu kurasa aku 
 akan membunuhmu dulu." Pernyataan ini menyebabkan semua tentara Mongol tertawa 
@@ -1062,13 +1028,6 @@ dengan sebuah belenggu kayu di lehernya. Banyak suku Taijiut berkumpul di Sungai
 sambil minum dan mencambuknya pada saat yang bersamaan. Setelah para kawanan itu cukup 
 mabuk, Temujin membuat penjaganya pingsan dengan belenggunya dan melarikan diri ke hutan 
 terdekat.
-
-<div class="w3-container w3-center">
-  <img src="images/temujin-kecil-dibelenggu.jpg" width="100%" alt="Temujin Kecil Dibelenggu"/>
-  <div class="w3-container w3-center">
-    <p><em>Temujin kecil dibelenggu dengan belenggu kayu di lehernya</em></p>
-  </div>
-</div>
 
 Taijiuts melakukan pencarian besar-besaran untuk menemukannya. Saat itulah ia 
 bertemu dengan seorang pemuda bernama Tchila'un, yang mengambil resiko yang 
@@ -1235,14 +1194,16 @@ anak panah lagi. "Baiklah, mari kita coba ini lagi!" jawab Bogurchi sambil mengh
 Jebe dengan panah. Panah-panah itu datang begitu cepat sehingga tampak hampir terhubung, 
 menciptakan rantai panah di udara.
 
-<div class="w3-container w3-center">
+***
+
+<div align="center">
   <a href="https://youtube.com/clip/UgkxyQ3IBkxJiuJfniiH6j44FIJ3RxBxdHJN">
     <img src="images/jebe-bogurchi.jpg" 
       alt="Jebe Melawan Bogurchi menyelamatkan Guo Jing"
-      width="100%"
+      style="max-width:640px;"
     />
   </a>
-  <div class="w3-container w3-center">
+  <div align="center">
     <p>
     Adegan klasik dalam serial ini, pertarungan Jebe melawan Bogurchi, yang secara
     mengejutkan akhirnya dimenangkan oleh Jebe. Dengan demikian baik Jebe maupun
@@ -1250,6 +1211,8 @@ menciptakan rantai panah di udara.
     </p>
   </div>
 </div>
+
+***
 
 Melihat situasi itu, Jebe mengangkat dirinya dengan mengaitkan kakinya pada pedal, 
 membalikkan diri di bawah perut kudanya. Bersandar ke samping agar tidak membentur 
@@ -1412,14 +1375,19 @@ terbesar. Meskipun apa yang diteriakkan Wanyan Hongxi adalah dalam bahasa Jurche
 dan tidak ada orang Mongol yang memahaminya, semua orang tahu bahwa ia sedang memaki 
 anak-anak dari bahasa tubuh dan nada suaranya.
 
-<div class="w3-container w3-center">
+***
+
+<div align="center">
   <a href="https://youtube.com/clip/UgkxRb8LpVOHu8NKuvhLsylVbT7Qq8CO6o-I">
-    <img src="images/komplotan-cilik-mongol.jpg" width="100%" alt="Guo Jing Kecil Dan Kawan-kawan"/>
+    <img src="images/komplotan-cilik-mongol.jpg" alt="Guo Jing Kecil Dan Kawan-kawan"
+        style="max-width:400px"/>
   </a>
-  <div class="w3-container w3-center">
+  <div align="center">
     <p><em>Guo Jing berani melempar coin ke arah Wanyan Hongxi</em></p>
   </div>
 </div>
+
+***
 
 Terus-menerus diberitahu bagaimana bangsa Jin memperkosa, menjarah, dan mencuri 
 milik orang-orang Han, tentang bagaimana bangsa Jin merusak pejabat dan membunuh 
@@ -1429,7 +1397,7 @@ beberapa koin emas dari tanah, dan berlari sedikit, melemparkannya ke arah Wanya
 dengan sekuat tenaga. "Siapa yang menginginkan uangmu?" Dia berteriak. Wanyan Hongxi 
 memiringkan kepalanya ke samping untuk menghindari koin. Kendatipun demikian, salah 
 satu dari coin itu mengenai mukanya tepat di tulang pipi. Meskipun Guo Jing tidak 
-kuat dan tidak benar-benar tidak, ia tetap dibuat terlihat buruk di depan puluhan 
+kuat dan tidak benar-benar tepat sasaran, ia tetap dibuat terlihat buruk di depan puluhan 
 ribu orang. Setiap orang Mongolia dari Temujin ke bawah bersorak dalam hati.
 
 Wanyan Hongxi sangat marah. Ketika berada di wilayah Song, telah berkali-kali ia
@@ -1445,8 +1413,8 @@ di sebelah kiri. Seperti meteor yang ditembakkan di sekitar bulan, anak panah
 itu menghantam kepala tombak dengan suara "triinggg!" Dikemas dengan kekuatan 
 yang luar biasa, anak panah itu mampu membelokkan tombak meski berkali-kali lipat 
 lebih ringan. Guo Jing segera bergegas pergi. Semua tentara Mongolia bersorak 
-serempak, mengguncang areal padag rumput. Orang yang menembakkan panah itu tidak lain 
-adalah Jebe.
+serempak, gegap-gempita mengguncang areal padang rumput. Orang yang menembakkan panah 
+itu tidak lain adalah Jebe.
 
 "San Ge, jangan ganggu dia lagi!" Wanyan Honglie berbisik kepada kakaknya. Melihat 
 dan mendengar kekuatan tentara Mongolia, Wanyan Hongxi sedikit terguncang, jadi 
@@ -1467,30 +1435,12 @@ selama pembacaan, dengan rendah hati menerima dokumen resmi dan Sabuk Emas, yang
 menandakan kesetiaannya kepada Kaisar Jin. Malam itu orang-orang Mongolia merayakannya 
 dengan pesta besar untuk menghibur para utusan yang dihormati.
 
-"Besok, adikku dan aku akan menganugerahkan jabatan pada Ong Khan." Wanyan Hongxi, 
-agak di bawah pengaruh _koumiss_, berkata kepada Temujin. "Akankah Duta Besar bergabung 
+"Besok, adikku dan aku akan menganugerahkan jabatan pada Ong Khan.[^catatan-mengenai-ong-khan]" 
+Wanyan Hongxi, agak di bawah pengaruh _koumiss_, berkata kepada Temujin. "Akankah Duta Besar bergabung 
 dengan kami?"
 
-<div class="w3-panel w3-card-4 w3-blue">
-    <p>
-    Perlu dicatat di sini, dalam catatan sejarah yang saya baca, Ong Khan adalah
-    seorang Khan dari suku Keraite, dan tidak ada teks yang mengatakan bahwa ia
-    datang dari suku 'Toghril', seperti yang bisa kita baca dalam terjemahan bahasa
-    Inggris novel ini. Sebaliknya, ia memiliki panggilan lain, yaitu 
-    <a href="https://en.wikipedia.org/wiki/Toghrul" target="_blank">Toghrul</a>,
-    yang lebih mirip dengan 'Toghril', yang dipakai sebagai nama suku dalam novel
-    terjemahan tersebut. Karena itu saya menyimpulkan bahwa ini adalah kesalahan
-    penerjemah.
-    </p>
-    <p>
-    Supaya lebih sesuai dengan referensi sejarah yang sebenarnya, saya untuk selanjutnya
-    akan memakai fakta tersebut, dan mengabaikan teks yang ada di dalam novel Jin Yong
-    (yang diterjemahkan ke dalam bahasa Inggris), yang berkaitan dengan hal ini.
-    </p>
-</div>
-
 Temujin sangat gembira mendengar berita itu dan langsung setuju untuk ikut. Ong Khan, 
-atau Toghrul, seorang Keraite, adalah pemimpin di antara suku-suku di padang rumput. 
+atau Toghrul, adalah seorang Keraites, adalah pemimpin di antara suku-suku di padang rumput. 
 Sukunya adalah yang terkaya dan terkuat. Selain itu, ia adalah pria yang baik, 
 selalu memperlakukan orang lain dengan setara. Tidaklah berlebihan untuk mengatakan 
 bahwa ia dihormati dan disukai oleh setiap suku. Ong Khan pernah menjadi saudara 
@@ -1577,14 +1527,10 @@ batu itu sejauh mungkin. Setelah Temujin dan Jamuka menjadi _anda_, mereka pergi
 untuk melempar batu ke Sungai Onon yang beku.
 
 Musim semi berikutnya, ketika mereka berdua keluar untuk memanah dengan busur kayu 
-kecil mereka sendiri, Jamuka memberi Temujin _mata panah berisik_ hasil buatannya 
+kecil mereka sendiri, Jamuka memberi Temujin _mata panah berisik_[^panah-berisik] hasil buatannya 
 sendiri menggunakan dua tanduk kerbau kecil, Temujin membalas hadiah itu dengan 
 mata panah berujung cemara, lalu keduanya bersumpah untuk menjadi _anda_ sekali 
-lagi. 
-(Catatan: mata panah yang berisik adalah mata panah yang diukir dengan celah di 
-dalamnya sehingga menimbulkan suara melengking yang sangat keras setelah 
-ditembakkan. Panah ini sering digunakan untuk menyampaikan pesan dan perintah 
-dalam pertempuran.)
+lagi.
 
 Setelah dewasa, keduanya tinggal bersama suku Ong Khan dan masih sangat dekat. 
 Setiap hari mereka berlomba untuk melihat siapa yang bangun lebih awal. Siapa pun
@@ -1825,4 +1771,36 @@ dan ada ketakutan di wajah mereka. Pertempuran belum dimulai, tetapi hasilnya su
 ditentukan. Keberanian dan efisiensi yang ditunjukkan oleh orang-orang Mongolia 
 merupakan ancaman besar di masa depan. Ia masih merenungkan berbagai hal di benaknya 
 ketika kepulan kabut debu muncul di depan saat pasukan lain mendekat.
+
+***
+
+<dl>
+  <dt id="gaowanjing"><strong>Gao Wan Jing</strong></dt>
+  <dd>Sutra Raja Agung</dd>
+  <dt id="sange"><strong>San Ge (三哥)</strong></dt>
+  <dd>Kakak Laki-laki Ketiga</dd>
+  <dt id="daozhang"><strong>Dao Zhang (道长)</strong></dt>
+  <dd>Pendeta Tao</dd>
+  <dt id="xiong"><strong>Xiong (兄)</strong></dt>
+  <dd>
+    Panggilan untuk saudara laki-laki atau orang lain yang dianggap saudara.
+    Ke Xiong berarti "Saudara Ke", Yang Xiong berarti "Saudara Yang", dst.
+  </dd>
+</dl>
+
+***
+
+[^janji]: Kata-kata Qiu Chuji yang disambung oleh Han Xiaoying di atas adalah sebuah peribahasa dalam masyarakat Tionghoa, yang artinya kurang lebih adalah 'Janji tidak boleh dibatalkan', kalau seseorang mengucapkan kalimat ini, artinya adalah ia akan memenuhi janjinya.
+
+[^furen]: Fu Ren (夫人), artinya sama dengan "Nyonya" atau "Ibu", panggilan untuk seorang wanita yang sudah menikah. Bao Furen berarti Ny. Bao, Li Furen = Ny. Li atau Ibu Li, dst.
+
+[^jingke-niezheng]: Dalam legenda populer Tiongkok dan juga banyak versi sejarahnya, Jing Ke dan Nie Zheng adalah sahabat karib yang membantu Pemerintah Negeri Qi di awal Periode Musim Semi dan Musim Gugur, cerita mengenai mereka melegenda, dan akhirnya dijadikan tolok ukur dalam pandangan orang Tionghoa pada umumnya mengenai makna sebuah persahabatan.
+
+[^xiaoge]: **Xiao Ge** adalah panggilan kesayangan yang digunakan oleh Li Ping untuk memanggil Guo Xiaotian.
+
+[^nama-jebe]: Menurut catatan sejarah Mongol, ketika pertama kali bergabung dengan suku Temujin, Jebe memperkenalkan namanya sebagai Jirgadei.
+
+[^catatan-mengenai-ong-khan]: Perlu dicatat di sini, dalam catatan sejarah yang saya baca, Ong Khan adalah seorang Khan dari suku Keraite, dan tidak ada teks yang mengatakan bahwa ia datang dari suku 'Toghril', seperti yang bisa kita baca dalam terjemahan bahasa Inggris novel ini. Sebaliknya, ia memiliki panggilan lain, yaitu [Toghrul](https://en.wikipedia.org/wiki/Toghrul), yang lebih mirip dengan 'Toghril', yang dipakai sebagai nama suku dalam novel terjemahan tersebut. Karena itu saya menyimpulkan bahwa ini adalah kesalahan penerjemah. Supaya lebih sesuai dengan referensi sejarah yang sebenarnya, saya untuk selanjutnya akan memakai fakta tersebut, dan mengabaikan teks yang ada di dalam novel Jin Yong (yang diterjemahkan ke dalam bahasa Inggris), yang berkaitan dengan hal ini.
+
+[^panah-berisik]: Mata panah yang berisik adalah mata panah yang diukir dengan celah di dalamnya sehingga menimbulkan suara melengking yang sangat keras setelah ditembakkan. Panah ini sering digunakan untuk menyampaikan pesan dan perintah dalam pertempuran.
 

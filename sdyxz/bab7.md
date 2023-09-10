@@ -1,4 +1,11 @@
-# Perlombaan Mencari Jodoh
+# Bab 7
+## Perlombaan Mencari Jodoh
+
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 7](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch07_ijj1tf.jpg) | _Guo Jing merampas spanduk yang bertuliskan Lomba Mencari Jodoh itu, lalu menyapu tiangnya di sepanjang lengannya. Spanduk itu terbalik di atas muka si pangeran. Si Pangeran memiringkan tubuhnya ke samping dan mengangkat tombaknya. Dengan bayangan merah melingkar dan mata tombak yang berkelap-kelip ia menusukkan tombaknya ke arah Guo Jing._     |
+
+***
 
 Keenam Orang Aneh dan Guo Jing mengambil arah ke Tenggara. Perjalanan itu memakan
 waktu sangat panjang. Mereka memerlukan waktu berhari-hari hanya untuk keluar dari
@@ -20,9 +27,9 @@ di sepanjang jalan. Ia kemudian memeluk dan mengelus-elus kuda itu ribuan kali. 
 tampaknya hewan itu sangat sehat, dan tidak menunjukkan tanda-tanda menderita sesuatu
 apapun, dan sama sekali tidak tampak kesakitan.
 
-Smbil menunggu guru ketiganya, yang pasti akan bisa menangani kudanya dengan lebih baik,
+Sambil menunggu guru ketiganya, yang pasti akan bisa menangani kudanya dengan lebih baik,
 ia tak henti-hentinya menengok ke jalanan, dan berharap gurunya segera tiba. Tiba-tiba ia
-mendengar suara 'klining-klining' dari, dan ia melihat empat ekor onta seputih salju berlari
+mendengar suara 'klining-klining', dan ia melihat empat ekor onta seputih salju berlari
 dengan kecepatan penuh di jalan. Masing-masing onta itu ditunggangi oleh orang gadis yang juga
 berpakaian putih. Guo Jing tumbuh besar di padang rumput, tetapi ia belum pernah melihat
 onta seanggun dan sebagus itu sebelumnya. Ia memandang terpesona ke arah empat onta tersebut.
@@ -95,14 +102,14 @@ kudanya, kita tidak akan bisa mengejarnya lagi."
 "Mengapa delapan orang ini bikin rencana sekejam itu?" pikir Ke Zhen'E, ia heran tapi tidak menunjukkan
 reaksi apa-apa, dan terus menelan makanannya dengan rakus.
 
-"Kita akan mempersembahkan kuda mahal itu untuk Gong Zi (Tuan Muda)," kata salah seorang dari mereka lainnya.
+"Kita akan mempersembahkan kuda mahal itu untuk [Gong Zi](#gongzi "Tuan Muda")," kata salah seorang dari mereka lainnya.
 "Menunggang kuda semahal itu, kedatangannya di Yanjing pasti akan kelihatan luar biasa! Tidak bakalan ada yang
-lebih menarik perhatian dari dia, apalagi orang-orang payah seperti 'Ginseng Abadi' dan 
-'Kebijaksanaan Tertinggi Lingzhi'!"
+lebih menarik perhatian dari dia, apalagi orang-orang payah seperti Dewa Ginseng dan 
+'Kebijaksanaan Tertinggi' Lingzhi!"
 
 Ken Zhen'E mendengar mereka bicara soal Kebijaksanaan Tertinggi Lingzhi, yang adalah seorang tokoh dari sebuah
 perguruan rahasia di Tibet, yang terkenal di daerah Barat Daya sebagai 'Jejak Tangan Besar', tapi ia tidak
-tahu apa-apa mengenai Si Ginseng Abadi.
+tahu apa-apa mengenai Si Dewa Ginseng.
 
 "Beberapa hari ini," kata lainnya. "kita sering ketemu penjahat di jalan. Mereka semuanya anak buah Peng Lianhu.
 Mereka memanggil dia Jagal Seribu Tangan. Mungkin mereka mau menghadiri pertemuan di Yanjing. Kalau mereka sampai
@@ -278,7 +285,7 @@ dan sangat hidup, bersinar tajam.
 "Boleh," kata pemuda itu. "kau suruh aku pergi, ya sudah, aku pergi!" Ketika ia hendak berjalan meninggalkan
 tempat itu, si pelayan menghalanginya. "Tinggalkan bakpao itu!" Ia mengembalikan bakpao itu, tapi ternyata
 'tanda tangannya' sudah tertera di atas bakpao putih itu, yang sudah jelas tidak mungkin lagi dijual. si pelayan
-sangat marah, lalu melayangkan tinjunya ke arah pemuda itu, yang kemudian dihindari.
+sangat marah, lalu melayangkan tinjunya ke arah pemuda itu, yang dengan gesit dihindar.
 
 Guo Jing merasa kasihan melihat dia, dan berpikir bahwa ia pasti sedang sangat lapar. Karena itu ia
 segera menengahi dan berkata, "Tidak usah kasar. Biar aku yang bayar."
@@ -532,15 +539,8 @@ Empat orang dari mereka yang membawa golok, tombak, cambuk dan kapak, adalah Emp
 yang pernah bertarung melawan dia di bukit itu. Yang kelima adalah seorang pria kurus sekitar empat
 puluh tahunan, dengan wajah gelap dan panjang, dengan tiga benjolan besar di bagian depan kepalanya,
 yang menambah jelek keseluruhan penampilannya. Pria kurus itu terkekeh sambil melangkah lebar memasuki
-kamarnya. Ia duduk dengan sikap arogan di atas _kang_, lalu berpaling untuk mengamati Guo Jing.
+kamarnya. Ia duduk dengan sikap arogan di atas kang[^kang], lalu berpaling untuk mengamati Guo Jing.
 
-<div class="w3-panel w3-blue w3-card-4">
-    <p>
-    <em>Kang</em> adalah istilah yang digunakan untuk sebuah tempat tidur di wilayah Utara Tiongkok,
-    yang umumnya diatur sedemikian rupa sehingga menyerupai sebuah 'oven' dari batu bata. Cara ini 
-    sekaligus berfungsi sebagai pemanas di musim dingin.
-    </p>
-</div>
 
 Orang tertua dari Empat Iblis Sungai Kuning, yang bersenjata golok, Shen Qinggang, mengumumkan 
 dengan nada dingin, "Ini paman guru kami, Hou Tonghai, yang dijuluki 'Naga Berkepala Tiga'!
@@ -643,12 +643,6 @@ jurus, si gadis berpura-pura ceroboh, lalu si gendut itu maju menyerang dengan k
 dada lawan. Si gadis melangkah mundur dengan ringan, lalu tangan kirinya berputar cepat untuk mendorong punggung
 lawannya, yang kemudian terjungkal ke tanah. Ia bangkit berdiri dengan tubuh berdebu, dan rasa malu terlihat
 jelas di wajahnya. Ia segera menghilang di tengah keramaian. Para penonton bersorak memuji gadis itu.
-
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/UgkxMcDtayufJm5K_-_PGOMHab2icIAdaeMI" target="_blank">
-        <img src="images/perlombaan-mencari-jodoh.jpg" alt="Perlombaan mencari jodoh" width="100%"/>
-    </a>
-</div>
 
 Ia merapikan beberapa helai rambut yang jatuh menutupi wajahnya, lalu kembali ke dekat umbul-umbul. 
 Guo Jing mengamatinya lebih teliti. Ia berusia sekitar delapan belas atau sembilan belas tahun, sangat anggun,
@@ -898,27 +892,7 @@ meminta penjelasan sama sekali. Ia menyuruh orang membawa pelayannya pergi, dan 
 kudanya.
 
 "Kau mau mempermainkan kami!" teriak Mu Yi. Ia mencengkeram lengan kiri pemuda itu. "Sampai kapan pun juga,
-anakku tidak boleh menikah dengan orang yang tidak tahu aturan semacam engkau. Ayo kembalikan sepatunya!"
-
-<div class="w3-panel w3-card-4 w3-green">
-    <p>
-        Umumnya untuk menghormati seseorang yang lebih tua, kalau belum mengenal namanya, seorang
-        muda akan menyapa dengan sebutan Lao Qianbei, yang kira-kira berarti 'Senior', dan menempatkan
-        dirinya sendiri sebagai orang ketiga tunggal dengan sebutan Wanbei, yang kurang lebih berarti 'Junior'.
-        Qianbei (前辈) adalah "Senior', tambahan Lao (老) di depan biasanya ditujukan kepada seseorang yang
-        jauh lebih tua, atau sesepuh. 
-    </p>
-    <p>
-        Sepanjang pertemuan dengan Mu Yi, si bangsawan muda itu tidak pernah menggunakan aturan yang sudah umum
-        tersebut, sedangkan Mu Yi sendiri sepanjang waktu sudah merendahkan diri dengan memanggilnya Gong Zi,
-        yang berarti 'Tuan Muda', yang juga umum dipakai untuk menyapa putra keluarga bangsawan.
-    </p>
-    <p>
-        Kemungkinan Mu Yi memanggilnya dengan sebutan Xiao Wangye (小王爷), yang berarti Pangeran Muda, atau
-        bisa jadi 'Raja Muda'. Tetapi karena saat itu ia belum tahu kalau Wanyan Kang adalah seorang Pangeran,
-        putra Raja Muda Zhao, Wanyan Honglie, maka saya kira Gong Zi akan lebih tepat.
-    </p>
-</div>
+anakku tidak boleh menikah dengan orang yang tidak tahu aturan[^aturan] semacam engkau. Ayo kembalikan sepatunya!"
 
 "Dia yang memberikannya kepadaku," kata Pangeran itu sambil tertawa santai. "Kenapa kau yang harus terganggu?
 Aku memenangkan lomba, aku menolak perkawinan, tapi aku menerima hadiah hiburan." Ia memutar tangannya dan
@@ -1153,7 +1127,7 @@ itu penganut agama Tao atau Buddha. Yang ketiga bertubuh sangat kecil, tetapi ma
 berlumuran darah memiliki tatapan tajam, dan ia memiliki kumis kecil yang angkuh.
 
 Kehadiran wajah-wajah yang tidak umum ini mengejutkan Mu Yi. Ia kemudian mendengar salah satu pelayan 
-berkata, "Zhi Shang De (至上德), tolong singkirkan orang bodoh ini dari kami! Jika ini terus berlanjut 
+berkata, "Shangren, tolong singkirkan orang bodoh ini dari kami! Jika ini terus berlanjut 
 dan sesuatu yang serius terjadi pada Pangeran muda, kami para pelayan bisa mati!"
 
 Zhi Shang De, atau Sang Kebajikan Tertinggi, adalah nama panggilan untuk Si Lama Tibet itu. Mendengar
@@ -1184,12 +1158,12 @@ dari seorang Pendeta Tao dari Perguruan Quanzhen."
 
 Mu Yi sekali lagi terkejut. "Mana mungkin anak muda kurang ajar ini belajar dari Quanzhen?"
 
-"Lian Xiansheng punya mata yang tajam," kata si kecil lagi. "Kau tinggal di kaki gunung Yong Baishan,
+"Liang Xiansheng punya mata yang tajam," kata si kecil lagi. "Kau tinggal di kaki gunung Yong Baishan,
 menghabiskan waktu untuk bermeditasi dan mempelajari obat-obatan. Orang bilang kau jarang sekali
 menginjakkan kaki di dataran tengah ini, tapi kau tahu banyak tentang ilmusilat dataran tengah, sungguh
 sangat mengagumkan."
 
-"Pujian Peng Xion terlalu tinggi," jawab si orang tua, sambil tersenyum.
+"Pujian Peng Xiong terlalu tinggi," jawab si orang tua, sambil tersenyum.
 
 "Tapi," kata si kecil lagi. "para pendeta Quanzhen punya sifat yang sangat aneh dan tak terduga. Mana
 mungkin mereka bisa menerima Xiao Wangye sebagai murid, ini agak mengherankan."
@@ -1257,17 +1231,17 @@ Huang Rong menunggu sampai Hou Tonghai mendekat, baru kemudian lari lagi. Tawa s
 Pada saat itu, tiga orang pria yang terengah-engah muncul, mereka adalah tiga orang dari Empat Iblis
 Sungai Kuning, tanpa kehadiran Qian Qingjian, yang berjuluk Kapak Pengubur Keluarga.
 
-Melihat tontonak tersebut, Guo Jing sangat terkejut dan sekaligus gembira. Ia berpikir, "Temanku ini pasti
+Melihat tontonan tersebut, Guo Jing sangat terkejut dan sekaligus gembira. Ia berpikir, "Temanku ini pasti
 punya kungfu hebat. Waktu itu, kelihatannya dialah yang menyingkirkan Hou Tonghai, dan juga menggantung
 Empat Iblis Sungai Kuning di atas pohon!" Pihak lawan ternyata juga tidak kurang terkejutnya.
 
-Si Kebajikan Tertinggi Lingzhi bertanya, "Dewa Ginseng, si pengemis cilik itu luar biasa gesit, kira-kira
+Lingzhi Shangren bertanya, "Dewa Ginseng, si pengemis cilik itu luar biasa gesit, kira-kira
 dari perguruan mana dia? Kelihatannya Hou Xiong sudah kalah..."
 
-Juragan Gunung Yong Baishan yang berambut putih itu bernama Liang Ziwong, sejak muda sudah mengkonsumsi
+Juragan Gunung Yong Baishan yang berambut putih itu bernama Liang Ziweng, sejak muda sudah mengkonsumsi
 obat-obatan herbal dan ginseng alamiah, yang melindunginya dari proses penuaan. Ia tidak mengenali
-ilmu silat dari si pengemis cilik, jadi ia menggelengkan kepalanya. Waktu aku di luar tembok perbatasan
-(perbatasan antara Utara dan Selatan), aku sering mendengar bahwa Raja Naga dari Kelompok Iblis adalah
+ilmu silat dari si pengemis cilik, jadi ia menggelengkan kepalanya. "Waktu aku di luar tembok perbatasan
+(antara Utara dan Selatan), aku sering mendengar bahwa Raja Naga dari Kelompok Iblis adalah
 jagoan yang sangat ditakuti. Tidak disangka adik seperguruannya begitu menyedihkan, bahkan tidak bisa
 menangani seorang anak kecil."
 
@@ -1292,30 +1266,24 @@ itu mengundang tawa dan cemoohan para penonton.
 
 Teriakan terdengar dari arah Barat, ketika puluhan prajurit dengan tongkat anyaman dari rotan di tangan
 berteriak sambil memukuli para penonton supaya minggir dan membuka jalan bagi sebuah tandu besar berwarna
-merah dan keemasan, yang diusung oleh enam orang pria berotot. "Wang Fei (王妃, Sang Puteri — Selir Pangeran)!" 
-seru pelayan dari kubu Si Pangeran Muda.
+merah dan keemasan, yang diusung oleh enam orang pria berotot. 
+"[Wang Fei](#wangfei "(王妃) Sang Puteri — Selir Pangeran")!" seru pelayan dari kubu Si Pangeran Muda.
 
 "Siapa Si Tolol yang kurang ajar, melapor kepada ibuku?" seru Sang Pangeran dengan suara menggelegar, 
 sambil cemberut. Para pelayan yang tidak berani menjawab buru-buru menghampiri tandu itu, yang sudah
 berhenti di sebuah tempat kosong.
 
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/UgkxoZ_39gNmUpk1C2fd5yGqK4sqX1cflDYu" target="_blank">
-        <img src="images/bao-xiruo-sebagai-selir.jpg" alt="Bao Xirou Muncul Sebagai Selir" width="75%"/>
-    </a>
-</div>
-
 Suara wanita yang lembut terdengar dari dalam tandu, "Mengapa berkelahi? Ini sedang hujan salju, dan kau tidak memakai
 mantel. Kalau seperti ini kau bisa demam..."
-
 
 Ketika mendengar suara itu dari kejauhan, Mu Yi seakan-akan disambar petir. "Mana mungkin?" pikirnya, terdiam.
 "Suaranya sangat mirip _dia_! Tapi itu tidak mungkin, dia seorang Putri Kekaisaran Jin... Mungkin aku terlalu
 sering memikirkan istriku, dan aku mulai sinting..." Terlepas dari segalanya, ia tidak bisa menahan diri untuk
 mendekati tandu itu. Ia melihat tangan mungil dengan sebuah saputangan keluar dari dalam tandu itu, lalu menghapus
 keringat dari wajah Si Pangeran Muda, yang mendengarkan kata-kata yang diucapkan dengan suara rendah, tak diragukan
-lagi, sedang menegur dan mencela. "Tapi, _Niang_ (Ibu)..." kata Pangerang Muda itu. "Hai'Er (孩儿, semacam 'ananda',
-sebutan untuk diri sendiri di hadapan orang tua) hanya sekedar main-main... tidak ada yang salah..."
+lagi, sedang menegur dan mencela. "Tapi, [Niang](#niang "Ibu")..." kata Pangerang Muda itu. 
+"[Hai'Er](#haier, "孩儿, semacam 'ananda', sebutan untuk diri sendiri di hadapan orang tua") hanya sekedar main-main... 
+tidak ada yang salah..."
 
 "Cepat pakai mantelmu," kata Sang Putri. "Dan kita pulang..."
 
@@ -1358,16 +1326,16 @@ jelas adalah ulah Huang Rong, yang masih belum disadari Hou Tonghai karena ia te
 buruannya. Sisa anggota Empat Iblis Sungai Kuning yang lain ternyata juga sudah menghilang, sudah 
 jelas mereka disingkirkan dengan salah satu cara...
 
-Liang Ziwong dan kawan-kawan berusaha memeras otak untuk menebak identitas Huang Rong. Mereka melihat
+Liang Ziweng dan kawan-kawan berusaha memeras otak untuk menebak identitas Huang Rong. Mereka melihat
 Hou Tonghai berlari dengan cepat, tetapi ia tidak pernah berhasil menyamai bocah berpakaian compang-camping
-itu. "Apa mungkin anak ini anggota Kaipang?" tanya Peng Lianhu, agak mendadak. Pada saat itu Kaipang
-adalah kelompok terkuat yang ada di rimba persilatan. Lian Ziwong mengedutkan mukanya, tetapi tidak
-menjawab. 
+itu. "Apa mungkin anak ini anggota Kai Pang?" tanya Peng Lianhu, agak mendadak. Pada saat itu Kai Pang
+adalah kelompok terkuat yang ada di rimba persilatan. Liang Ziweng mengedutkan mukanya, tetapi tidak
+menjawab.
 
 Kedua pemuda itu bertarung semakin cepat dan tenaga yang mereka gunakan juga semakin besar. Kadang-kadang
 Guo Jing menerima pukulan telak di bahunya, dan kadang-kadang Si Pangeran terkena tendangan di lututnya.
 Mereka bertarung habis-habisan, mengamuk dan terengah-engah, gangguan kecil saja bisa berakibat cedera
-fatal. Peng Lianhu dan Liang Ziwong sama-sama menyiapkan senjata rahasia mereka untuk melakukan intervensi
+fatal. Peng Lianhu dan Liang Ziweng sama-sama menyiapkan senjata rahasia mereka untuk melakukan intervensi
 bila perlu. Meskipun Guo Jing sangat keras kepala dan pantang menyerah, tetapi kungfunya masih belum
 cukup tangguh untuk mengatasi Si Pangeran Muda itu. Kedua ahli itu berusaha meyakinkan diri bahwa mereka 
 akan dapat mengendalikan situasi pada saat yang tepat untuk mencegah terjadinya bencana.
@@ -1377,7 +1345,7 @@ Mongolia, dan menjalani kerasnya kehidupan di sana. Ia telah mengalami perang, d
 perang. Sebaliknya, Sang Pangeran, selalu hidup dalam kemewahan, sama sekali tidak mengherankan bahwa dalam
 pertarungan panjang yang brutal dan tak kenal belas kasihan tersebut, ia tersandung ketika mulai lelah.
 Tiba-tiba Guo Jing berteriak keras, mencengkeram kerah baju musuhnya, mengangkatnya tinggi-tinggi dan
-membantingnya dengan kasar ke tanah. Itu bukan salah satu teknik ajaran guru-gurunya maupun Ma Yi, tetapi
+membantingnya dengan kasar ke tanah. Itu bukan salah satu teknik ajaran guru-gurunya maupun Ma Yu, tetapi
 teknik gulat gaya Mongolia yang unik, yang diajarkan oleh guru panahannya, Jebe.
 
 Sang Pangeran segera bereaksi dengan cara melompat begitu menyentuh tanah, dan mencengkeram kaki 
@@ -1403,7 +1371,7 @@ tombak masih tetap mengesankan.
 Ketika Mu Yi melihat Pangeran itu memegang tombak, ia tercengang. Semua jurus yang diperagakannya sesuai
 dengan jurus tombak keluarga Yang. Teknik yang hanya diturunkan dari ayah ke anak ini sangat jarang terlihat,
 juga bahkan di Selatan. Sekarang ia tercengang ketika melihatnya di ibukota Kekaisaran Jin. Terlepas dari
-gerakannya yang gesit, tetapi versi jurus tombak tersebut tidak sepenuhnya ortodox. Kelihatannya seperti
+gerakannya yang gesit, tetapi versi jurus tombak tersebut tidak sepenuhnya ortodoks. Kelihatannya seperti
 kehilangan esensinya, seolah-olah ditiru tanpa pengetahuan yang benar dari pemiliknya yang sah. Para penonton
 melihat ayunan tombak dan tiang umbul-umbul yang saling silang, menghamburkan butiran salju ke segala arah.
 
@@ -1422,7 +1390,7 @@ keseimbangan dan jatuh.
 supaya ia tidak bisa mengganggu lagi..." Ia mengangkat telapak tangannya, menarik nafas, dan mengirimkan
 pukulan brutal ke arah kepala Guo Jing. Guo Jing yang masih di atas tanah tahu bahwa ia tidak punya peluang
 sama sekali, kendatipun demikian ia mengangkat lengannya untuk menangkis. Si Kebaikan Tertinggi Lingzhi dan
-Ginseng Abadi Lian Ziwong saling bertukar pandang. Tangan anak muda itu akan hilang. Pukulan Si Jagal
+Dewa Ginseng Liang Ziweng saling bertukar pandang. Tangan anak muda itu akan hilang. Pukulan Si Jagal
 Bertangan Seribu sangat keji, dan pasti akan menghancurkan lengannya.
 
 Pada saat kritis itu, sebuah teriakan keluar dari antara penonton. "Tahan!" Sesosok bayangan kelabu
@@ -1432,7 +1400,7 @@ tangan kirinya dengan segera. Orang itu mengelak dengan merendahkan kepalanya, s
 Guo Jing dan membawanya menjauh. Para penonton melihat seorang Pendeta Tao setengah baya, memakai baju 
 abu-abu, yang membawa sebuah kebutan di tangannya, yang mana sekarang hanya tersisa tangkainya. Helai-helai
 kebutan yang tercabut itu masih tersisa di pergelangan tangan Peng Lianhu. Mereka saling berpandangan.
-Meskipun hanya bergebrak satu jurus, tetapi mereka berdua sudah bisa saling mengukur kemampuan lawan.
+Meskipun hanya bergebrak satu jurus, tetapi mereka berdua sudah bisa mengukur kemampuan lawan.
 
 "Tidak diragukan lagi, kau adalah Ketua Peng," kata Si Pendeta. "Satu kehormatan besar bisa bertemu hari ini."
 
@@ -1448,10 +1416,10 @@ Peng Lianhu terkejut dan berkata, "Apa benar Dao Zhang adalah 'Dewa Berkaki Besi
 "Nah, sekarang Ketua Peng yang berlebihan," jawab Si Pendeta. "Aku memang Wang Chuyi, tapi aku tidak pantas
 dijuluki _Dewa_."
 
-Peng Lianhu, Liang Ziwong, dan juga Si Kebajikan Tertinggi Lingzhi, tahu bahwa Wang Chuyi adalah anggota
+Peng Lianhu, Liang Ziweng, dan juga Si Kebajikan Tertinggi Lingzhi, tahu bahwa Wang Chuyi adalah anggota
 yang terkenal dari Perguruan Quanzhen. Namanya hanya sedikit di bawah popularitas Qiu Chuji. Mereka hanya
 pernah mendengar, tetapi belum pernah bertemu dengannya. Mereka mengamatinya dengan teliti. Ia seorang pria
-yang berperawakan halus, dengan janggut tipis di dagunya. Ima memakai kaus kaki putih yang sangat rapi, bersepatu
+yang berperawakan halus, dengan janggut tipis di dagunya. Ia memakai kaus kaki putih yang sangat rapi, bersepatu
 abu-abu, dan terlihat sangat memperhatikan cara berpakaiannya. Kalau tidak menyaksikan sendiri apa yang baru
 saja diperagakannya, tidak akan ada orang yang percaya bahwa dia adalah seseorang yang dijuluki 
 Dewa Berkaki Besi, yang menjejakkan sebelah kaki di atas tebing, dan _terayun seperti daun teratai di angin_,
@@ -1508,3 +1476,41 @@ segera menemukanmu!" Ia berbalik dan sosok mungilnya segera menghilang di antara
 Si Naga Berkepala Tiga mengejar. Guo Jing berbalik dan _kowtow_ di atas salju untuk berterima kasih
 kepada Wang Chuyi yang telah menyelamatkan nyawanya. Pendeta itu mengangkatnya dan memegang tangannya.
 Keduanya segera berjalan melewati kerumunan dan berlari ke pinggiran kota.
+
+***
+
+<dl>
+    <dt id="gongzi"><strong>Gong Zi (公子)</strong></dt>
+    <dd>
+        Istilah yang cukup umum untuk memanggil seorang majikan muda laki-laki, atau seorang pria muda
+        dari kalangan terhormat. Istilah ini juga bisa digunakan untuk memanggil seseorang dari kalangan
+        bangsawan.
+    </dd>
+    <dt id="wangfei"><strong>Wang Fei (王妃)</strong></dt>
+    <dd>
+        Istilah ini dipakai untuk memanggil seorang istri Raja, termasuk kalau Raja tersebut adalah seorang
+        Raja Muda, seperti contohnya Wanyan Honglie. Dan istri di sini biasanya adalah seorang selir.
+    </dd>
+    <dt id="haier"><strong>Hai'Er (孩儿)</strong></dt>
+    <dd>
+        Setara dengan 'Ananda' dalam istilah bahasa Indonesia. Ini bisa dipakai dua arah, seorang ayah atau ibu,
+        dan orang tua lainnya akan memanggil anak kesayangannya dengan cara ini, dan si anak juga akan menempatkan
+        dirinya sendiri sebagai orang ketiga tunggal untuk menunjukkan rasa hormatnya, dengan istilah ini.
+    </dd>
+    <dt id="niang"><strong>Niang (娘)</strong></dt>
+    <dd>
+        Arti literalnya adalah 'Ibu'. Cukup menarik kalau kita teliti karakter tersebut, karena dalam konteks
+        yang lebih modern (dan berbau Barat), karakter yang dipakai adalah (媽). Karakter sebelah kiri tetap sama,
+        tetapi karakter sebelah kanan adalah karakter yang dipakai untuk mewakili 'Kuda', dengan penyebutan yang
+        sama agak berbeda, "Ma". Tentunya disebutkan dua kali, "Mama" (媽媽). Untuk "Kuda", cara menyebutkannya 
+        agak diulur.
+    </dd>
+</dl>
+
+
+***
+
+[^kang]: Kang adalah istilah yang digunakan untuk sebuah tempat tidur di wilayah Utara Tiongkok, yang umumnya diatur sedemikian rupa sehingga menyerupai sebuah 'oven' dari batu bata. Dengan cara ini, tempat tidur itu sekaligus berfungsi sebagai pemanas di musim dingin.
+
+[^aturan]: Umumnya untuk menghormati seseorang yang lebih tua, kalau belum mengenal namanya, seorang muda akan menyapa dengan sebutan Lao Qianbei, yang kira-kira berarti 'Senior', dan menempatkan dirinya sendiri sebagai orang ketiga tunggal dengan sebutan Wanbei, yang kurang lebih berarti 'Junior'. Qianbei (前辈) adalah "Senior', tambahan Lao (老) di depan biasanya ditujukan kepada seseorang yang jauh lebih tua, atau sesepuh. Sepanjang pertemuan dengan Mu Yi, si bangsawan muda itu tidak pernah menggunakan aturan yang sudah umum tersebut, sedangkan Mu Yi sendiri sepanjang waktu sudah merendahkan diri dengan memanggilnya Gong Zi, yang berarti 'Tuan Muda', yang juga umum dipakai untuk menyapa putra keluarga bangsawan. Mu Yi memang lebih tepat kalau memanggilnya dengan sebutan Xiao Wangye (小王爷), yang berarti Pangeran Muda, atau bisa jadi 'Raja Muda'. Tetapi karena saat itu ia belum tahu kalau Wanyan Kang adalah seorang Pangeran, putra Raja Muda Zhao, Wanyan Honglie, maka ia sewajarnya memanggil Wanyan Kang dengan sebutan Gong Zi.
+

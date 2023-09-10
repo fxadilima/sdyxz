@@ -1,10 +1,10 @@
 # Bab 1
 
-| :house: | Bab Lain | Bab 2 |
-|  :---:  |  :---:   | :---: |
-| [:arrow_backward: Prolog](intro.md) | [:three:](bab3.md) [:four:](bab4.md) [:five:](bab5.md) [:six:](bab6.md) [:seven:](bab7.md) | [Next :arrow_forward:](bab2.md) |
+|             |                    |
+|    :---:    | :---               |
+| ![Insiden Di Tengah Badai Salju](https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg) | _Akhirnya si pendeta tertawa, mendadak telapak kanannya menghantam pegangan tombak dengan kecepatan seperti angin. Yang Tiexin merasa pangkal jempol dan telunjuknya mati rasa, dan dengan segera ia melepaskan tombak ke tanah yang diselimuti salju._ |
 
-## Insiden Ditengah Badai Salju
+## Insiden Di Tengah Badai Salju
 
 Di masa itu, di dekat kota Lin'an, sebelah Timur wilayah Jin, dua orang pemuda
 yang bersahabat karib sedang minum arak sambil menikmati cerita rakyat di sebuah
@@ -254,10 +254,7 @@ akan seperti apa, sulit diperkirakan, sulit...!"
 
 Sambil bicara ia terus menggelengkan kepalanya.
 
-> Cuplikan adegan ini kemungkinan akan membawa pembaca beralih ke YouTube, karena itu
-> sebaiknya gunakan klik kanan pada link, dan pilih untuk membukanya di `Tab/Window`
-> yang berbeda.
-> [Klip 1 menit di Youtube](https://youtube.com/clip/UgkxVA6xG-NgdbtBejjl2PM8vtE5jMRvAeqc)
+[Cuplikan adegan ini dari Youtube](https://youtube.com/clip/UgkxVA6xG-NgdbtBejjl2PM8vtE5jMRvAeqc)
 
 "Apanya yang sulit?" kata Guo Xiaotian, agak emosi. "Ini daerah pinggiran, bukan
 Lin'an. Tidak ada yang akan memenggal kepalamu. Tidak ada orang di dunia yang tidak
@@ -628,7 +625,7 @@ keras, "Bajingan tengik! Hari ini Pinto akan melanggar larangan membunuh!"
 Yang Tiexin begitu marahnya sampai tidak bisa bicara. Ia meraih tombaknya yang
 tersandar di sudut ruangan dan melompat keluar. "Ayo! Coba kau jajal Ilmu Tombak Keluarga Yang."
 
-Si pendeta terkekeh, "Kau pikir kau cukup layak memakai Ilmu Tombak Keluarga Yang,
+Si Pendeta terkekeh, "Kau pikir kau cukup layak memakai Ilmu Tombak Keluarga Yang,
 hanya karena kesombongan palsu begini?" Ia melangkah keluar begitu selesai bicara.
 
 Melihat situasi memburuk, Guo Xiaotian segera pulang untuk mengambil sepasang tombak pendeknya.
@@ -1428,8 +1425,8 @@ dengan paksa, lalu menerjang ke arah para prajurit itu dengan tombaknya. Setelah
 kira-kira sepuluh langkah ia menengok ke belakang dan melihat istrinya menangis
 di tengah debu yang beterbangan, dan sekelompok prajurit sudah berkerumun di sekitarnya.
 
-Sambil menghapus air mata, darah, dan keringat di wajahnya, Yang Tiexin segala pikiran
-untuk menyelamatkan diri jauh-jauh, dan hanya berpikir tentang menyelamatkan saudara
+Sambil menghapus air mata, darah, dan keringat di wajahnya, Yang Tiexin menepis segala 
+pikiran untuk menyelamatkan diri jauh-jauh, dan hanya berpikir tentang menyelamatkan saudara
 iparnya, supaya kakak angkatnya memiliki keturunan.
 
 Setelah mengejar beberapa saat, akhirnya ia mendapatkan seekor kuda. Setelah menginterogasi
@@ -1586,7 +1583,7 @@ Dari wajahnya jelas pemuda itu sadar bahwa ia tidak punya pilihan lain kecuali
 menjawab, dan ia mengangguk pelan. "Pendekar Yang tewas di tangan para prajurit 
 keparat itu." Ia menggelengkan kepalanya dan menghela nafas.
 
-Bao Xiruo merasa hatinya dirobek-robek, dan ia pinsan seketika. Ketika akhirnya sadar,
+Bao Xiruo merasa hatinya dirobek-robek, dan ia pingsan seketika. Ketika akhirnya sadar,
 barulah tangisnya meledak.
 
 Orang itu menghiburnya dengan lembut. Sambil terisak-isak, Bao Xiruo bertanya lagi, "Dia...
@@ -1698,10 +1695,10 @@ aku akan mencari si keparat Duan Tiande itu, dan membunuhnya."
 Bao Xiruo orang yang sangat lembut dan tidak mementingkan diri sendiri. Ia jarang
 sekali punya pendapat pribadi. Ditambah lagi, saat ini ia merasa sangat sendirian
 di dunia ini. Ia melihat bahwa Yan Lie bisa mengatur segala hal dengan rapi, ia
-merasa sangat teharu. Ia berkata, "[Yan Xiansheng](#xiansheng "Tuan Yan"), aku tidak tahu bagaimana
+merasa sangat terharu. Ia berkata, "[Yan Xiansheng](#xiansheng "Tuan Yan"), aku tidak tahu bagaimana
 harus membalas kebaikanmu."
 
-YanLie menjawab dengan mantap, "Fu Ren, hidupku ini adalah karena diselamatkan oleh
+YanLie menjawab dengan mantap, "[Fu Ren](#furen "Nyonya"), hidupku ini adalah karena diselamatkan oleh
 Fu Ren. Meskipun aku harus melompat masuk ke dalam minyak mendidih, atau hancur jadi debu,
 aku akan terus melayanimu seumur hidupku."
 
@@ -1836,7 +1833,7 @@ tolong katakan saja. Tidak ada yang tidak akan kulakukan untuk Fu Ren."
 
 Melihat betapa dia sangat mendukung, Bao Xiruo merasa tidak enak karena ragu-ragu.
 Selain bunuh diri, rasanya ia tidak bisa menemukan jalan keluar lain. Merasa tidak
-punya pilihan lain, ia menundukkan kepala dan berkata, "Kau saja yang megurusnya."
+punya pilihan lain, ia menundukkan kepala dan berkata, "Kau saja yang mengurusnya."
 
 Yan Lie sangat gembira, "Aku akan selalu berterima kasih Fu Ren sudah menyelamatkan 
 aku. Fu ren..." Bao Xiruo memotongnya, "Kau tidak perlu lagi menyebut soal itu."
@@ -1918,14 +1915,13 @@ aku ingin buang lebih banyak uang juga tidak bisa." kata Yan Lie.
         seorang bangsawan. Seorang pria yang sudah jelas bangsawan biasanya tidak akan dipanggil Xiansheng. 
     </dd>
     <dt id="furen"><strong>Fu Ren</strong></dt>
-    <dd>(夫人) dipakai untuk menyapa seorang majikan perempuan, atau seorang Nyonya.</dd>
-    <dt id="tombak-guo-xiaotian"><img src="images/small/halberd-1.jpg" alt="Tombak Guo Xiaotian"></dt>
-    <dd>
-        Ji (戟), adalah sebuah tombak dengan mata berupa pisau kembar. Yang digunakan oleh Guo Xiaotian adalah
-        tombak yang bergagang pendek, dan ia menggunakan sepasang senjata tersebut.
-    </dd>
+    <dd>(夫人) setara dengan 'Bu'atau 'Nyonya', umumnya dipakai untuk menyapa seorang wanita yang sudah menikah.</dd>
 </dl>
 
-[^anekdot-senjata]: Narasi di atas diikuti oleh sebuah anekdot dari rakyat Song tentang senjata yang dipakai itu, tetapi saya tidak melihat bagaimana cara kelucuan tersebut bisa diterjemahkan dengan baik ke dalam bahasa Indonesia. Tetapi kesimpulan akhir dari anekdot tersebut cukup penting. Intinya adalah: Karena beratnya, sekali senjata tersebut menghujam ke bawah, yang bisa dipakai untuk menangkis hanyalah batok kepala kita sendiri. Artinya adalah _mati_.
+[^anekdot-senjata]: Narasi di atas diikuti oleh sebuah anekdot dari rakyat Song tentang senjata yang dipakai itu, tetapi saya tidak melihat 
+    bagaimana cara kelucuan tersebut bisa diterjemahkan dengan baik ke dalam bahasa Indonesia. Tetapi kesimpulan akhir dari anekdot tersebut 
+    cukup penting. Intinya adalah: Karena beratnya, sekali senjata tersebut menghujam ke bawah, yang bisa dipakai untuk menangkis hanyalah 
+    batok kepala kita sendiri. Artinya adalah _mati_.
 
-[^daozhang]: Dào Zhang (道长, bisa juga ditulis Dào cháng) adalah panggilan umum untuk seorang pendeta Tao, terlepas dari jabatan yang dipegangnya dalam sebuah perguruan, organisasi, ataupun hirarki kepemimpinan Tao lainnya.
+[^daozhang]: Dào Zhang (道长, bisa juga ditulis Dào cháng) adalah panggilan umum untuk seorang pendeta Tao, terlepas dari jabatan yang 
+    dipegangnya dalam sebuah perguruan, organisasi, ataupun hirarki kepemimpinan Tao lainnya.

@@ -1,6 +1,11 @@
-# Memamerkan Ilmu Silat
+# Bab 8
+## Memamerkan Ilmu Silat
 
-[![Guo Jing terpesona melihat Huang Rong "Guo Jing terpesona ketika melihat Huang Rong"](images/huang-rong.jpg)](https://youtube.com/clip/Ugkxibxs0eU0Y92XRPr-RPe2FX3Rrq_F6R7H)
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 8](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:200/v1676692724/sdyxz/originals/loch-08_yhusym.jpg) | _Tiba-tiba terdengar suara tawa lembut dan Guo Jing berpaling, dan mendengar suara cipratan air dan sehelai daun melayang turun dari sebuah pohon. Lalu ia melihat seorang anak perempuan di bagian belakang sebuah perahu, sedang mendayung dengan santai. Rambutnya panjang melewati bahu, ia mengenakan setelan putih dari ujung kepala sampai ujung kaki, dan di rambutnya terselip sebuah jepit berwarna keemasan yang berkilau seperti api._ |
+
+***
 
 Wang Chuyi berlari luar biasa cepat. Dalam waktu singkat mereka sudah tiba di luar kota. Dalam 
 beberapa li, mereka sudah sampai di bawah kaki bukit. Karena penasaran ingin menguji kemampuan
@@ -175,18 +180,18 @@ Hou Tonghai pada saat kejar-kejaran dengan Huang Rong, ia tertawa dalam hati.
 
 "Dao Zhang," kata Wanyan Kang sambil memperlihatkan senyumnya yang menawan. "Ini beberapa
 orang yang sangat mengagumi Dao Zhang, dan sudah lama berharap untuk bisa berkenalan. Kukira
-Dao Zhang sudah sempat bertemu dengan Ketua Peng. Yang ini adalah Yang Terhormat Liang Ziwong,
+Dao Zhang sudah sempat bertemu dengan Ketua Peng. Yang ini adalah Yang Terhormat Liang Ziweng,
 dikenal sebagai 'Dewa Ginseng', yang datang dari Gunung Dewa Putih."
 
-Liang Ziwong, seorang pria tua dengan wajah nyaris tanpa kerut dan berambut tipis, memberi salam
+Liang Ziweng, seorang pria tua dengan wajah nyaris tanpa kerut dan berambut tipis, memberi salam
 dengan merangkapkan kedua tangannya. "Suatu kehormatan bertemu dengan Wang Dao Zhang, Dewa Berkaki Besi!
 sekarang aku baru bisa bilang bahwa perjalananku melewati perbatasan tidak sia-sia. Ini adalah
-Zhi Shang De (Kebajikan Tertinggi) Ling Zhi, juga dikenal sebagai Si Tangan Raksasa, dari Tibet.
+Lingzhi Shangren, juga dikenal sebagai Si Tangan Raksasa, dari Tibet.
 Aku sendiri berasal dari Timur Laut, dia dari Barat Daya, jadi diperlukan perjalanan sejauh
 puluhan ribu li supaya orang bisa bilang bahwa kami berdua sudah ditakdirkan bertemu."
 
-Jelas sekali Liang Ziwong punya mulut yang sangat manis. Wang Chuyi memberi salam kepada
-Zhi Shang De Ling Zhi, dan Lama dari Tibet itu membalas dengan merangkapkan kedua tangannya.
+Jelas sekali Liang Ziweng punya mulut yang sangat manis. Wang Chuyi memberi salam kepada
+Lingzhi Shangren, dan Lama dari Tibet itu membalas dengan merangkapkan kedua tangannya.
 Tiba-tiba terdengar sebuah suara kasar, "Karena mereka mendapat dukungan dari Quanzhen,
 makanya Tujuh Orang Aneh dari Jiangnan berani kurang ajar!"
 
@@ -233,7 +238,7 @@ di wilayah Barat. Namanya adalah Ouyang Ke. Ouyang Gong Zhi belum pernah datang 
 sebelumnya. Ini pastilah pertama kalinya kalian semua bertemu dengannya."
 
 Kedatangan mendadak orang itu bukan hanya mengejutkan Wang Chuyi dan Guo Jing, tetapi juga
-Peng Lianhu dan Liang Ziwong, yang juga tidak mengenal dirinya. Setelah melihat pameran ilmu
+Peng Lianhu dan Liang Ziweng, yang juga tidak mengenal dirinya. Setelah melihat pameran ilmu
 silat barusan, semua orang diam-diam merasa hormat, tapi tak seorang pun pernah mendengar
 tentang Gunung Onta Putih dari wilayah Barat.
 
@@ -343,7 +348,7 @@ memandang dirinya sebagai seorang yang berilmu tinggi, setia, dan bersedia mengo
 Kekaisaran Jin, kendatipun begitu mereka masih belum juga memberinya tugas untuk memimpin pasukan. Ia
 sudah bekerja keras selama dua puluh tahun, tetapi sengaja _disimpan_ di kediaman Pangeran Zhao ini
 sekedar untuk pamer. Komentar Wang Chuyi menyentuh sebuah titik yang sangat peka, mukanya langsung
-berubah, dan ia berteriak dengan marah. Ia bangkit berdiri, membelakangi Liang Ziwong dan Ouyang Ke,
+berubah, dan ia berteriak dengan marah. Ia bangkit berdiri, membelakangi Liang Ziweng dan Ouyang Ke,
 dan melayangkan tinjunya ke arah muka Wang Chuyi.
 
 Yang terakhir itu melihat sekilas datangnya kepalan ke arahnya, menjulurkan dua jari dari
@@ -354,14 +359,14 @@ Kepalan Tang Zude terhenti di udara dan tidak bisa digerakkan. Ia terkejut, teta
 dan memaki, "Ilmu sihir hebat, kau memakai ilmu sihir!" Ia mengerahkan seluruh tenaganya
 untuk melepaskan kepalannya, tapi ternyata tidak bisa. Ia merasa sangat malu.
 
-Liang Ziwong yang duduk di sebelahnya tertawa, "Jendral, jangan takut, silakan duduk dan 
+Liang Ziweng yang duduk di sebelahnya tertawa, "Jendral, jangan takut, silakan duduk dan 
 minum secawan arak dulu." Seiring dengan ucapannya, ia mengulurkan jarinya ke arah bahu kiri
 Tang Zude.
 
 Wang Chuyi sepenuhnya sadar bahwa meskipun kedua jarinya bisa menahan kepalan Tang Zude,
-tapi tidak akan bisa menghentikan gerakan Liang Ziwong. Ia melepaskan pergelangan tangan
+tapi tidak akan bisa menghentikan gerakan Liang Ziweng. Ia melepaskan pergelangan tangan
 Tang Zude dan mengincar bahu kanan Tang Zude dengan sebuah jari. Dengan perubahan gerak
-yang cepat itu, Liang Ziwong tidak mampu mempertahankan dirinya dan dua jari menekan kedua
+yang cepat itu, Liang Ziweng tidak mampu mempertahankan dirinya dan dua jari menekan kedua
 bahu Tang Zude pada saat yang bersamaan. Sungguh suatu kehormatan bagi Tang Zude bahwa ada
 dua pesilat tangguh menjebaknya pada saat yang bersamaan. Kedua tangannya bergerak ke depan
 tanpa bisa dikendalikan. Diiringi dua suara benturan, tinju kirinya masuk ke dalam sebuah
@@ -536,13 +541,13 @@ seorang dari mereka saja sudah merepotkan, dan ternyata jumlahnya begitu banyak 
 di sini. Mengapa? Bahkan orang semacam Ketua Muda dari Gunung Onta Putih, Ling Zhi, dan juga
 Dewa Ginseng, yang bukan berasal dari wilayah pusat. Pasti ada rencana berbahaya di sini!"
 
-Si Dewa Ginseng, Liang Ziwong, tertawa sambil bangkit berdiri dan memberi salam kepada
+Si Dewa Ginseng, Liang Ziweng, tertawa sambil bangkit berdiri dan memberi salam kepada
 semua orang. Ia menuju ke tengah-tengah lapangan dengan langkah ringan. Ia melangkahkan
 kaki kanannya, yang mendarat dengan ringan di atas sumpit-sumpit yang ditancapkan Ouyang Ke
 di atas salju. Lalu ia mulai memamerkan serangkaian gerakan menggunakan kedua kakinya. Kakinya
 seperti sedang melompat, di lain saat seolah melayang. Setiap langkahnya selalu berakhir di
 atas sumpit. Ketika ia menyelesaikan rangkaian demonstrasi itu, kedua puluh batang sumpit
-itu masih tertancap di tempatnya dengan rapi. Liang Ziwong kembali ke tempat duduknya dengan
+itu masih tertancap di tempatnya dengan rapi. Liang Ziweng kembali ke tempat duduknya dengan
 senyum puas di wajahnya. Ruangan itu hampir meledak oleh sorak-sorai, dan bahkan Guo Jing
 juga ikut memujinya. Saat itu perjamuan berakhir, dan para pelayan membawa baskom berwarna
 emas berisi air hangat untuk para tamu, yang digunakan untuk sekedar membersihkan diri.
@@ -582,7 +587,7 @@ Semua orang diam. Wang Chuyi melanjutkan, "Kalau semua orang berbelas kasihan, m
 akan melepaskan Pangeran Muda ini. Seorang keturunan bangsawan ditukar dengan rakyat jelata,
 rasanya cukup adil, kan?"
 
-Liang Ziwong tertawa, "Karena Wang Dao Zhang begitu adil, baiklah kami setuju." Tanpa
+Liang Ziweng tertawa, "Karena Wang Dao Zhang begitu adil, baiklah kami setuju." Tanpa
 ragu sedetikpun, Wang Chuyi melepaskan Wanyan Kang. Wang Chuyi tahu meskipun semua orang
 ini dikenal luas karena tindakan mereka yang kejam, berdarah dingin, sesat dan punya
 berbagai akal bulus, tetapi mereka tidak akan berani melanggar janji dan menyerang di
@@ -600,12 +605,6 @@ Wang Chuyi mendengus, "Urusan kita belum selesai, jadi kita pasti akan ketemu la
 Mereka berjalan ke arah pintu. Tiba-tiba Ling Zhi berkata, "Kungfu Dao Zhang sungguh luar biasa,
 aku sangat kagum." Ia merangkapkan kedua tangannya dengan sikap doa dan membungkuk. Mendadak ia
 mendorong dengan kedua telapak tangannya, mengerahkan seluruh tenaganya ke depan.
-
-Wang Chuyi also pushed out both his palms in defense, using internal energy to meet
-Ling Zhi’s blow. Just as the palms were about to meet, Ling Zhi suddenly switched from
-internal to external energy and used his left hand to grab Wang Chuyi’s wrist. Wang
-Chuyi reacted swiftly by grabbing his opponent’s wrist; both sides used their utmost
-force and both wrists met briefly before separating.
 
 Wang Chuyi juga mendorong dengan kedua telapak tangannya untuk bertahan, menggunakan 
 tenaga dalamnya untuk menyambut pukulan Ling Zhi. Tepat pada saat telapak tangan keduanya 

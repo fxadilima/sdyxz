@@ -1,19 +1,11 @@
 # Bab 4
 ## Sepasang Iblis Cakar Tengkorak Putih
 
-<!--
-<div class="w3-container w3-center">
-  <a href="https://youtube.com/clip/Ugkxs-MhO45Yi_ZV-Y-pB4JeGPD3nku9eR1K" target="_blank">
-    <img src="images/sepasang-iblis.jpg" width="100%" alt="Sepasang Iblis Cakar Tengkorak Putih"/>
-  </a>
-  <div class="w3-container w3-center">
-    <p><em>
-    Sepasang Iblis dengan ilmu Cakar Tengkorak Putih yang didapat dari Jiu Yin Baigu Zhao (九陰白骨爪),
-    tinggal di puncak itu.
-    </em></p>
-  </div>
-</div>
--->
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 4](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:965/v1676692605/sdyxz/originals/loch-04_xgfiqj.jpg) | _Han Baoju merasakan tenaga pukulan itu mendatanginya, dan karena menyadari bahwa ia tidak mampu menahannya, melakukan salto turun dari atas pohon. Tie Shi tidak membiarkannya lolos dan mengikuti tepat di belakangnya, mengincar punggung si pria kecil dengan cakarnya._     |
+
+***
 
 "Baiklah, ayo kita perang lagi!" kata Wanyan Hongxi dengan lantang.
 
@@ -190,17 +182,22 @@ tanya Temujin.
 "Bukan, bukan Pemimpin Regu, tapi Komandan Kompi Jebe!" Temujin mengoreksi. Semua 
 orang sejenak terkejut sebelum menyadari apa yang dia maksud dan mulai bersorak.
 
-<div class="w3-container w3-center">
+***
+
+<div align="center">
   <a href="https://youtube.com/clip/UgkxhLzPcQCGgOElxvoARghsvEJTKM7PkT8N" target="_blank">
-    <img src="images/temujin-jebe.jpg" width="100%" alt="Temujin memberikan penghargaan kepada Jebe"/>
+    <img src="images/temujin-jebe.jpg" alt="Temujin memberikan penghargaan kepada Jebe"
+      style="max-width:320px" />
   </a>
-  <div class="w3-container w3-center">
+  <div align="center">
     <p>
       <em>Temujin memberikan penghargaan yang sangat tinggi kepada Jebe, yang sebelumnya
       menerima penghinaan besar dari Senggum di depan banyak orang.</em>
     </p>
   </div>
 </div>
+
+***
 
 "Jebe adalah pejuang yang hebat! Dia memang pantas menjadi Komandan Kompi!" Mereka
 semua berteriak sepakat.
@@ -271,7 +268,7 @@ dengan mudah melepaskan diri dari cengkeraman pengawal mereka, jika mereka mau.
 menaklukkan kedua macan tutulku ini dengan tangan kosong, maka aku akan benar-benar
 yakin." Kata Senggum sambil menoleh ke arah Temujin.
 
-'Four Aces' sangat marah, pikiran yang sama melintas di benak mereka. "Kau 
+'Empat As' sangat marah, pikiran yang sama melintas di benak mereka. "Kau 
 mempermalukan Jebe, sekarang kau mau mempermalukan kami? Apa kami ini hanya binatang
 buruan? Apakah kami serigala liar? Kenapa kami harus melawan macan tutulmu?"
 
@@ -569,7 +566,8 @@ tangannya ke arah Zhu Cong.
 
 "Ibuku yang kasih." jawab Guo Jing, sambil mengusap darah dari hidungnya dengan lengan baju.
 
-"Siapa nama ayahmu?" Guo Jing tidak pernah memiliki ayah dan terdiam mendengar pertanyaan itu. Yang bisa dia lakukan hanyalah menggelengkan kepalanya.
+"Siapa nama ayahmu?" Guo Jing tidak pernah memiliki ayah dan terdiam mendengar pertanyaan itu. 
+Yang bisa dilakukannya hanyalah menggelengkan kepalanya.
 
 "Apa margamu Yang?" tanya Quan Jinfa. Sekali lagi, Guo Jing menggelengkan kepalanya.
 Melihat anak ini agak lamban, Tujuh Orang Aneh cukup kecewa.
@@ -603,7 +601,7 @@ aku ketemu ibumu?"
 
 "Ibu tidak di sini."
 
-"Qi Mei, coba kau tanya dia." Ke Zhen'E mulai menyadari bahwa nada curiga dalam 
+"[Qi Mei](#qimei "Adik perempuan ketujuh"), coba kau tanya dia." Ke Zhen'E mulai menyadari bahwa nada curiga dalam 
 tanggapan Guo Jing. Han Xiaoying melompat turun dari kudanya dan berjalan ke arah 
 Guo Jing.
 
@@ -714,7 +712,7 @@ mereka dipenuhi kekaguman.
 kalian bisa ilmu bela diri, maka kalian tidak perlu takut dikeroyok oleh mereka."
 Zhu Cong memberi tahu anak-anak itu.
 
-"Kita bakalan bertarung lagi besok, aku mau minta kakakku." kata Tolui.
+"Kita bakalan bertarung lagi besok, aku mau minta bantuan kakakku." kata Tolui.
 
 "Minta bantuan kakak? Hmph, cuma anak-anak tidak berguna yang akan melakukan hal 
 seperti itu! Sini, aku ajari beberapa gerakan, aku jamin besok kalian pasti menang." 
@@ -820,7 +818,7 @@ cambuk di tangan, tanpa henti melecut tanah, mencoba melampiaskan rasa frustrasi
 dan tidak ada yang bisa menghentikannya. Sejauh ini hanya Penebang Kayu dari Pegunungan 
 Selatan, Nan Xiren, yang tetap diam.
 
-"Nah, bagaimana pendapatmu, Si Di?" tanya Ke Zhen'E.
+"Nah, bagaimana pendapatmu, Si Di[^sidi]?" tanya Ke Zhen'E.
 
 "Bagus sekali." kata Nan Xiren.
 
@@ -833,7 +831,7 @@ membiarkan rasa frustasi menguasai dirinya. "Dia cuma bicara seperlunya."
 
 "Waktu masih kecil aku sendiri juga goblok." kata Nan Xiren sambil tersenyum kalem.
 Ia sejak dulu selalu sangat pendiam, dan setiap patah kata yang diucapkannya pasti sudah
-dipikirkan masak-mask. Artinya dia jarang sekali salah. Mendengar dia bicara, seketika
+dipikirkan masak-masak. Artinya dia jarang sekali salah. Mendengar dia bicara, seketika
 itu keenam Orang Aneh lainnya menemukan secercah harapan, dan rasa percaya diri mereka
 langsung bangkit.
 
@@ -992,7 +990,7 @@ tampak seperti sedang memandang ke langit dan wajahnya berkedut terus menerus.
 mengejutkan Zhu Cong.
 
 “Kupikir mereka juga sudah mati. Tapi ternyata mereka bersembunyi di sini melatih 
-Jiu Yin Baigu Zhao (九陰白骨爪, Cakar Tengkorak Putih Sembilan Bulan) mereka," kata 
+[Cakar Tengkorak Putih Sembilan Bulan](#jiuyinbaiguzhao "Ilmu yang didapat dari Kitab Sembilan Bulan") mereka," kata 
 Ke Zhen'E. "Saudara-saudariku, cepat naik kudamu dan berkuda ke selatan secepat 
 mungkin dan jangan kembali! Tunggu aku setelah kamu pergi lima ribu li. Tunggu 
 selama sepuluh hari. Jika aku tidak muncul pada hari kesepuluh, maka kamu tidak 
@@ -1042,7 +1040,7 @@ yang lalu, mereka berdua baru mulai berlatih Jiu Yin Baigu Zhao. Mereka membunuh
 banyak orang yang tidak bersalah. Saudaraku diundang untuk bergabung dalam 
 ekspedisi melawan mereka, jadi dia mengirim seseorang untuk memberi tahu dan 
 mengundangku untuk bergabung dalam ekspedisi tersebut. Namun, saat itu kita bertujuh 
-berada di Shandong dan provinsi Hebei mencari Li Ping. Kita baru saja menemukan 
+berada di Shandong dan propinsi Hebei mencari Li Ping. Kita baru saja menemukan 
 beberapa petunjuk tentang keberadaannya. Tampaknya beberapa tahun yang lalu 
 seseorang melihat seorang komandan militer dan seorang wanita hamil berpakaian 
 pria berteriak dan menjerit di jalan. Wanita itu tampaknya gila dan berteriak 
@@ -1104,8 +1102,8 @@ bersamanya untuk berbicara dengan utusan itu. Dia juga ingin dengar pendapatku
 tentang apakah utusan itu benar atau coba-coba menipunya. Menurut utusan itu, 
 Tong Shi dan Tie Shi adalah murid juragan Pulau Bunga Persik di Laut Timur..."
 
-Han Xiaoying dengan lembut menyela, "Murid Pulau Persik (Tao Hua Dao, 桃花岛)? Itu artinya mereka orang
-dari provinsi Zhejiang, sama seperti kita."
+Han Xiaoying dengan lembut menyela, "Murid Pulau Persik (Tao Hua Dao, 桃花岛)? 
+Itu artinya mereka orang dari propinsi Zhejiang, sama seperti kita."
 
 Zhu Cong mengangguk dan berkata, "Ya, menurut cerita, mereka tidak diakui oleh 
 Penguasa Pulau Bunga Persik. Mereka berilmu tinggi dan sangat ganas, mereka juga 
@@ -1257,7 +1255,7 @@ angin, ia tiba-tiba menoleh dan melihat sosok manusia di atas pohon. Melepaskan
 jeritan panjang, ia melompat ke arah itu.
 
 Orang yang bersembunyi di atas pohon itu adalah Han Baoju. Memanfaatkan ukuran tubuhnya
-yang kecil, ia menyembuntikan diri dengan sempurna di antara dedaunan, namun demikian,
+yang kecil, ia menyembunyikan diri dengan sempurna di antara dedaunan, namun demikian,
 ketika siap melompat, ia membuat sebuah gerakan kecil yang membuat Mei Chaofeng terjaga.
 Lompatan Mei Chaofeng ke arahnya diiringi sebuah kekuatan yang tak tertahankan! Han
 Baoju mengirimkan sebuah pukulan 'Naga Hitam Menghirup Air', menebas pergelangan tangan
@@ -1288,7 +1286,7 @@ dengan tangan kanan, hampir mematahkan pergelangan kakinya. Nyaris tidak bisa
 lolos, ia menjatuhkan dirinya ke tanah dan berguling untuk menyingkir.
 
 Ketika Mei Chaofeng bermaksud menginjak-injak dia, tongkat hitam yang berat
-menghantam kakinya. Itu Nan Xiren Si Penebang Kayu.
+menghantam kakinya. Itu Nan Xiren, Si Penebang Kayu.
 
 Meninggalkan Han Baoju, Mei Chaofeng dengan cepat mundur untuk menghindari 
 tongkat itu. Dalam sekejap, ia menemukan dirinya dikelilingi oleh musuh. Seorang 
@@ -1297,7 +1295,7 @@ garis meridiannya. Sementara seorang gadis muda memegang pedang menyerang dari k
 
 Seorang pria gendut besar yang kuat bersenjatakan pisau besar dan seorang pria 
 kurus kecil dengan senjata aneh datang dari arah kirinya. Di hadapannya adalah 
-bertampang petani yang tampak kuat dan berotot sedang menggerakkan tongkat 
+pria bertampang petani yang tampak kuat dan berotot sedang menggerakkan tongkat 
 besinya. Suara langkah kaki di belakangnya datang dari si cebol dengan cambuk. 
 Semua orang ini sama sekali tidak dikenalnya, namun mereka tampaknya adalah ahli
 silat yang terkemuka.
@@ -1324,7 +1322,7 @@ sedekat sehelai rambut!
 "Masa dia tidak punya titik vital?" ia bertanya-tanya, terkejut dan takut. Han 
 Baoju telah mengumpulkan cambuknya sekarang, dan Keenam Orang Aneh menggerakkan 
 senjata mereka mengepung Mei Chaofeng. Namun ia sama sekali tidak terkesan. Tangan 
-kosongnya yang digunakan untuk merebut senjata mereka tampak se-efisien cakar 
+kosongnya yang digunakan untuk merebut senjata mereka tampak seefisien cakar 
 yang terbuat dari baja. Orang-orang Aneh sangat kuatir, tampaknya nama panggilan 
 musuh mereka tidak dibesar-besarkan. Tie Shi tampaknya memiliki tubuh yang terbuat
 dari besi! Ia baru saja menerima dua pukulan di punggung, yang datang dari timbangan
@@ -1392,9 +1390,9 @@ pun di atas sana!
 melontarkan enam senjata beracun tujuh langkah ke kanannya, dua setinggi kepala, 
 dua di tengah dan dua di bawah, sambil melompat keluar dari lubang. Orang-orang
 Aneh lainnya menyerang dari semua sisi pada saat bersamaan. Mei Chaofeng menjerit
-kesakitan, dua senjata itu telah mencapai matanya! Untungnya baginya, kelincahannya 
+kesakitan, dua senjata itu telah mencapai matanya! Untung baginya, kelincahannya 
 memungkinkan dia untuk segera menggerakkan kepalanya ke belakang, sehingga senjata
-rahasia itu tidak menembus otaknya, tapi ia telah buta!
+rahasia itu tidak menembus otaknya, tetapi ia telah buta!
 
 Merasa kesakitan dan marah, ia memukul ke arah bawah dengan kedua telapak tangannya, 
 tapi Ke Zhen'E telah melarikan diri ke sisi lain. Mereka mendengar dua bunyi gedebuk, 
@@ -1541,16 +1539,16 @@ Si Mayat Tembaga kembali menyerang dengan telapak tangan lain ke arah Zhang Ahsh
 saat ia masih tergeletak di tanah. Ketakutan, Orang-orang Aneh lainnya berteriak 
 dan bergegas menyelamatkan mereka.
 
-"Zei Po Niang," teriak Chen Xuanfeng. "ada apa ini?" Ia bertanya kepada istrinya.
-Istilah tersebut adalah panggilan kesayangan untuk istrinya. Keduanya sedikit banyak 
-mewarisi keanehan watak guru mereka, istilah ini sebenarnya sangat kasar, dan maknanya
-kurang lebih adalah 'Maling Perempuan'. Kekasaran tersebut seimbang dengan panggilan
-kesayangan Mei Chaofeng untuk memanggil dirinya. Dan juga, mereka berdua pada dasarnya
-_memang_ mencuri Kitab Jiu Yin Baigu Zhao dari guru mereka, karena itu penggunaan
-istilah tersebut tidak terlalu salah.
+"[Zei Po Niang](#zei-han-po "Kira-kira berarti maling perempuan")," teriak Chen Xuanfeng. 
+"ada apa ini?" Ia bertanya kepada istrinya. Istilah tersebut adalah panggilan kesayangan 
+untuk istrinya. Keduanya sedikit banyak mewarisi keanehan watak guru mereka, istilah ini 
+sebenarnya sangat kasar, dan maknanya kurang lebih adalah 'Maling Perempuan'. Kekasaran 
+tersebut seimbang dengan panggilan kesayangan Mei Chaofeng untuk memanggil dirinya. Dan juga, 
+mereka berdua pada dasarnya _memang_ mencuri Kitab Jiu Yin Baigu Zhao dari guru mereka, 
+karena itu penggunaan istilah tersebut tidak terlalu salah.
 
 "Mereka menghancurkan mataku!" jawab Mei Chaofeng marah sambil bersandar di pohon.
-"Kalau sampai salah satu dari mereka lolos, awas kau, Zei Han Zi!"
+"Kalau sampai salah satu dari mereka lolos, awas kau, [Zei Han Zi](#zei-han-po "Kira-kira berarti maling")!"
 
 "Jangan kuatir, Zei Po Niang!" seru Chen Xuanfeng. "Tidak bakalan ada yang bisa
 lolos. Kau... kau terluka? Jangan bergerak!"
@@ -1575,10 +1573,6 @@ dan melakukan perlawanan lagi. Ia tidak berani mendekatinya dari jarak dekat dan
 harus puas berputar-putar mengelilingi musuh menggunakan teknik meringankan 
 tubuhnya yang tinggi.
 
-“Fifth brother,” she shouted, “how do you feel?” She had made two whirls round Chen,
-when the others arrived and joined in. Zhu Cong and Quan Jinfa immediately threw
-their invisible projectiles.
-
 "Wu Ge (Kakak Kelima)," teriaknya ke arah Zhang Ahsheng, "bagaimana keadaanmu?" 
 Ia sudah membuat dua kali putaran mengelilingi Chen Xuanfeng ketika yang lain 
 tiba dan bergabung untuk mendukungnya. Zhu Cong dan Quan Jinfa segera melontarkan
@@ -1594,8 +1588,8 @@ Ia berteriak kepada istrinya, "Zei Po Niang, pendekar-pendekar ini, siapa mereka
 kita bunuh juga!"
 
 Karena kuatir akan luka istrinya, ia pun berseru lagi, "Dan kau sendiri bagaimana,
-Zei Po Niang, lukamu parah tidak? Setidaknya kau bisa bilang kalau tidak sampai mengancam
-nyawa."
+[Zei Po Niang](#zei-han-po "kira-kira berarti maling perempuan"), lukamu parah tidak? 
+Setidaknya kau bisa bilang kalau tidak sampai mengancam nyawa."
 
 "Pokoknya cepat habisi mereka!" teriak Mei Chaofeng marah. "Aku belum mati!"
 
@@ -1718,20 +1712,7 @@ Sepanjang kilatan petir berikutnya yang menyinari area itu, Han Baoju melihat
 tongkat itu terbang menuju ke arah kakaknya. Sadar akan bahayanya, ia melecut 
 Cambuk Naga Emas-nya, melilit senjata itu dan menjatuhkannya.
 
-"Sekarang," seru Chen Xuanfeng, berlari ke arahnya, "Aku akan mengambil nyawa anjingmu!" 
-
-<div class="w3-panel w3-card-4">
-  <h4>Catatan</h4>
-  <p>
-    Kalimat terakhir dari Chen Xuanfeng di atas mengandung istilah yang teramat sangat
-    kasar, yang maknanya adalah <em>menyamakan nyawa lawan dengan nyawa seekor anjing</em>,
-    dan bukan bermakna bahwa ia ingin membunuh anjing milik orang tersebut.
-  </p>
-  <p>
-    Dalam bahasa aslinya kalimat tersebut adalah 'Wo Yao Na Ni De Gou Ming'
-    (我要拿你的狗命).
-  </p>
-</div>
+"Sekarang," seru Chen Xuanfeng, berlari ke arahnya, "Aku akan mengambil nyawa anjingmu![^nyawa-anjing]" 
 
 Terdorong oleh semangatnya sendiri, ia tersandung sesuatu yang terasa seperti 
 tubuh manusia, ia membungkuk dan meraihnya. Itu ternyata seorang bocah kecil, 
@@ -1899,26 +1880,11 @@ melanjutkan pencarian."
 
 Semua setuju dan meneteskan air mata lagi sambil mengucapkan selamat tinggal di makam almarhum saudara mereka.
 
-<div class="w3-container w3-center">
-  <a href="https://youtube.com/clip/UgkxnjTtImRjTdf5_4Kdy6cmp2Vq4PHLDvNU" target="_blank">
-    <img src="images/guojing-membunuh-chenxuanfeng.jpg" alt="Guo Jing Tidak Sengaja Membunuh Chen Xuanfeng" width="100%"/>
-  </a>
-  <div class="w3-container w3-center">
-    <p>
-      <em>
-      Kemudian kilatan petir lagi-lagi menyinari daerah itu. Guo Jing melihat wajah 
-      pria yang menahannya di udara, wajah pucat dengan tatapan mengancam. Ia sangat 
-      ketakutan, sehingga secara naluriah ia menarik belatinya, dan menusukkannya ke 
-      tubuh pria itu, tepat di tengah pusar, sampai ia tidak bisa mendorongnya lebih 
-      dalam lagi.
-      </em>
-    </p>
-  </div>
-</div>
+***
 
-<div class="w3-panel w3-card-4 w3-green">
-  <h4>Daftar Istilah</h4>
-  <p>
+<dl>
+  <dt id="zei-han-po"><strong>Zei Han Zi dan Zei Po Niang</strong></dt>
+  <dd>
     Kata Maling (贼, Zei) dan Cabul (淫, Yin), dipakai untuk menyusun sebuah istilah 
     Yin Zei (淫贼), yang sering digunakan untuk seorang <em>penjahat cabul</em>,
     di dalam cerita silat seperti ini.
@@ -1929,13 +1895,21 @@ Semua setuju dan meneteskan air mata lagi sambil mengucapkan selamat tinggal di 
     Panggilan tersebut: Zei Po Niang (贼婆娘, bisa diterjemahkan menjadi 'Maling'),
     kecuali kalau saya salah dengar, memang agak cocok. Mengingat mereka berdua pada dasarnya
     adalah pencuri kitab Jiu Yin Baigu Zhao.
-  </p>
-  <p>
     Saya belum menemukan panggilan kesayangan yang dipakai oleh Mei Chaofeng untuk
     memanggil suaminya, tapi dari cuplikan adegan di atas, kedengarannya seperti Zei Han Zi (贼汉子).
     Han Zi (汉子, maknanya kira-kira: Pria Jantan). Istilah dengan tiga karakter
     tersebut bisa dipahami dengan arti yang sama, 'Maling' atau Pencuri, tetapi
     digunakan untuk seorang pria.
-  </p>
-</div>
+  </dd>
+  <dt id="jiuyinbaiguzhao"><strong>Sembilan Jurus Cakar Tengkorak Putih (九陰白骨爪)</strong></dt>
+  <dd>
+    Jiu Yin Baigu Zhao adalah bagian dari ilmu yang terdapat dalam Kitab Sembilan Bulan (九阴真经, Jiu Yin Zhen Jing),
+    sebuah ilmu yang dipandang sebagai salah satu ilmu tertinggi di dunia persilatan.
+  </dd>
+</dl>
+
+[^sidi]: **Si Di** (四弟), adik laki-laki keempat. Untuk kakak laki-laki digunakan istilah 'Ge' (哥), menjadi Si Ge. Demikian juga berlaku untuk saudara perempuan, kakak (姐, Jie) atau adik (妹, Mei), menjadi Si Jie atau Si Mei. Sekedar pedoman kasar, urutan mulai 1 — 10 adalah "yi er san si wu liu qi ba jiu shi" (一二三四五六七八九十), tetapi untuk istilah
+ini angka 'satu' tidak dipakai, biasanya disebut 'Da' (大), yang secara literal berarti 'besar', atau dalam konteks ini adalah 'tertua'. Istilah tersebut adalah tanda penghormatan. Karena panggilan-panggilan ini adalah sebuah _sequence_, supaya uraian kita tidak terlalu panjang, maka saya akan mencoba menempatkan masing-masing istilah menjadi sebuah _tooltip_, yang bisa ditampilkan ketika Anda menempatkan mouse di atas istilah terkait. Hanya saja, supaya lebih tepat, tabel untuk ini tetap harus ada.
+
+[^nyawa-anjing]: Kalimat terakhir dari Chen Xuanfeng di atas mengandung istilah yang teramat sangat kasar, yang maknanya adalah _menyamakan nyawa lawan dengan nyawa seekor anjing_, dan bukan bermakna bahwa ia ingin membunuh anjing milik orang tersebut. Dalam bahasa aslinya kalimat tersebut adalah 'Wo Yao Na Ni De Gou Ming' (我要拿你的狗命).
 

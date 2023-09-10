@@ -1,4 +1,11 @@
-# Tombak Berkarat dan Bajak Rusak
+# Bab 9
+## Tombak Berkarat dan Bajak Rusak
+
+| Ilustrasi | Narasi |
+|   :---:   | :---   |
+| ![Ilustrasi Bab 9](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg) | _Yang Tiexin menurunkan tombak berkarat yang tergantung di dinding. Ia mengetuk gagang tombak itu dengan lembut sambil menghela nafas, "Tombak besi ini sudah berkarat. Ini sudah lama tidak dipakai." Wang Fei berkata dengan lembut, "Tolong jangan sentuh tombak itu. Tombak itu barang paling berharga yang aku miliki." "Betulkah?" tanya Yang Tiexin. "Tombak ini dulunya punya pasangan, tapi sekarang ia tinggal sendirian."_ |
+
+***
 
 Guo Jing dan Huang Rong kembali ke kediaman Pangeran Zhao dan melompati tembok tinggi untuk memasuki
 halaman. Huang Rong berbisik ke telinga Guo Jing, "Qing Gong-mu bagus sekali!" Guo Jing mengendap-endap
@@ -377,7 +384,7 @@ merasa tekadnya membulat. Dengan keringat bercucuran ia melanjutkan langkahnya. 
 dengan tujuh atau delapan orang pelayan, tetapi tak seorang pun menanyakan apa-apa ketika melihat
 Huang Rong dan Guo Jing.
 
-Ketika tiba di ruangan Liang Ziwong, ternyata pintunya dikunci. Seorang pelayan mengatakan
+Ketika tiba di ruangan Liang Ziweng, ternyata pintunya dikunci. Seorang pelayan mengatakan
 bahwa ia sudah pergi ke Ruang Tamu Salju Harum. Guo Jing melihat bahwa Si Pengurus Rumah
 agak kesulitan berjalan dan membantunya. Tepat pada saat mereka tiba di ruang tamu itu,
 dua orang pengawal yang memegang lampion dan golok berteriak memanggil, "Hei, berhenti!
@@ -400,21 +407,21 @@ Guo Jing mengamati orang-orang yang duduk mengelilingi meja itu dan jantungnya b
 kencang karena gusar. Ia melihat orang-orang yang sama di ruangan yang sama seperti
 sebelumnya. Di situ hadir Ketua Muda dari Gunung Onta Putih, Ouyang Ke, Raja Naga dari
 Kelompok Iblis, Sha Tongtian, dan adik seperguruannya Si Naga Berkepala Tiga, Hou Tonghai,
-juga Dewa Ginseng, Liang Ziwong dan Si Jagal Bertangan Seribu, Peng Lianhu. Yang duduk di
+juga Dewa Ginseng, Liang Ziweng dan Si Jagal Bertangan Seribu, Peng Lianhu. Yang duduk di
 ujung meja itu adalah Pangeran Keenam Jin, Wanyan Honglie. Di salah satu sudut meja tampak
 sebuah kursi besar, yang ditempati oleh Si Kebajikan Tertinggi, Ling Zhi, yang mukanya
 keemasan dan kelihatannya sedang terluka parah. Guo Jing tertawa dalam hati, "Kau menjebak
 Wang Dao Zhang, dan akhirnya jadi bumerang."
 
-Si Pengurus Rumah memasuki ruangan dan membungkuk ke arah Liang Ziwong, lalu menunjukkan
-surat keterangan dari Wanyan Kang. Liang Ziwong membaca surat itu, memandang Si Pengurus
+Si Pengurus Rumah memasuki ruangan dan membungkuk ke arah Liang Ziweng, lalu menunjukkan
+surat keterangan dari Wanyan Kang. Liang Ziweng membaca surat itu, memandang Si Pengurus
 Rumah sekilas, dan menyerahkan surat itu kepada Wanyan Honglie. "Yang Mulia, apakah ini
 tulisan Pangeran Muda?"
 
 Wanyan Honglie membaca surat itu dan berkata, "Ya, tolong lakukan seperti yang tertulis,
 Ketua Liang."
 
-Liang Ziwong berpaling dan memberi perintah kepada seorang cebol yang memakai setelan hijau,
+Liang Ziweng berpaling dan memberi perintah kepada seorang cebol yang memakai setelan hijau,
 "Ambil masing-masing 5 gram obat yang dibeli oleh Xiao Wangye hari ini. Berikan kepada
 pengurus rumah ini." Si Cebol mengangguk dan mengikuti Si Pengurus Rumah keluar.
 
@@ -474,7 +481,7 @@ maka segala tantangan bagi Negeri Jin akan bisa diatasi, tapi bayangkan apa yang
 diwujudkan kalau kalian berlima bergabung! Haha...! Rasanya seperti seekor singa menggunakan
 seluruh kekuatannya untuk menangkap kelinci!" Pidato ini membuat dia terdengar betul-betul arogan.
 
-Liang Ziwong tersenyum dan berkata, "Kalau Yang Mulia punya sebuah tugas untuk diselesaikan,
+Liang Ziweng tersenyum dan berkata, "Kalau Yang Mulia punya sebuah tugas untuk diselesaikan,
 maka Yang Mulia hanya perlu mengatakannya, dan kami akan melaksanakannya dengan segala senang hati.
 Sayangnya kungfu orang tua ini sangat kasar dan lemah. Aku kuatir seandainya Yang Mulia mempercayakan
 suatu tugas kepadaku, aku akan gagal dan tidak berani lagi menunjukkan mukaku yang tidak
@@ -516,7 +523,7 @@ tangguh dan jumlah mereka sangat besar, tapi sekarang, setelah hampir seratus ta
 pejabat Zhao melayani kaisar kita dari Huangzhou. Para Tamu Yang Terhormat, bisakah dibayangkan
 _mengapa_ mereka melayani dari sana?"
 
-Liang Ziwong berkata, "Mohon Yang Mulai memberikan pencerahan."
+Liang Ziweng berkata, "Mohon Yang Mulai memberikan pencerahan."
 
 Wanyan Honglie menghela nafas, "Pada tahun ketika Yue Fei mengalahkan kita dan kita ad di 
 dalam genggamannya, tidak ada orang yang tidak tahu, tapi siapa yang berani membicarakannya 
@@ -651,8 +658,8 @@ Wanyan Honglie kemudian berkata, "Letak buku ini sendiri sama sekali _bukan_ uru
 dan _memang_ sulit untuk dikatakan, tetapi di hadapan orang-orang yang berilmu tinggi
 jauh lebih mudah mengatakannya. Tepatnya tempat ini adalah..." Tepat pada saat itu pintu
 mendadak didorong hingga terbuka dan seorang pria buru-buru masuk, mukanya bengkak dan pucat.
-Ia menghampiri Liang Ziwong dan memanggil, "Guru..." semua orang mengenalinya sebagai Si Cebol
-yang mengenakan setelan hijau, yang disuruh Liang Ziwong mengambil obat.
+Ia menghampiri Liang Ziweng dan memanggil, "Guru..." semua orang mengenalinya sebagai Si Cebol
+yang mengenakan setelan hijau, yang disuruh Liang Ziweng mengambil obat.
 
 ***
 
@@ -700,13 +707,13 @@ tetapi Si Cebol terlalu cepat dan berhasil melarikan diri.
 Guo Jing makin gugup dan marah, ia mendorong kedua telapak tangannya ke arah pintu dan
 mengerahkan tenaga dalam untuk mendobrak pintu itu. Terdengar suara keras ketika palang
 pintu itu patah dan pintunya berhasil dibuka. Guo Jing menerjang masuk dan membungkam
-Si Pengurus Rumah dengan sebuah _swing_ ke arah dagunya. Untung bagi Guo Jing, Liang Ziwong 
+Si Pengurus Rumah dengan sebuah _swing_ ke arah dagunya. Untung bagi Guo Jing, Liang Ziweng 
 tidak mau diganggu, jadi ia memilih lokasi yang agak jauh dari kompleks kediaman utama
 di istana itu. Karena jauh dari bangunan lain, suara teriakan Si Pengurus Rumah tidak
 membangunkan siapa pun. Ia buru-buru keluar ruangan dan melihat Si Cebol sudah jauh.
 Guo Jing mengejarnya dan dalam sekejap berhasil mencekal lehernya. Ketika Si Cebol melihat
 Guo Jing di belakangnya, berusaha menggunakan kakinya untuk menyapu Guo Jing. Ia tidak
-asing dengan perkelahian karena harus mengikuti Liang Ziwong yang seringkali menempuh
+asing dengan perkelahian karena harus mengikuti Liang Ziweng yang seringkali menempuh
 bahaya, karena itu ia tidak lemah. Guo Jing tahu bahwa ia terjebak dalam bahaya, bukan
 hanya gagal mendapatkan obat untuk Wang Chuyi, tetapi juga setelah tanda bahaya disebarkan,
 maka Huang Rong akan terancam maut kalau sampai tertangkap. Karena tidak bisa membuang-buang
@@ -773,8 +780,8 @@ Akhirnya ia akan pingsan, cekikannya kendor, lalu ular itu akan menghabisinya.
         <p>
             <em>Cuplikan ini tidak sungguh-sungguh tepat menggambarkan peristiwa yang sama, terutama
             sekali karena cara editing dan cepatnya rangkaian peristiwa ini berlangsung. Di dalam novel,
-            orang pertama yang mencegat Huang Rong adalah Liang Ziwong, lalu kemudian Peng Lianhu yang
-            pertama menguji kungfunya. Tetapi di serial ini Liang Ziwong langsung berlari ke ruang penyimpanan
+            orang pertama yang mencegat Huang Rong adalah Liang Ziweng, lalu kemudian Peng Lianhu yang
+            pertama menguji kungfunya. Tetapi di serial ini Liang Ziweng langsung berlari ke ruang penyimpanan
             obatnya. Posisi kedua orang itu digantikan oleh Ouyang Ke.
             Tetapi cuplikan ini masih cukup menarik disimak, karena menampilkan dengan tepat keluguan 
             Huang Rong kecil ketika ketahuan mengintip di kediaman Pangeran Zhao.
@@ -788,7 +795,7 @@ Akhirnya ia akan pingsan, cekikannya kendor, lalu ular itu akan menghabisinya.
 Ketika Si Cebol yang dibuat pingsan oleh Guo Jing tersadar, hal pertama yang melintas
 di benaknya adalah, "Mana orang itu?" Ia melongok ke dalam ruang penyimpanan obat gurunya,
 tetapi ruangan itu gelap dan sepi. Ia beranggapan bahwa Guo Jing sudah melarikan diri.
-Ia berlari ke ruang perjamuan untuk melaporkan peristiwa itu kepada Liang Ziwong.
+Ia berlari ke ruang perjamuan untuk melaporkan peristiwa itu kepada Liang Ziweng.
 
 Huang Rong sangat terkejut mendengar laporan Si Cebol. Ia melakukan gerakan 'Angsa Mendarat
 Di Atas Pasir' untuk mendarat dengan ringan di tanah. Ketika semua orang di situ mendengarkan
@@ -796,15 +803,15 @@ cerita Wanyan Honglie, tidak ada yang memperhatikan apa yang terjadi di luar. Te
 setelah mereka terganggu oleh laporan Si Cebol, keadaannya menjadi sangat lain. Di dalam
 ruangan yang dipenuhi oleh orang-orang berilmu tinggi, yang perhatiannya tidak lagi teralihkan,
 mana mungkin tak satu pun dari mereka menyadari gerakan Huang Rong yang sebetulnya nyaris
-tak terdengar itu? Liang Ziwong adalah orang pertama yang bergerak. Secepat kilat ia sudah
+tak terdengar itu? Liang Ziweng adalah orang pertama yang bergerak. Secepat kilat ia sudah
 berdiri di depan Huang Rong, menghalangi jalannya. "Siapa kau?" desaknya.
 
-Huang Rong bisa melihat dari gerakan Liang Ziwong bahwa kungfu orang itu melampaui kungfunya.
+Huang Rong bisa melihat dari gerakan Liang Ziweng bahwa kungfu orang itu melampaui kungfunya.
 Mengingat banyaknya ahli silat yang hadir di ruangan itu, ini pastilah bukan saat yang tepat
 untuk berkelahi, jadi ia tersenyum dan berkata dengan manis, "Pohon plum ini bunganya sedang 
 mekar dengan indahnya, bisakah kau ambilkan beberapa tangkai untukku?"
 
-Liang Ziwong tidak menduga akan melihat seorang gadis kecil yang secantik itu berdiri
+Liang Ziweng tidak menduga akan melihat seorang gadis kecil yang secantik itu berdiri
 di luar, dengan dandanan yang begitu mempesona. Ketika ia mendengar gadis cilik itu tertawa,
 ia hanya bisa merasa terkejut. Ia mengira gadis itu pasti salah seorang penghuni istana,
 kemungkinan adalah Putri Qian Jin, jadi ia buru-buru memetik setangkai bunga plum dan memberikannya
@@ -919,7 +926,7 @@ ini _benjolan_, bukan 'tanduk'. Lihat baik-baik, jangan omong kosong!"
 Huang Rong tidak mempedulikan dia sama sekali, dan terus bicara dengan semua tamu lain.
 "Ijinkan dia dan aku bertanding dengan masing-masing memegang tiga cawan penuh arak. Siapa
 yang pertama menumpahkan setetes pun arak akan dianggap kalah, itu cukup adil kan?" Ia sudah
-melihat Liang Ziwong, Peng Lianhu dan Sha Tongtian beraksi dan tahu bahwa ia bukan tandingan
+melihat Liang Ziweng, Peng Lianhu dan Sha Tongtian beraksi dan tahu bahwa ia bukan tandingan
 salah satu dari mereka kalau harus berkelahi. Namun demikian, kalau Naga Bertanduk Tiga ini
 bisa dipanas-panasi untuk bertanding menggunakan ilmu meringankan tubuh dan kecerdasan, maka
 ia akan unggul. Kalau harus sungguh-sungguh berkelahi, ia belum tentu bisa menandingi dia,
@@ -964,7 +971,7 @@ di belakangnya. Huang Rong mulai berputar-putar, pakaiannya membentuk lingkaran 
 ia bergantian menyerang dan menghindar. Ia berusaha menyikut salah satu cawan Hou Tonghai,
 tapi Hou Tonghai selalu bisa menghindari serangannya.
 
-Liang Ziwong berpikir, "Kungfu anak ini memang patut dipertimbangkan, tapi ia tetap
+Liang Ziweng berpikir, "Kungfu anak ini memang patut dipertimbangkan, tapi ia tetap
 bukan tandingan Hou Tonghai. Siapa yang menang atau kalah bukan urusanku." Perhatian utamanya
 adalah pada obat-obatan herbal berharga di dalam ruang penyimpanan obatnya, jadi ia berpaling
 dan keluar dari ruangan itu untuk mencari pencurinya.
@@ -1217,7 +1224,7 @@ ia berpikir segalanya berkembang menjadi betul-betul buruk sekarang.
 
 ***
 
-Liang Ziwong berpikir bahwa Huang Rong pasti akan kalah, dan ia berpaling untuk meninggalkan
+Liang Ziweng berpikir bahwa Huang Rong pasti akan kalah, dan ia berpaling untuk meninggalkan
 tempat itu. Tetapi di luar dugaan ia mendengar suara para penonton yang menunjukkan bahwa
 situasinya berubah. Huang Rong tiba-tiba mengangkat kedua tangannya dan melentingkan kepalanya,
 mengirimkan ketiga cawan arak itu ke udara dalam satu garis lurus. Ia lalu mengayunkan
@@ -1263,10 +1270,10 @@ Sha Tongtian membentak, "Waktu Raja Naga dari Kelompok Iblis bertanya, tidak ada
 lain kecuali menjawab!"
 
 Huang Rong melihat bahwa ia terkepung dan tidak punya banyak kesempatan untuk lari.
-Ia melihat Liang Ziwong bermaksud pergi dan memanggilnya untuk memohon dengan manis,
+Ia melihat Liang Ziweng bermaksud pergi dan memanggilnya untuk memohon dengan manis,
 "Paman! Orang jahat ini menghalangi jalanku dan tidak membiarkan aku pulang."
 
-Liang Ziwong tertawa ketika mendengar ia memohon dengan cara yang selucu itu. "Raja Naga
+Liang Ziweng tertawa ketika mendengar ia memohon dengan cara yang selucu itu. "Raja Naga
 cuma bertanya, kenapa kau tidak jadi anak baik dan menjawab saja? Aku yakin dia pasti akan
 membiarkan kau pergi."
 
@@ -1295,14 +1302,14 @@ bergerak. Terakhir, ketika hidungnya hampir menabrak kepala botak Sha Tongtian y
 mengkilap – yang mengancam untuk melumurinya dengan darah dari hidungnya yang patah –
 ia menyerah sambil menjerit kecil karena frustasi.
 
-Liang Ziwong tertawa terbahak-bahak, "Raja Naga Sha memang ahli dalam hal ini, tidak ada
+Liang Ziweng tertawa terbahak-bahak, "Raja Naga Sha memang ahli dalam hal ini, tidak ada
 gunanya diteruskan. Kenapa tidak mengaku kalah?" Kemudian ia berpaling dan pergi dengan kecepatan
 tinggi ke arah ruang penyimpanan obatnya.
 
 Segera setelah ia melangkah masuk ke ruangan itu, hidungnya mencium bau amis darah dan tahu
 bahwa pasti telah terjadi sesuatu yang buruk. Ia memandang ke bawah dan melihat di bawah penerangan
 obornya, tubuh kisut dari ular merahnya yang berharga itu. Semua darahnya telah terkuras habis,
-dan tempat penyimpanan obat-obatannya porak-poranda. Darah Liang Ziwong tiba-tiba dingin. Kerja
+dan tempat penyimpanan obat-obatannya porak-poranda. Darah Liang Ziweng tiba-tiba dingin. Kerja
 keras selama dua puluh tahun hancur lebur dalam waktu semalam! Ia mencengkeram bangkai ularnya
 dan tidak dapat menahan air matanya.
 
@@ -1348,10 +1355,10 @@ orang lain yang menyuruhnya. Sebetulnya ia hampir yakin bahwa Wang Chuyi-lah yan
 Guo Jing.
 
 Guo Jing sangat marah ketika mendengar ini, "Ularmu yang berharga itu menyerang dan meracuni aku!
-Aku measih belum membuat perhitungan denganmu!" Ia melompat ke arah Liang Ziwong dengan tinju
+Aku measih belum membuat perhitungan denganmu!" Ia melompat ke arah Liang Ziweng dengan tinju
 terangkat, siap menyerang.
 
-Tetapi Liang Ziwong mencium bau amis darah ular bercampur dengan bau obat-obatan,
+Tetapi Liang Ziweng mencium bau amis darah ular bercampur dengan bau obat-obatan,
 dan punya niat jahat. "Dia minum darah ularku. Kalau aku membunuhnya sekarang, dan
 minum darahnya, mungkin masih ada manfaatnya. Siapa tahu khasiat obat malah jadi
 meningkat..." Segera setelah ia berpikir begitu, kemarahannya sirna, ia melompat
@@ -1544,29 +1551,29 @@ merasa kuatir akan keselamatannya dan mukanya berubah pucat.
 
 ***
 
-Tangan dan kaki Guo Jing ditangkap oleh Liang Ziwong. Ia sama sekali tidak bisa bergerak,
-tetapi ketika ia melihat muka Liang Ziwong semakin dekat untuk menggigit lehernya, ia mendadak
+Tangan dan kaki Guo Jing ditangkap oleh Liang Ziweng. Ia sama sekali tidak bisa bergerak,
+tetapi ketika ia melihat muka Liang Ziweng semakin dekat untuk menggigit lehernya, ia mendadak
 merasakan dorongan tenaga yang sangat kuat, yang timbul akibat rasa putus asa dan panik.
 Ia membuat gerakan 'Ikan Mas Meliuk Ke Belakang' untuk membebaskan diri dan melompat bangkit.
-Liang Ziwong kembali menyerang. Guo Jing mencoba melompat menjauh, tetapi kecepatan Liang Ziwong
+Liang Ziweng kembali menyerang. Guo Jing mencoba melompat menjauh, tetapi kecepatan Liang Ziweng
 seperti angin dan ia tidak bisa meloloskan diri.
 
 Punggungnya terkena pukulan telak dan itu sama sekali bukan seperti terkena pukulan Wanyan Kang. Pukulan
 itu rasanya seperti menembus sampai ke tulang. Guo Jing merasa sangat ketakutan dan ia tidak menunggu
 sampai datang pukulan berikutnya. Ia terus berlari lurus ke depan. Ilmu meringankan tubuhnya sangat 
 bagus dan ia menggunakannya habis-habisan untuk berlari melewati pepohonan dan bebatuan di kebun
-itu. Liang Ziwong tidak bisa mengimbangi kecepatannya.
+itu. Liang Ziweng tidak bisa mengimbangi kecepatannya.
 
 Awalnya Guo Jing memang berlari sangat kencang, tetapi setelah beberapa saat ia mulai melambat
 dan ia mulai terengah-engah. Baju di bagian punggungnya berlubang besar dan ia merasa punggungnya
-sangat sakit akibat pukulan telak Liang Ziwong. Ia berpikir bahwa pukulan terakhir dari Liang Ziwong
+sangat sakit akibat pukulan telak Liang Ziweng. Ia berpikir bahwa pukulan terakhir dari Liang Ziweng
 itu pastilah sebuah cakaran dan sepertinya sebagian dagingnya terbawa bersama dengan robekan bajunya
 itu. Sekarang ia sangat kuatir dan celingukan mencari-cari tempat persembunyian. Di hadapannya adalah
 jalan menuju gubuk milik Selir Pangeran itu. Ia buru-buru ke sana dengan harapan tidak ada orang
 yang akan mencarinya di situ, dan setelah keadaan agak tenang ia akan bisa melarikan diri. Ia 
 menyandarkan diri ke dinding di bagian belakang gubuk itu dan tidak berani bergerak sedikit pun. 
-Tak lama kemudian ia mendengar suara Liang Ziwong dan Wanyan Kang bersahut-sahutan, semakin mendekat.
-Liang Ziwong sangat marah dan tidak dapat mengendalikan emosinya, sehingga berteriak memanggil.
+Tak lama kemudian ia mendengar suara Liang Ziweng dan Wanyan Kang bersahut-sahutan, semakin mendekat.
+Liang Ziweng sangat marah dan tidak dapat mengendalikan emosinya, sehingga berteriak memanggil.
 
 Guo Jing berpikir dengan cemas, "Kalau aku terus di sini, tinggal tunggu waktu sampai mereka
 menemukan aku. Selir itu kelihatannya baik hati, mungkin dia mau menyelamatkan aku." Karena
@@ -1582,7 +1589,7 @@ duduk di belakang meja sambil memandangi lilin, sepertinya sedang melamun. Tak l
 Wanyan Kang masuk dan bertanya, "_Niang_, apa ada penjahat masuk dan membuatmu takut?"
 
 Wang Fei menggelengkan kepalanya, jadi Wanyan Kang keluar lagi dan meneruskan pencariannya
-ke tempat lain bersama dengan Liang Ziwong.
+ke tempat lain bersama dengan Liang Ziweng.
 
 Sambil berdebar-debar, Guo Jing merasa lega. Ibu Wanyan Kang menutup pintu dan sepertinya ia
 akan beristirahat. Guo Jing berpikir, "Begitu ia meniup lilin, aku akan menyelinap keluar dari
