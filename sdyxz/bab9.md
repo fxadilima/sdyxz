@@ -3,7 +3,7 @@
 
 | Ilustrasi | Narasi |
 |   :---:   | :---   |
-| ![Ilustrasi Bab 9](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg) | _Yang Tiexin menurunkan tombak berkarat yang tergantung di dinding. Ia mengetuk gagang tombak itu dengan lembut sambil menghela nafas, "Tombak besi ini sudah berkarat. Ini sudah lama tidak dipakai." Wang Fei berkata dengan lembut, "Tolong jangan sentuh tombak itu. Tombak itu barang paling berharga yang aku miliki." "Betulkah?" tanya Yang Tiexin. "Tombak ini dulunya punya pasangan, tapi sekarang ia tinggal sendirian."_ |
+| ![Ilustrasi Bab 9](https://res.cloudinary.com/drzjshskk/image/upload/e_sharpen:400/v1676692753/sdyxz/originals/loch-09_fpvxuk.jpg) | Yang Tiexin menurunkan tombak berkarat yang tergantung di dinding. Ia mengetuk gagang tombak itu dengan lembut sambil menghela nafas, "Tombak besi ini sudah berkarat. Ini sudah lama tidak dipakai." Wang Fei berkata dengan lembut, "Tolong jangan sentuh tombak itu. Tombak itu barang paling berharga yang aku miliki." "Betulkah?" tanya Yang Tiexin. "Tombak ini dulunya punya pasangan, tapi sekarang ia tinggal sendirian." |
 
 ***
 
@@ -299,19 +299,6 @@ Guo Jing bertanya, "Kau tahu di mana mereka menyembunyikan obat-obatan itu?"
 
 Huang Rong menggelengkan kepalanya, "Tidak. Jadi kita masih harus mencari-cari."
 
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/Ugkxm9CQbBQI4Q-FaLN5dstol34dK1yZMJDZ" target="_blank">
-        <img src="images/mengancam-pengurus-rumah.jpg" alt="Huang Rong Mengancam Pengurus Rumah"/>
-    </a>
-    <div class="w3-container w3-center">
-        <p><em>
-        Pria itu terkesiap dan sebelum ia bisa mengatakan sepatah kata pun, Huang Rong membalikkan
-        telapak tangannya, dan menodongkan sebuah benda yang berkilau ke arah tenggorokannya.
-        Ia bertanya, "Kau siapa?"
-        </em></p>
-    </div>
-</div>
-
 Guo Jing berpikir tentang betapa besarnya kediaman keluarga Zhao ini dan bertanya-tanya
 di mana mereka harus mulai _mencari_, "Akan sangat kacau kalau sampai ketahuan Sha Tongtian
 dan lainnya..." Ia baru ingin mendiskusikan hal ini dengan Huang Rong ketika melihat
@@ -579,35 +566,6 @@ ketika menulis surat itu, dikuasai oleh amarahnya sendiri dan frustasi, sehingga
 puisi yang sangat kacau dan tak bermakna seperti itu. Tidak ada yang menduga bahwa sebenarnya
 di balik semua _omong kosong_ itu tersembunyi sebuah rahasia yang teramat sangat besar!"
 
-<div class="w3-panel w3-card-4 w3-green">
-    <p>
-    Keempat judul puisi di atas diterjemahkan ke dalam bahasa Inggris menjadi istilah berikut:
-    <ol>
-        <li>Pu Sa Man (菩萨蛮) = Buddhist Barbarian</li>
-        <li>Chou Nu Er = Shameful Slave</li>
-        <li>He Sheng Zhao = Congratulating The Imperial Court Sage</li>
-        <li>Qi Tian Yue = Level Heaven Music</li>
-    </ol>
-    </p>
-    <p>
-        Saya tidak tahu bagaimana tim penerjemah bahasa Inggris sampai pada kesimpulan tersebut,
-        dan saya gagal menangkap makna tertentu dari istilah bahasa Mandarinnya, kecuali yang kedua,
-        yaitu 'Chou Nu Er' (臭女儿), yang dibenak saya maknanya adalah 'Anak Perempuan Busuk'. Ini adalah semacam
-        makian yang ditujukan kepada anak perempuan sendiri (Nu Er 女儿 = anak perempuan, Chou 臭 = busuk atau bau).
-    </p>
-    <p>
-       Judul yang pertama, yaitu Pu Sa Man saya temukan melalui Google Translate ditambah sedikit
-       logika, karena Buddha akan diucapkan sesuai kata itu sendiri (Pu Sa). Sedangkan Man (蛮) memiliki
-       makna yang cukup bervariasi, dan kelihatannya bisa tidak berhubungan dari satu ke lain makna.
-       Salah satunya yang berupa <em>noun</em>, memang adalah 'Barbarian'. Tetapi ketiga karakter itu kalau 
-       disusun dengan urutan di atas seperti tidak bermakna.
-    </p>
-    <p>
-        Dari judul-judul di atas kita bisa menangkap bahwa isi dari tulisan yang mengikutinya
-        memang sekacau judulnya, dan jauh dari apa yang diharapkan orang tentang sebuah sajak, puisi, atau syair.
-    </p>
-</div>
-
 "Pangeran yang hina ini," lanjut Wanyan Honglie, hampir-hampir tak dapat menyembunyikan
 kebanggaan dirinya lagi. "terus berusaha memahami arti semua tulisan _kacau_ itu, sampai
 akhirnya aku menemukan rahasianya. Ternyata, kalau kita mengambil setiap kata ketiga dari
@@ -662,19 +620,6 @@ Ia menghampiri Liang Ziweng dan memanggil, "Guru..." semua orang mengenalinya se
 yang mengenakan setelan hijau, yang disuruh Liang Ziweng mengambil obat.
 
 ***
-
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/Ugkxz-Geg-Dp-IatzmATK6YhgZGgz8Z6lNq9" target="_blank">
-        <img src="images/ular-diruangobat.jpg" alt="Guo Jing Bergulat Dengan Ular" width="75%"/>
-    </a>
-    <div class="w3-container w3-center">
-        <p><em>
-        Ketika ia berbalik untuk meninggalkan ruangan itu, sikunya tanpa sengaja menyenggol 
-        sebuah keranjang bambu berukuran besar yang jatuh ke samping. Setelah tutupnya terbuka, 
-        mendadak seekor ular raksasa berwarna merah darah melompat keluar dari keranjang itu 
-        tepat ke arah mukanya.</em></p>
-    </div>
-</div>
 
 Ketika Guo Jing pergi bersama Si Pengurus Rumah dan Si Cebol untuk mengambil obat, ia
 menggunakan tangan kirinya untuk membantu Si Pengurus Rumah berjalan, tetapi juga memastikan
@@ -771,26 +716,6 @@ dan membuatnya mual. Ia tahu bahwa ia tidak akan mampu menahan ular itu lebih la
 Akhirnya ia akan pingsan, cekikannya kendor, lalu ular itu akan menghabisinya.
 
 ***
-
-<div class="w3-container w3-center">
-    <a href="https://youtube.com/clip/UgkxpDPxoIRfsjTGK1q9UFYCKEIW6E8ieLhF" target="_blank">
-        <img src="images/huang-rong-tertangkap-basah.jpg" alt="Huang Rong Tertangkap Basah">
-    </a>
-    <div class="w3-panel w3-card">
-        <p>
-            <em>Cuplikan ini tidak sungguh-sungguh tepat menggambarkan peristiwa yang sama, terutama
-            sekali karena cara editing dan cepatnya rangkaian peristiwa ini berlangsung. Di dalam novel,
-            orang pertama yang mencegat Huang Rong adalah Liang Ziweng, lalu kemudian Peng Lianhu yang
-            pertama menguji kungfunya. Tetapi di serial ini Liang Ziweng langsung berlari ke ruang penyimpanan
-            obatnya. Posisi kedua orang itu digantikan oleh Ouyang Ke.
-            Tetapi cuplikan ini masih cukup menarik disimak, karena menampilkan dengan tepat keluguan 
-            Huang Rong kecil ketika ketahuan mengintip di kediaman Pangeran Zhao.
-            Dalam serial ini Huang Rong diperankan dengan nyaris sempurna oleh aktris cantik yang awet muda,
-            Zhou Xun.
-            </em>
-        </p>
-    </div>
-</div>
 
 Ketika Si Cebol yang dibuat pingsan oleh Guo Jing tersadar, hal pertama yang melintas
 di benaknya adalah, "Mana orang itu?" Ia melongok ke dalam ruang penyimpanan obat gurunya,
@@ -952,18 +877,6 @@ mulai memamerkan ilmu meringankan tubuhnya dengan bergerak mengelilingi ruangan 
 Hou Tonghai mengirimkan serangkaian tendangan ke arahnya, tetapi dia mampu menghindari
 semuanya. Semua orang mulai tertawa terbahak-bahak melihat pertarungan menggelikan itu.
 
-<div class="w3-container w3-center">
-    <a href ="https://youtube.com/clip/Ugkx2Gx2A27iC4pNRtHNmwtI0XNgpyIExuo4" target="_blank">
-        <img src="images/huang-rong-vs-hou-tonghai.jpg" alt="Huang Rong melawan Hou Tonghai">
-    </a>
-    <div class="w3-container w3-center">
-        <p><em>
-        Huang Rong bertarung melawan Hou Tonghai dalam taruhan mempertahankan tiga cawan arak.
-        (The Legend of The Condor Heroes 2017). Adegan ini tidak ada dalam versi 2003, yang
-        kita banyak pakai sebagai ilustrasi.
-        </em></p>
-    </div>
-</div>
 
 Huang Rong menjaga supaya tubuh bagian atasnya tetap stabil sementara ia meluncur 
 mengelilingi ruangan. Hou Tonghai bergerak lambat, dengan langkah-langkah lebar, mengejar
@@ -1610,8 +1523,6 @@ situ lama sebelumnya.
 Ketika Wang Fei itu mengenalinya, ia segera berkata, "Cepat, pergi dari sini, sebelum ada yang
 melihatmu."
 
-[![Yang Tiexin menemui Selir Pangeran](images/bao-xiruo-bertemu-yang-tiexin.jpg)](https://youtube.com/clip/UgkxlA5dB8FoEIKGWBehf0YkH3jraEsptJMY)
-
 
 Yang Tiexin menjawab, "Terima kasih banyak atas segala perhatian _Wang Fei_. Kalau _Zai Xia_ (载下, saya)
 tidak datang sendiri untuk mengucapkan terima kasih, _Zai Xia_ akan menyesal seumur hidup." Kalimat
@@ -1853,5 +1764,3 @@ ayah."
 
 Bao Xiruo memanggil, "Ayahmu ada di sana!" Dengan gagah berani ia melangkah menuju ke arah lemari,
 lalu membuka pintunya dan memegang tangan Yang Tiexin untuk membawanya keluar ke dalam ruangan itu.
-
-

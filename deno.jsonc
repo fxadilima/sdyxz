@@ -1,0 +1,7 @@
+{
+  "tasks": {
+    "dev": "deno run --watch native.jsx",
+    "test-build": "deno run -A ./tests/build.tsx"
+  },
+  "importMap": "import_map.json"
+}

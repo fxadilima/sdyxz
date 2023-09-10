@@ -1499,7 +1499,7 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             title="Titik Akupuntur Que Pen"
             target="_blank">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682151619/misc/st_meridian_9-18_jg7tzd.gif"
-                alt="Que Pen Acupoint">
+                alt="Que Pen Acupoint"/>
         </a>
     </dd>
     <dt id="taishan">Tai Shan (泰山)</dt>
@@ -1515,11 +1515,21 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             <summary>Berdasarkan Senioritas</summary>
             <ol>
                 <li>Chen Xuanfeng (陳玄風), suami Mei Chaofeng yang berjuluk Tong Shi (銅屍), Si Mayat Tembaga.</li>
-                <li>Mei Chaofeng (梅超風), yang berjuluk Tie Shi (鐵屍), Si Mayat Besi. Ia dan Chen Xuanfeng dikenal sebagai Hei Feng Shuang Sha (黑風雙煞). Nama aslinya adalah Mei Ruohua (梅若華). Huang Yaoshi mengganti namanya untuk disesuaikan dengan ciri khas nama semua muridnya yang diakhiri dengan "Feng" (Angin).</li>
-                <li>Qu Lingfeng (曲靈風), yang mula-mula dikenal oleh Guo Xiaotian dan Yang Tiexin sebagai tetangga mereka yang cacat dan bernama Qu San (曲三). San (三) di sini dipinjam dari urutannya yang ketiga sebagai murid Huang Yaoshi.</li>
-                <li>Lu Chengfeng (陸乘風), pemilik Rumah Awan yang dijadikan markas para bajak Danau Tai. Seorang sastrawan yang dikenal Guo Jing dan Huang Rong sebagai Lu Xiansheng, ayah dari Lu Guanying.</li>
+                <li>
+                    Mei Chaofeng (梅超風), yang berjuluk Tie Shi (鐵屍), Si Mayat Besi. Ia dan Chen Xuanfeng dikenal 
+                    sebagai Hei Feng Shuang Sha (黑風雙煞). Nama aslinya adalah Mei Ruohua (梅若華). Huang Yaoshi mengganti namanya untuk disesuaikan dengan ciri khas nama semua muridnya yang diakhiri dengan "Feng" (Angin).
+                </li>
+                <li>
+                    Qu Lingfeng (曲靈風), yang mula-mula dikenal oleh Guo Xiaotian dan Yang Tiexin sebagai tetangga mereka yang cacat dan bernama Qu San (曲三). San (三) di sini dipinjam dari urutannya yang ketiga sebagai murid Huang Yaoshi.
+                </li>
+                <li>
+                    Lu Chengfeng (陸乘風), pemilik Rumah Awan yang dijadikan markas para bajak Danau Tai. Seorang sastrawan yang dikenal Guo Jing dan Huang Rong sebagai Lu Xiansheng, ayah dari Lu Guanying.
+                </li>
                 <li>Wu Mianfeng (武眠風), meninggal karena sakit, tidak tampil dalam cerita ini.</li>
-                <li>Feng Mofeng (馮默風), murid keenam yang tidak tampil dalam cerita ini, tetapi tampil di buku kedua, Pendekar Rajawali Sakti.</li>
+                <li>
+                    Feng Mofeng (馮默風), murid keenam yang tidak tampil dalam cerita ini, tetapi tampil di buku kedua, 
+                    Pendekar Rajawali Sakti.
+                </li>
                 <li>Shagu (傻姑), putri tunggal Qu Lingfeng yang mengalami kelainan mental.</li>
             </ol>
             Huang Rong tentulah yang paling muda di antara mereka semua, secara otomatis mereka memanggilnya Shimei,
@@ -1555,7 +1565,7 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             title="Titik Akupuntur Wai Guan"
             target="_blank">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682256295/misc/waiguan_kbd6ob.png"
-                alt="Wai Guan Acupoint">
+                alt="Wai Guan Acupoint"/>
         </a>        
     </dd>
     <dt id="neiguan">Titik Akupuntur Nei Guan (内关)</dt>
@@ -1566,8 +1576,8 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             title="Titik Akupuntur Nei Guan"
             target="_blank">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682256801/misc/neiguan_iefn5h.png"
-                alt="Nei Guan Acupoint">
-        </a>        
+                alt="Nei Guan Acupoint"/>
+        </a>
     </dd>
     <dt id="huizong">Hui Zong (会宗)</dt>
     <dd>
@@ -1578,7 +1588,7 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             title="Titik Akupuntur Hui Zong"
             target="_blank">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682257784/misc/huizong_rev0tv.png"
-                alt="Hui Zong Acupoint">
+                alt="Hui Zong Acupoint"/>
         </a>        
     </dd>
     <dt id="cui-xin-zhang">Cui Xin Zhang (摧心掌)</dt>
@@ -1637,7 +1647,7 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
             title="Li Yu Da Ting Zhi Li"
             target="_blank">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682321337/misc/Kip-up_tpd0v8.gif"
-                alt="Li Yu Da Ting Zhi Li">
+                alt="Li Yu Da Ting Zhi Li"/>
         </a>
     </dd>
     <dt id="jin-long-bian">Jin Long Bian (金龙鞭)</dt>
@@ -1665,7 +1675,8 @@ Tapi kegelapan menelan suaranya. Mei Chaofeng sudah pergi jauh.
     <dd>
         Empat karakter itu punya arti literal masing-masing: 
         <ol>
-            <li>Kang (康) yang paling umum dipakai untuk istilah 'Sehat', seperti dalam Jian Kang (健康), 
+            <li>
+                Kang (康) yang paling umum dipakai untuk istilah 'Sehat', seperti dalam Jian Kang (健康), 
                 tetapi juga bisa berarti 'Damai' atau 'Peaceful', makna inilah yang dipakai dalam konteks tersebut. 
                 Seekor Naga yang merasa dirinya tinggi akan bersikap sombong, tetapi karena menyesalinya maka 
                 ia akan merasa damai.

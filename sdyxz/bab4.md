@@ -184,21 +184,6 @@ orang sejenak terkejut sebelum menyadari apa yang dia maksud dan mulai bersorak.
 
 ***
 
-<div align="center">
-  <a href="https://youtube.com/clip/UgkxhLzPcQCGgOElxvoARghsvEJTKM7PkT8N" target="_blank">
-    <img src="images/temujin-jebe.jpg" alt="Temujin memberikan penghargaan kepada Jebe"
-      style="max-width:320px" />
-  </a>
-  <div align="center">
-    <p>
-      <em>Temujin memberikan penghargaan yang sangat tinggi kepada Jebe, yang sebelumnya
-      menerima penghinaan besar dari Senggum di depan banyak orang.</em>
-    </p>
-  </div>
-</div>
-
-***
-
 "Jebe adalah pejuang yang hebat! Dia memang pantas menjadi Komandan Kompi!" Mereka
 semua berteriak sepakat.
 

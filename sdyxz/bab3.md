@@ -1196,24 +1196,6 @@ menciptakan rantai panah di udara.
 
 ***
 
-<div align="center">
-  <a href="https://youtube.com/clip/UgkxyQ3IBkxJiuJfniiH6j44FIJ3RxBxdHJN">
-    <img src="images/jebe-bogurchi.jpg" 
-      alt="Jebe Melawan Bogurchi menyelamatkan Guo Jing"
-      style="max-width:640px;"
-    />
-  </a>
-  <div align="center">
-    <p>
-    Adegan klasik dalam serial ini, pertarungan Jebe melawan Bogurchi, yang secara
-    mengejutkan akhirnya dimenangkan oleh Jebe. Dengan demikian baik Jebe maupun
-    Guo Jing akhirnya menjadi bagian dari suku Temujin.
-    </p>
-  </div>
-</div>
-
-***
-
 Melihat situasi itu, Jebe mengangkat dirinya dengan mengaitkan kakinya pada pedal, 
 membalikkan diri di bawah perut kudanya. Bersandar ke samping agar tidak membentur 
 tanah, ia membidik dan melepaskan tembakan ke perut Bogurchi. Kuda putih tidak menunggu 
@@ -1374,18 +1356,6 @@ tidak boleh tidak menghormati tuan rumahnya, karena itu dianggap sebagai penghin
 terbesar. Meskipun apa yang diteriakkan Wanyan Hongxi adalah dalam bahasa Jurchen, 
 dan tidak ada orang Mongol yang memahaminya, semua orang tahu bahwa ia sedang memaki 
 anak-anak dari bahasa tubuh dan nada suaranya.
-
-***
-
-<div align="center">
-  <a href="https://youtube.com/clip/UgkxRb8LpVOHu8NKuvhLsylVbT7Qq8CO6o-I">
-    <img src="images/komplotan-cilik-mongol.jpg" alt="Guo Jing Kecil Dan Kawan-kawan"
-        style="max-width:400px"/>
-  </a>
-  <div align="center">
-    <p><em>Guo Jing berani melempar coin ke arah Wanyan Hongxi</em></p>
-  </div>
-</div>
 
 ***
 

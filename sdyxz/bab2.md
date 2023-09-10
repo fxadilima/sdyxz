@@ -1876,7 +1876,7 @@ makin lama makin jauh, sampai akhirnya tak terdengar lagi.
     </dd>
     <dt id="laughing-budha"><strong>Budha Tertawa</strong></dt>
     <dd>
-        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676747919/sdyxz/originals/laughing-budha_f7zux4.jpg" alt="Budha Tertawa" title="Budha Tertawa">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1676747919/sdyxz/originals/laughing-budha_f7zux4.jpg" alt="Budha Tertawa" title="Budha Tertawa" />
     </dd>
     <dt id="yue-nu-xia"><strong>Pedang Nona Yue</strong></dt>
     <dd>

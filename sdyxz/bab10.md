@@ -262,7 +262,7 @@ yang lain melihat Huang Rong menipu Ouyang Ke dengan cerdik, dan tidak bisa mena
     </p>
     <div class="w3-container w3-center">
         <a href="https://youtube.com/clip/Ugkx_qcXP96oAORlP9RfPfzf5LAMTjc4AHQh" target="_blank">
-            <img src="images/rompi-berduri.jpg" alt="Rompi Berduri Huang Rong">
+            <img src="images/rompi-berduri.jpg" alt="Rompi Berduri Huang Rong"/>
         </a>
         <div class="w3-container w3-center">
         <p><em>Raut wajahnya berubah saat ia teringat, berteriak, "Rompi Kulit Landak... Rompi Kulit Landak!"</em></p>

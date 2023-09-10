@@ -3,7 +3,7 @@
 
 | Ilustrasi | Narasi |
 |   :---:   | :---   |
-| ![Ilustrasi Bab 12](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg) | _Tiba-tiba Wanyan Kang mengerti. "Dia sedang mengatakan bahwa kami berdua sama sekali tidak ada hubungan darah!" Ia menggenggam tangan kanan gadis itu dan tersenyum. Muka Mu Nianci memerah, ia meronta sedikit, tetapi tidak melepaskan genggamannya, membiarkan pemuda itu menggenggam tangannya. Kepalanya tertunduk lebih dalam._ |
+| ![Ilustrasi Bab 12](https://res.cloudinary.com/drzjshskk/image/upload/v1676662508/sdyxz/originals/ch12_shdy3n.jpg) | Tiba-tiba Wanyan Kang mengerti. "Dia sedang mengatakan bahwa kami berdua sama sekali tidak ada hubungan darah!" Ia menggenggam tangan kanan gadis itu dan tersenyum. Muka Mu Nianci memerah, ia meronta sedikit, tetapi tidak melepaskan genggamannya, membiarkan pemuda itu menggenggam tangannya. Kepalanya tertunduk lebih dalam. |
 
 ***
 
@@ -1805,40 +1805,47 @@ membuatnya sangat menghormati gadis itu. Ia tersenyum dan menghela napas.
 
 ***
 
+## <a id="meihua" name="meihua">Mei Hua (梅花)</a>
+
+Bunga _prem_, atau Mei Hua berasal dari sebelah selatan Sungai Yangtze. Kalau sudah matang,
+daging buahnya akan berwarna kuning, kulit buahnya yang hijau juga akan semakin menguning seiring dengan tingkat kematangannya. Terkadang ada yang bersemu merah. Tanaman ini memang dibudidayakan untuk diambil bunga dan buahnya. Di jaman modern ini kita biasa menikmatinya sebagai _manisan_, yang umumnya disertakan dalam sebuah _parcel_ untuk menyambut Tahun Baru Imlek.
+
+
+## <a id="shijing" name="shijing">Shi Jing</a>
+
+Shi Jing (诗經) adalah buku yang berisi kumpulan sajak, syair atau puisi, yang adalah bagian dari Si Shu Wu Jing 
+(四書五經, Empat Kitab dan Lima Pelajaran Klasik — Four Books and Five Classics). Ini semua adalah mata pelajaran 
+_wajib_ bagi semua pelajar di jaman itu. Empat Pelajaran Klasik lainnya adalah:
+
+1. Yi Jing (易經, Kitab Perubahan), yang juga sering ditulis I Ching menurut sistem romanisasi lain. Ini sering 
+   disebutkan dalam semua cerita silat.
+2. Shu Jing (書經, **Books of Documents** atau Kitab Sejarah)
+3. Li Ji (禮記, Kitab Ritual)
+4. Chun Qiu (春秋, Kitab Sejarah Musim Semi dan Musim Gugur). Ini menceritakan tentang Dinasti Zhou yang mulai
+   terpecah dalam era di mana Konfusius hidup dan berkarya.
+
+Dan Empat 'Buku' yang dimaksud adalah:
+
+1. Da Xue (Tradisional: 大學, Disederhanakan: 大学, secara literal bermakna 'Pelajaran Besar' atau *Great Learning*).
+   Pelajaran ini diambil dari sebuah bagian dalam Li Ji (Kitab Ritual), yang adalah salah satu dari Lima Pelajaran Klasik.
+2. Zhong Yong (中庸, Doctrine of Mean, atau Pengajaran Tentang Makna). Pelajaran ini adalah pusat dari doktrin 
+   Konfusianisme, atau Ajaran Konfusius.
+3. Lun Yu (论语, Analects of Confusius atau disingkat Analects, atau Pemikiran Konfusius). Pelajaran ini berisi
+   kutipan kata-kata yang pernah diucapkan oleh Konfusius semasa hidupnya.
+4. Meng Zi (孟子, atau Mencius), berisi pokok-pokok ajaran Mensius, yang sudah dianggap sebagai penerus ajaran Konfusius, 
+   dan bahkan mengembangkannya ke arah yang berbeda. Sangat berbeda dengan Lun Yu yang cukup singkat dan padat, ajaran 
+   Mensius dipenuhi dialog dan prosa yang panjang.
+
+
 <dl>
-  <dt id="meihua">Mei Hua (梅花)</dt>
-  <dd>
-      Bunga <em>prem</em>, atau Mei Hua berasal dari sebelah selatan Sungai Yangtze. Kalau sudah matang,
-      daging buahnya akan berwarna kuning, kulit buahnya yang hijau juga akan semakin menguning seiring dengan tingkat kematangannya. Terkadang ada yang bersemu merah. Tanaman ini memang dibudidayakan untuk diambil bunga dan buahnya. Di jaman modern ini kita biasa menikmatinya sebagai <em>manisan</em>, yang umumnya disertakan dalam sebuah <em>parcel</em> untuk menyambut Tahun Baru Imlek.
-  </dd>
-  <dt id="shijing">Shi Jing</dt>
-  <dd>Shi Jing (诗經) adalah buku yang berisi kumpulan sajak, syair atau puisi, yang adalah bagian dari Si Shu Wu Jing 
-  (四書五經, Empat Kitab dan Lima Pelajaran Klasik — Four Books and Five Classics). Ini semua adalah mata pelajaran 
-  <em>wajib</em> bagi semua pelajar di jaman itu. Empat Pelajaran Klasik lainnya adalah:
-    <ol>
-      <li>Yi Jing (易經, Kitab Perubahan), yang juga sering ditulis I Ching menurut sistem <em>romanisasi</em> lain. Ini sering disebutkan dalam semua cerita silat.</li>
-      <li>Shu Jing (書經, <em>Books of Documents</em> atau Kitab Sejarah)</li>
-      <li>Li Ji (禮記, Kitab Ritual)</li>
-      <li>Chun Qiu (春秋, Kitab Sejarah Musim Semi dan Musim Gugur). Ini menceritakan tentang Dinasti Zhou yang mulai
-      terpecah dalam era di mana Konfusius hidup dan berkarya.</li>
-    </ol>
-  Dan Empat 'Buku' yang dimaksud adalah:
-  <ol>
-    <li>Da Xue (Tradisional: 大學, Disederhanakan: 大学, secara literal bermakna 'Pelajaran Besar' atau *Great Learning*).
-    Pelajaran ini diambil dari sebuah bagian dalam Li Ji (Kitab Ritual), yang adalah salah satu dari Lima Pelajaran Klasik.</li>
-    <li>Zhong Yong (中庸, Doctrine of Mean, atau Pengajaran Tentang Makna). Pelajaran ini adalah <em>pusat dari doktrin Konfusianisme</em>, atau Ajaran Konfusius.</li>
-    <li>Lun Yu (论语, Analects of Confusius atau disingkat Analects, atau Pemikiran Konfusius). Pelajaran ini berisi
-    kutipan kata-kata yang pernah diucapkan oleh Konfusius semasa hidupnya.</li>
-    <li>Meng Zi (孟子, atau Mencius), berisi pokok-pokok ajaran Mensius, yang sudah dianggap sebagai penerus ajaran Konfusius, dan bahkan mengembangkannya ke arah yang berbeda. Sangat berbeda dengan Lun Yu yang cukup singkat dan padat, ajaran Mensius dipenuhi dialog dan prosa yang panjang.</li>
-  </ol>
-  </dd>
   <dt id="niubi">Niu Bi</dt>
-  <dd>Niu Bi (牛鼻), makna literalnya adalah 'Hidung Kerbau'. Sebenarnya ini adalah salah satu kata-kata kasar yang
-  dipakai untuk memaki seseorang — kira-kira setara dengan 'brengsek', 'kurang ajar', 'bajingan', dsb.
+  <dd>
+      Niu Bi (牛鼻), makna literalnya adalah 'Hidung Kerbau'. Sebenarnya ini adalah salah satu kata-kata kasar yang
+      dipakai untuk memaki seseorang — kira-kira setara dengan 'brengsek', 'kurang ajar', 'bajingan', dsb.
   </dd>
   <dt id="shazi"><strong>Sha Zi (傻子)</strong></dt>
   <dd>Secara literal berarti "Anak bodoh". Atau bahkan lebih singkat, "Bodoh!"</dd>
-  <dt d="xiaoyatou"><strong>Xiao Ya Tou (小丫头)</strong></dl>
+  <dt d="xiaoyatou"><strong>Xiao Ya Tou (小丫头)</strong></dt>
   <dd>
     Bisa diartikan "Nona Cilik". Istilah ini dipakai secara umum untuk memanggil anak perempuan. Meskipun "Ya Tou"
     sendiri juga biasa dipakai untuk memanggil seorang pelayan perempuan.
@@ -1858,8 +1865,6 @@ membuatnya sangat menghormati gadis itu. Ia tersenyum dan menghela napas.
     Zhang Zhenren. Arti literalnya tentu saja 'Orang Benar' atau 'Manusia Sejati', atau 'Orang Murni'.
   </dd>
 </dl>
-
-***
 
 
 [^qigong]: Karakter Qī (七) artinya adalah 'tujuh', sedangkan Gong (公) bermakna 'pria'. Nama Hong Qigong itu sendiri artinya secara literal adalah 'Anak ketujuh dari keluarga Hong, yang adalah seorang laki-laki'. Perhatikan bahwa ini tidak sama dengan 'Anak laki-laki ketujuh keluarga Hong'.

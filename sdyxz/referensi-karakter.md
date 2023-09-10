@@ -76,7 +76,7 @@ Tumpuk semua istilah atau karakter yang punya makna khusus di antara tag `dl` be
         <a href="https://res.cloudinary.com/drzjshskk/image/upload/v1682455881/misc/clay-figurine_dakxtt.png"
             title="Boneka tanah liat">
             <img src="https://res.cloudinary.com/drzjshskk/image/upload/v1682455881/misc/clay-figurine_dakxtt.png"
-                alt="Boneka tanah liat">
+                alt="Boneka tanah liat"/>
         </a>
         <br/>
         Sebagai catatan, karakter Da (大) berarti "Besar". Sedangkan karakter Ah (阿) adalah selipan, yang biasanya
@@ -946,7 +946,7 @@ Berbeda dengan Jian Long Zai Tian yang memakai karakter Tian (田), karakter Tia
 yang berarti 'Langit'. Dan Naga memang seharusnya berada di langit. Dengan demikian ini melambangkan bahwa Sang Kaisar
 sedang menjalankan tugasnya baik-baik, di ruang kerjanya.
 
-### <a name="zhenjing-bai-li" id="zhenjing-bai-li">Zhen Jing Bai Li (震惊百里)<a>
+### <a name="zhenjing-bai-li" id="zhenjing-bai-li">Zhen Jing Bai Li (震惊百里)</a>
 
 Salah satu dari 18 Jurus Penakluk Naga, yang bisa diterjemahkan menjadi 'Kejutan Seratus li'.
 Nama ini kelihatannya _bukan_ kutipan dari salah satu teks kuno.
@@ -967,7 +967,7 @@ Ini nama salah satu jurus dari [Kitab Sembilan Bulan](#jiu-yin-zhen-jing "Jiu Yi
 diterjemahkan menjadi 'Ular Merayap, Kucing Liar Berbalik'.
 
 
-### <a id="qingjing-wuwei" name="qingjing-wuwei">Qing Jing Wu Wei (清静无为)</dt>
+### <a id="qingjing-wuwei" name="qingjing-wuwei">Qing Jing Wu Wei (清静无为)</a>
 
 Dua karakter Wu Wei (tradisional:無爲 atau disederhanakan:无为) secara literal berarti 'Tidak melakukan apa-apa',
 sedangkan Qing Jing (清静) bermakna 'Ketenangan', juga bisa jadi dalam pengertian 'Tidak melakukan apa-apa', atau
@@ -1291,6 +1291,4 @@ great army moved farther and farther west, entering Khoresm territory with irre-
 sistible force. Muhammad’s army was bigger, but they were not the Mongolian’s army
 match. Guo Jing led his unit destroying cities and killing the enemies, he had rendered
 not a few merits.
-
-
 

@@ -1,0 +1,14 @@
+{
+    "imports": {
+        "react": "https://esm.sh/react@18.2.0",
+        "react-dom": "https://esm.sh/react-dom@18.2.0",
+        "react-dom/server": "https://esm.sh/react-dom@18.2.0/server",
+        "react-dom/client": "https://esm.sh/react-dom@18.2.0/client",
+        "react/jsx-runtime": "https://esm.sh/react@18.2.0/jsx-runtime",
+        "mdx-js/mdx": "https://esm.sh/@mdx-js/mdx@2.3.0",
+        "mdx-js/esbuild": "https://esm.sh/@mdx-js/esbuild@2.3.0",
+        "remark-gfm": "https://esm.sh/remark-gfm@3.0.1",
+        "rehype-highlight": "https://esm.sh/rehype-highlight@6.0.0",
+        "esbuild": "https://deno.land/x/esbuild@v0.19.0/mod.js"
+    }
+}
