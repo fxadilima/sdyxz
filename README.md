@@ -1,13 +1,12 @@
 # About
 
-Preserving all GitHub specific and stay away as far as we can from using
-external styles. This branch is dedicated for GitHub viewer.
+These contents are actually the same as [Memanah Rajawali](https://github.com/fxadilima/memanah-rajawali),
+but has been modified, so that it can be deployed statically with Deno Deploy.
 
-Instead of using fancy _buttons_ and _bars_, we should try to use simple
-menus, and load the documents directly using simple links. If we need to
-beautify the text, then use _unicode_ or _emoji_ symbols.
+To convert the _markdown_ documents, we need to run [simple build script](tests/build.tsx) with Deno.
 
-|  Prolog  |  Chapters  |
-|  :---:   |    :---:   |
-| [:house:](sdyxz/intro.md)  | [:one:](sdyxz/bab1.md) [:two:](sdyxz/bab2.md) [:three:](sdyxz/bab3.md) |
+The simple server only expect requests for `.md` or `.mdx` documents, and will look for `.md.html` inside
+known location.
+
+There's no error handling for the moment, in case it could not find it.
 
