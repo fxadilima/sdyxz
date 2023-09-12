@@ -1,0 +1,31 @@
+{
+  "name": "sdyxz",
+  "type": "module",
+  "version": "2.0.0",
+  "description": "sdyxz on deno",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxadilima/sdyxz.git"
+  },
+  "keywords": [
+    "novel",
+    "astro",
+    "sdyxz"
+  ],
+  "author": "FX. Adi Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fxadilima/sdyxz/issues"
+  },
+  "dependencies": {
+    "astro": "^3.0.12"
+  },
+  "homepage": "https://github.com/fxadilima/sdyxz#readme"
+}

@@ -1,4 +1,15 @@
+---
+title: Memanah Rajawali - Intro
+author: FX. Adi Lima
+description: Prolog untuk novel Memanah Rajawali
+---
+
 # Intro
+
+<div class="w3-bar w3-round w3-border">
+    <a class="w3-bar-item w3-btn w3-hover-black w3-round" href="/"><i class="fa fa-home"></i> Home</a>
+    <a class="w3-bar-item w3-btn w3-hover-black w3-round" href="/bab1">Bab 1</a>
+</div>
 
 She Diao Ying Xiong Zhuan (射鵰英雄傳), atau judul yang lebih populer dalam
 bahasa Inggris adalah **The Legend of The Condor Heroes**, adalah novel laris
@@ -15,7 +26,7 @@ Pada saat itu wilayah padang rumput di bagian Utara Tiongkok terbagi menjadi
 beberapa konfederasi dari suku-suku nomad seperti Naiman, Khamag Mongol, Merkit,
 Keraite, dan juga Tatar. Sedangkan di sebelah Selatan, Dinasti Song sendiri
 mulai dari tahun 1184 sudah kehilangan kendali atas wilayah Utara mereka, yang jatuh
-ke tangan suku Jurchen[^nuzhen], yang akhirnya mendirikan Dinasti Jin[^1].
+ke tangan suku Jurchen[^nuzhen], yang akhirnya mendirikan Dinasti Jin[^dinasti-jin].
 
 Dalam perkembangan nama Jurchen ini nantinya akan berganti menjadi Manchu.
 
@@ -193,10 +204,10 @@ maka nama tersebut mendapat romanisasi menjadi Huang Chang.
 
 — FX. Adi Lima
 
-[^1]: Istilah Dinasti Jin di sini berbeda dengan Dinasti Jin yang mengacu ke sebuah
+[^dinasti-jin]: Istilah Dinasti Jin di sini berbeda dengan Dinasti Jin yang mengacu ke sebuah
   Kekaisaran setelah Dinasti Han ambruk, yang dipimpin oleh cucu dari Sima Yi, yaitu Sima Yan.
 
-[^2]: Di kemudian hari nama ibukota ini diganti menjadi Kaifeng, sampai sekarang.
+[^bianjing]: Di kemudian hari nama ibukota ini diganti menjadi Kaifeng, sampai sekarang.
 
 [^kebijakan-sosial]: 
     **Kebijakan sosial** ala Wanyan Liang ini nantinya akan kembali diadopsi oleh suku

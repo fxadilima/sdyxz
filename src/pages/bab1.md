@@ -1,8 +1,33 @@
+---
+layout: ../layouts/Books.astro
+title: Memanah Rajawali - Bab 1
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 1
+---
+
 # Bab 1
 
-|             |                    |
-|    :---:    | :---               |
-| ![Insiden Di Tengah Badai Salju](https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg) | _Akhirnya si pendeta tertawa, mendadak telapak kanannya menghantam pegangan tombak dengan kecepatan seperti angin. Yang Tiexin merasa pangkal jempol dan telunjuknya mati rasa, dan dengan segera ia melepaskan tombak ke tanah yang diselimuti salju._ |
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/e_contrast:85,q_auto:best/v1676662508/sdyxz/originals/ch01_qqa6or.jpg" alt="Gambar Ilustrasi Bab 1" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Akhirnya si pendeta tertawa, mendadak telapak kanannya menghantam pegangan tombak dengan kecepatan 
+                seperti angin. Yang Tiexin merasa pangkal jempol dan telunjuknya mati rasa, dan dengan segera ia 
+                melepaskan tombak ke tanah yang diselimuti salju.
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Home</a>
+                <a href="/bab2" class="w3-bar-item w3-btn w3-hover-black w3-round">Bab 2 <i class="fa fa-arrow-right"></i></a>
+            </div>
+        </div>
+    </div>
+</div>
+
+***
 
 ## Insiden Di Tengah Badai Salju
 

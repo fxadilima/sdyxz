@@ -1,6 +1,7 @@
 # build output
 dist/
-.output/
+# generated types
+.astro/
 
 # dependencies
 node_modules/
@@ -18,16 +19,3 @@ pnpm-debug.log*
 
 # macOS-specific files
 .DS_Store
-
-# Windows
-*.exe
-*.dll
-*.bin
-*.dat
-*.pak
-*.url
-# belong to local NW.js
-swiftshader/
-locales/
-vk_swiftshader_icd.json
-credits.html

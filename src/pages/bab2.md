@@ -1,8 +1,32 @@
+---
+layout: ../layouts/Books.astro
+title: Memanah Rajawali - Bab 2
+author: FX. Adi Lima
+description: Cerita silat Memanah Burung Rajawali, Bab 2
+---
+
 # Bab 2
 
-| Ilustrasi | Narasi |
-|   :---:   | :---   |
-| ![Ilustrasi Bab 2](https://res.cloudinary.com/drzjshskk/image/upload/q_auto:best/v1676666031/sdyxz/originals/ch02_hrww24.jpg) | _Tubuh Han Baoju sebetulnya berada di perut kuda, dengan kaki kirinya di pedal, dan kaki kanan bersama dengan kedua tangannya memegang tong, menjaga keseimbangannya di atas pelana. Kuda itu sangat cepat dan stabil, seolah-olah tangga itu hanya sebidang tanah datar._     |
+<div class="w3-row-padding">
+    <div class="w3-col w3-card-4 s12 m4 l4">
+        <img src="https://res.cloudinary.com/drzjshskk/image/upload/q_auto:best/v1676666031/sdyxz/originals/ch02_hrww24.jpg" alt="Gambar Ilustrasi Bab 2" width="100%" />
+    </div>
+    <div class="w3-col s12 m8 l8">
+        <div class="w3-container">
+            <h3>Ilustrasi</h3>
+            <p>
+                Tubuh Han Baoju sebetulnya berada di perut kuda, dengan kaki kirinya di pedal, dan kaki kanan bersama 
+                dengan kedua tangannya memegang tong, menjaga keseimbangannya di atas pelana. Kuda itu sangat cepat 
+                dan stabil, seolah-olah tangga itu hanya sebidang tanah datar.an telunjuknya mati rasa, dan dengan 
+                segera ia melepaskan tombak ke tanah yang diselimuti salju.
+            </p>
+            <div class="w3-bar w3-border">
+                <a href="/" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-home"></i> Home</a>
+                <a href="/bab1" class="w3-bar-item w3-btn w3-hover-black w3-round"><i class="fa fa-arrow-left"></i> Bab 1</a>
+            </div>
+        </div>
+    </div>
+</div>
 
 ## Tujuh Orang Aneh Dari Jiangnan
 
