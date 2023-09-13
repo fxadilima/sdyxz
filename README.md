@@ -10,5 +10,5 @@ known location.
 
 There's no error handling for the moment, in case it could not find it.
 
-It is [online](https://sdyxz.deno.dev/intro.md) now.
+It is [online](https://sdyxz.deno.dev) now.
 
